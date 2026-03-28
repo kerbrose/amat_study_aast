@@ -5145,7 +5145,7 @@ The trapezoid shown in the figure above represents a cross section of the rudder
 
 ----
 
-117- ![grap](./img_ps_q117_graph.png)
+117- ![grap](./img_ps_q118_graph.png)
 
 <br />
 In the figure above, $V$ represents an observation point at one end of a pool. From $V$, an object that is actually located on the bottorm of the pool at point $R$ appears to be at point $S$. If $VR = 10 feet$, What is the distance $RS$, in feet, between the actual position and the percerved position of the object?
