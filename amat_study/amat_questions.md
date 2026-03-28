@@ -4688,7 +4688,7 @@ Of the five coordinates associated with points $A$, $8$, $C$, $D$, and $E$ on th
 
 ----
 
-75- ![coordinates](./img_ps_q75_coordinates.png)
+75- ![coordinates](./img_ps_q76_coordinates.png)
 <br />
 In the rectangular coordinate system above, the area of $\triangleRST$ is
 
