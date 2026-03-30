@@ -34,7 +34,7 @@
 <body>
   <div class="container-md">
 
-    <div class="w-100">
+    <div class="w-100 start-about">
       <div class="d-flex justify-content-center">
         <h1>﷽</h1>
       </div>
@@ -13291,6 +13291,8 @@
   function hideStartingButton() {
     const startingButton = document.querySelector('.starting-button');
     startingButton.classList.add('d-none');
+    const startAbout = document.querySelector('.start-about');
+    startAbout.classList.add('d-none');
   }
 
   function showPaginationButton() {
