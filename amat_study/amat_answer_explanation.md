@@ -7,13 +7,11 @@ We are given two statements:
 1. $(z + w^3 = 20)$  
 2. $(z > 0)$
 
----
+
 
 ### Step 1: Consider Statement (1) Alone
 From (1):  
-$[
-z = 20 - w^3
-]$
+$[ z = 20 - w^3]$
 
 This equation links $(z)$ and $(w)$, but it doesn’t tell us the sign of either variable individually.  
 - If $(w = 2)$, then $(z = 20 - 8 = 12)$, so $(zw = 24 > 0)$.  
@@ -21,7 +19,7 @@ This equation links $(z)$ and $(w)$, but it doesn’t tell us the sign of either
 
 Thus, **Statement (1) alone is insufficient**.
 
----
+
 
 ### Step 2: Consider Statement (2) Alone
 Statement (2) says $(z > 0)$.  
@@ -31,16 +29,14 @@ But we know nothing about $(w)$.
 
 So **Statement (2) alone is insufficient**.
 
----
+
 
 ### Step 3: Combine Statements (1) and (2)
 From (1): $(z = 20 - w^3)$.  
 From (2): $(z > 0)$.  
 
 So:
-$[
-20 - w^3 > 0 \quad \Rightarrow \quad w^3 < 20
-]$
+$[ 20 - w^3 > 0 \quad \Rightarrow \quad w^3 < 20 ]$
 
 This means $(w < \sqrt[3]{20} \approx 2.71)$.  
 But $(w)$ could still be positive or negative.  
@@ -49,7 +45,7 @@ But $(w)$ could still be positive or negative.
 
 Even with both statements, we cannot determine the sign of $(zw)$.
 
----
+
 
 ### Final Answer
 The information given is **insufficient** to determine whether $(zw)$ is positive.  
