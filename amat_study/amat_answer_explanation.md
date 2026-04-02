@@ -59,7 +59,7 @@ The information given is **insufficient** to determine whether $(zw)$ is positiv
 We know the ratio of Brand Y to Brand X computers is $(5:6)$.  
 We want to find the **number of Brand Y computers**.
 
----
+
 
 ### Step 1: Express the Ratio
 Let:
@@ -68,7 +68,7 @@ Let:
 
 for some positive integer $(k)$.
 
----
+
 
 ### Step 2: Analyze Statement (1)
 Statement (1): Brand X computers exceed Brand Y computers by 80.  
@@ -79,7 +79,7 @@ So Brand Y computers = $(5k = 400)$.
 
 ✅ Statement (1) alone is **sufficient**.
 
----
+
 
 ### Step 3: Analyze Statement (2)
 Statement (2): Total computers = 880.  
@@ -90,12 +90,12 @@ So Brand Y computers = $(5k = 400)$.
 
 ✅ Statement (2) alone is **sufficient**.
 
----
+
 
 ### Step 4: Combine Statements
 Since each statement alone is sufficient, combining them is unnecessary.
 
----
+
 
 ### Final Answer
 Each statement alone is sufficient.  
