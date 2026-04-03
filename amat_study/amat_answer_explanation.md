@@ -197,7 +197,7 @@ $[
 
 We want the price per share.
 
----
+
 
 ### Step 1: Analyze Statement (1)
 If the price per share had been $1 more, the total price would have been $300 more.
@@ -228,7 +228,7 @@ p = \frac{12{,}000}{300} = 40
 
 ✅ Statement (1) alone is **sufficient**.
 
----
+
 
 ### Step 2: Analyze Statement (2)
 If the price per share had been $2 less, the total price would have been 5% less.
@@ -258,12 +258,12 @@ p = \frac{12{,}000}{300} = 40
 
 ✅ Statement (2) alone is **sufficient**.
 
----
+
 
 ### Step 3: Combine Statements
 Each statement alone already gives the answer, so combining is unnecessary.
 
----
+
 
 ### Final Answer
 Correct choice: **D** (Each statement alone is sufficient).
@@ -278,7 +278,7 @@ Total cost of the dinner = ?
 It was shared equally by $(k)$ of the $(n)$ employees.  
 We want the **total cost**.
 
----
+
 
 ### Step 1: Analyze Statement (1)
 Each of the $(k)$ employees paid $19.  
@@ -291,7 +291,7 @@ $[
 But we don’t know $k$.  
 ❌ Statement (1) alone is **insufficient**.
 
----
+
 
 ### Step 2: Analyze Statement (2)
 If the cost had been shared by $(k+1)$ employees, each would have paid $18.  
@@ -304,7 +304,7 @@ $[
 But we don’t know $k$.  
 ❌ Statement (2) alone is **insufficient**.
 
----
+
 
 ### Step 3: Combine Statements (1) and (2)
 From (1):  
@@ -335,7 +335,7 @@ $[
 
 ✅ Together, the statements are **sufficient**.
 
----
+
 
 ### Final Answer
 Correct choice: **C** (Both statements together are sufficient, but neither alone is sufficient).
@@ -343,7 +343,7 @@ Correct choice: **C** (Both statements together are sufficient, but neither alon
 ---
 
 
-Q6
+## Q6
 
 ### Problem Restatement
 We want the value of $(y)$, given that $(x)$ and $(y)$ are integers.
