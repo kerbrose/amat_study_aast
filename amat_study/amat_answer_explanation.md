@@ -114,7 +114,7 @@ $[
 x + y
 ]$
 
----
+
 
 ### Step 1: Analyze Statement (1)
 Beth saves $5 more than Ann:  
@@ -130,7 +130,7 @@ x + y = x + (x+5) = 2x + 5
 We don’t know $(x)$.  
 ❌ Statement (1) alone is **insufficient**.
 
----
+
 
 ### Step 2: Analyze Statement (2)
 Ann saves in 6 weeks what Beth saves in 5 weeks:  
@@ -146,7 +146,7 @@ x + y = x + \tfrac{6}{5}x = \tfrac{11}{5}x
 We don’t know $(x)$.  
 ❌ Statement (2) alone is **insufficient**.
 
----
+
 
 ### Step 3: Combine Statements (1) and (2)
 From (1): $(y = x + 5)$.  
@@ -174,7 +174,7 @@ x + y = 25 + 30 = 55
 
 ✅ Together, the statements are **sufficient**.
 
----
+
 
 ### Final Answer
 Correct choice: **C** (Both statements together are sufficient, but neither alone is sufficient).
