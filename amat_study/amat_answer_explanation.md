@@ -7,13 +7,11 @@ We are given two statements:
 1. $(z + w^3 = 20)$  
 2. $(z > 0)$
 
----
+
 
 ### Step 1: Consider Statement (1) Alone
 From (1):  
-$[
-z = 20 - w^3
-]$
+$[ z = 20 - w^3]$
 
 This equation links $(z)$ and $(w)$, but it doesn’t tell us the sign of either variable individually.  
 - If $(w = 2)$, then $(z = 20 - 8 = 12)$, so $(zw = 24 > 0)$.  
@@ -21,7 +19,7 @@ This equation links $(z)$ and $(w)$, but it doesn’t tell us the sign of either
 
 Thus, **Statement (1) alone is insufficient**.
 
----
+
 
 ### Step 2: Consider Statement (2) Alone
 Statement (2) says $(z > 0)$.  
@@ -31,16 +29,14 @@ But we know nothing about $(w)$.
 
 So **Statement (2) alone is insufficient**.
 
----
+
 
 ### Step 3: Combine Statements (1) and (2)
 From (1): $(z = 20 - w^3)$.  
 From (2): $(z > 0)$.  
 
 So:
-$[
-20 - w^3 > 0 \quad \Rightarrow \quad w^3 < 20
-]$
+$[ 20 - w^3 > 0 \quad \Rightarrow \quad w^3 < 20 ]$
 
 This means $(w < \sqrt[3]{20} \approx 2.71)$.  
 But $(w)$ could still be positive or negative.  
@@ -49,7 +45,7 @@ But $(w)$ could still be positive or negative.
 
 Even with both statements, we cannot determine the sign of $(zw)$.
 
----
+
 
 ### Final Answer
 The information given is **insufficient** to determine whether $(zw)$ is positive.  
@@ -63,7 +59,7 @@ The information given is **insufficient** to determine whether $(zw)$ is positiv
 We know the ratio of Brand Y to Brand X computers is $(5:6)$.  
 We want to find the **number of Brand Y computers**.
 
----
+
 
 ### Step 1: Express the Ratio
 Let:
@@ -72,7 +68,7 @@ Let:
 
 for some positive integer $(k)$.
 
----
+
 
 ### Step 2: Analyze Statement (1)
 Statement (1): Brand X computers exceed Brand Y computers by 80.  
@@ -83,7 +79,7 @@ So Brand Y computers = $(5k = 400)$.
 
 ✅ Statement (1) alone is **sufficient**.
 
----
+
 
 ### Step 3: Analyze Statement (2)
 Statement (2): Total computers = 880.  
@@ -94,12 +90,12 @@ So Brand Y computers = $(5k = 400)$.
 
 ✅ Statement (2) alone is **sufficient**.
 
----
+
 
 ### Step 4: Combine Statements
 Since each statement alone is sufficient, combining them is unnecessary.
 
----
+
 
 ### Final Answer
 Each statement alone is sufficient.  
@@ -118,7 +114,7 @@ $[
 x + y
 ]$
 
----
+
 
 ### Step 1: Analyze Statement (1)
 Beth saves $5 more than Ann:  
@@ -134,7 +130,7 @@ x + y = x + (x+5) = 2x + 5
 We don’t know $(x)$.  
 ❌ Statement (1) alone is **insufficient**.
 
----
+
 
 ### Step 2: Analyze Statement (2)
 Ann saves in 6 weeks what Beth saves in 5 weeks:  
@@ -150,7 +146,7 @@ x + y = x + \tfrac{6}{5}x = \tfrac{11}{5}x
 We don’t know $(x)$.  
 ❌ Statement (2) alone is **insufficient**.
 
----
+
 
 ### Step 3: Combine Statements (1) and (2)
 From (1): $(y = x + 5)$.  
@@ -178,7 +174,7 @@ x + y = 25 + 30 = 55
 
 ✅ Together, the statements are **sufficient**.
 
----
+
 
 ### Final Answer
 Correct choice: **C** (Both statements together are sufficient, but neither alone is sufficient).
@@ -201,7 +197,7 @@ $[
 
 We want the price per share.
 
----
+
 
 ### Step 1: Analyze Statement (1)
 If the price per share had been $1 more, the total price would have been $300 more.
@@ -232,7 +228,7 @@ p = \frac{12{,}000}{300} = 40
 
 ✅ Statement (1) alone is **sufficient**.
 
----
+
 
 ### Step 2: Analyze Statement (2)
 If the price per share had been $2 less, the total price would have been 5% less.
@@ -262,12 +258,12 @@ p = \frac{12{,}000}{300} = 40
 
 ✅ Statement (2) alone is **sufficient**.
 
----
+
 
 ### Step 3: Combine Statements
 Each statement alone already gives the answer, so combining is unnecessary.
 
----
+
 
 ### Final Answer
 Correct choice: **D** (Each statement alone is sufficient).
@@ -282,7 +278,7 @@ Total cost of the dinner = ?
 It was shared equally by $(k)$ of the $(n)$ employees.  
 We want the **total cost**.
 
----
+
 
 ### Step 1: Analyze Statement (1)
 Each of the $(k)$ employees paid $19.  
@@ -295,7 +291,7 @@ $[
 But we don’t know $k$.  
 ❌ Statement (1) alone is **insufficient**.
 
----
+
 
 ### Step 2: Analyze Statement (2)
 If the cost had been shared by $(k+1)$ employees, each would have paid $18.  
@@ -308,7 +304,7 @@ $[
 But we don’t know $k$.  
 ❌ Statement (2) alone is **insufficient**.
 
----
+
 
 ### Step 3: Combine Statements (1) and (2)
 From (1):  
@@ -339,7 +335,7 @@ $[
 
 ✅ Together, the statements are **sufficient**.
 
----
+
 
 ### Final Answer
 Correct choice: **C** (Both statements together are sufficient, but neither alone is sufficient).
@@ -347,7 +343,7 @@ Correct choice: **C** (Both statements together are sufficient, but neither alon
 ---
 
 
-Q6
+## Q6
 
 ### Problem Restatement
 We want the value of $(y)$, given that $(x)$ and $(y)$ are integers.
