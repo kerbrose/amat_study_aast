@@ -640,7 +640,6 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 - So yes, $(z = 18)$.  
 - **Together, sufficient.**
 
----
 
 ### Correct Answer Choice:  
 **(C)** — Both statements together are sufficient, but neither alone is sufficient.  
@@ -666,7 +665,7 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 - Without knowing sales revenue, we cannot calculate the total.  
 - **Still insufficient.**
 
----
+
 
 ### Correct Answer Choice:  
 **(E)** — Statements (1) and (2) together are not sufficient.  
