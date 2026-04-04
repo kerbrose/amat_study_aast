@@ -403,7 +403,7 @@ $[
 \frac{x+y}{2}
 ]$
 
----
+
 
 ### Step 1: Statement (1) Alone
 The average of $(x)$ and $(2y)$ is 10:  
@@ -415,7 +415,7 @@ This is one equation with two unknowns.
 We cannot determine $(\frac{x+y}{2})$ uniquely.  
 ❌ Statement (1) alone is **insufficient**.
 
----
+
 
 ### Step 2: Statement (2) Alone
 The average of $(2x)$ and $(7y)$ is 32:  
@@ -427,7 +427,7 @@ This is also one equation with two unknowns.
 We cannot determine $(\frac{x+y}{2})$ uniquely.  
 ❌ Statement (2) alone is **insufficient**.
 
----
+
 
 ### Step 3: Combine Statements (1) and (2)
 We now have a system of equations:
@@ -463,7 +463,7 @@ $[
 
 ✅ Together, the statements are **sufficient**.
 
----
+
 
 ### Final Answer
 Correct choice: **C** (Both statements together are sufficient, but neither alone is sufficient).
