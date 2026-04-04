@@ -545,7 +545,6 @@ Even together, the statements are **not sufficient** to determine the sum of the
 - So combining is unnecessary.
 
 
-
 ### Correct Answer Choice:
 **(D)** — Each statement alone is sufficient.  
 
@@ -598,7 +597,7 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 - Divisors are: $(1, p, q, pq)$.  
 - **Sufficient.**
 
----
+
 
 ### Statement (2)  
 - $(n)$ and $(2^3 = 8)$ are each divisible by the same number of positive integers.  
@@ -611,13 +610,11 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 - The question asks: “How many positive integers divide $(n)$?” → Answer is 4.  
 - **Sufficient.**
 
----
 
 ### Combining  
 - Each statement alone already determines the answer (4 divisors).  
 - So combining is unnecessary.
 
----
 
 ### Correct Answer Choice:  
 **(D)** — Each statement alone is sufficient.  
