@@ -544,7 +544,7 @@ Even together, the statements are **not sufficient** to determine the sum of the
 - Each statement alone already determines $(N = 102)$.  
 - So combining is unnecessary.
 
----
+
 
 ### Correct Answer Choice:
 **(D)** — Each statement alone is sufficient.  
