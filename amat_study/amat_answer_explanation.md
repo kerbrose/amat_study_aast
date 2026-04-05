@@ -545,7 +545,6 @@ Even together, the statements are **not sufficient** to determine the sum of the
 - So combining is unnecessary.
 
 
-
 ### Correct Answer Choice:
 **(D)** — Each statement alone is sufficient.  
 
@@ -553,35 +552,37 @@ Even together, the statements are **not sufficient** to determine the sum of the
 
 ## Q11
 
-### Statement (1): $(a < c < e)$  
-- This only gives us a partial ordering among three of the numbers.  
-- We don’t know where $(b)$ and $(d)$ fit relative to them.  
-- So we cannot determine whether $(d)$ is the median.  
+
+
+### Statement (1): $a < c < e$
+- Only gives partial order among $a$, $c$, $e$.
+- No info about $b$ or $d$.
+- Median could be $d$ or not.
 - **Insufficient.**
 
-### Statement (2): $(b < d < c)$  
-- This gives us a partial ordering among three numbers.  
-- But again, we don’t know where $(a)$ and $(e)$ fit.  
-- So we cannot determine whether $(d)$ is the median.  
+
+
+### Statement (2): $b < d < c$
+- Places $d$ between $b$ and $c$.
+- But $a$ and $e$ are unconstrained.
+- Median could be $d$ or not.
 - **Insufficient.**
 
-### Combining (1) and (2)  
-- From (1): $(a < c < e)$.  
-- From (2): $(b < d < c)$.  
-- Together we know: $(a < c < e)$ and $(b < d < c)$.  
-- So the combined order is: $(a, b, d, c, e)$ (with some flexibility between $(a)$ and $(b)$, since we don’t know which is smaller).  
 
-Now, the median of five numbers is the third number when arranged in ascending order.  
-- If $(a < b)$, the order is $(a, b, d, c, e)$. Median = $(d)$.  
-- If $(b < a)$, the order is $(b, a, d, c, e)$. Median = $(d)$.  
 
-In both cases, the median is indeed $(d)$.  
-- **Together, sufficient.**
-
----
+### Statements (1) + (2) together
+- We know: $a < c < e$ and $b < d < c$.
+- So $d < c$, $a < c$, and $b < d$.
+- But we still don’t know:
+  - Whether $a < b$ or $b < a$.
+  - Whether $e$ is greater or smaller than $d$.
+- Different orderings are possible, so sometimes the median is $d$, sometimes not.
+- **Still insufficient.**
 
 ### Correct Answer Choice:
-**(C)** — Both statements together are sufficient, but neither alone is sufficient.  
+The correct choice is **(E)**: *Statements (1) and (2) together are not sufficient to answer the question.*
+
+
 
 ---
 
@@ -596,7 +597,7 @@ In both cases, the median is indeed $(d)$.
 - Divisors are: $(1, p, q, pq)$.  
 - **Sufficient.**
 
----
+
 
 ### Statement (2)  
 - $(n)$ and $(2^3 = 8)$ are each divisible by the same number of positive integers.  
@@ -609,13 +610,11 @@ In both cases, the median is indeed $(d)$.
 - The question asks: “How many positive integers divide $(n)$?” → Answer is 4.  
 - **Sufficient.**
 
----
 
 ### Combining  
 - Each statement alone already determines the answer (4 divisors).  
 - So combining is unnecessary.
 
----
 
 ### Correct Answer Choice:  
 **(D)** — Each statement alone is sufficient.  
@@ -641,7 +640,6 @@ In both cases, the median is indeed $(d)$.
 - So yes, $(z = 18)$.  
 - **Together, sufficient.**
 
----
 
 ### Correct Answer Choice:  
 **(C)** — Both statements together are sufficient, but neither alone is sufficient.  
@@ -667,7 +665,7 @@ In both cases, the median is indeed $(d)$.
 - Without knowing sales revenue, we cannot calculate the total.  
 - **Still insufficient.**
 
----
+
 
 ### Correct Answer Choice:  
 **(E)** — Statements (1) and (2) together are not sufficient.  
