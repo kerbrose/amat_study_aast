@@ -601,7 +601,7 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 
 ### Statement (2)  
 - $(n)$ and $(2^3 = 8)$ are each divisible by the same number of positive integers.  
-- The number of divisors of 8 is 4 (since $(8 = 2^3)$, divisors count = $(3+1 = 4)$).  
+- The number of divisors of 8 is 4, since $(8 = 2^3)$, divisors count = $(3+1 = 4)$.  
 - So $(n)$ also has 4 divisors.  
 - The only integers with exactly 4 divisors are:  
   - The cube of a prime $(p^3)$, divisors: $(1, p, p^2, p^3)$.  
@@ -784,21 +784,21 @@ $[m = \frac{4(2)}{5d} = \frac{8}{5d}]$
 
 We want: **the value of $(2x - y)$.**
 
----
+
 
 ### Statement (1): $(x + y = 12)$  
 - This gives a relationship between $(x)$ and $(y)$.  
 - But we cannot directly determine $(2x - y)$.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2): $(x - y = 4)$  
 - This gives another relationship between $(x)$ and $(y)$.  
 - But again, not enough to determine $(2x - y)$.  
 - **Insufficient.**
 
----
+
 
 ### Combining (1) and (2)  
 We have the system:  
@@ -816,7 +816,7 @@ $[2x - y = 2(8) - 4 = 16 - 4 = 12]$
 So the value is uniquely determined: $(2x - y = 12)$.  
 - **Together, sufficient.**
 
----
+
 
 ### Correct Answer Choice:  
 **(C)** — Both statements together are sufficient, but neither alone is sufficient.  
