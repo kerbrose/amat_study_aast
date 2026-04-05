@@ -746,7 +746,6 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 
 We’re asked: **What is the value of $(m)$ if $(m = \frac{4c}{5d})$ and $(d \neq 0)$?**
 
----
 
 ### Statement (1): $c = 10d$  
 - Substitute into $(m = \frac{4c}{5d})$:  
@@ -754,7 +753,7 @@ We’re asked: **What is the value of $(m)$ if $(m = \frac{4c}{5d})$ and $(d \ne
 - This gives a unique value for $(m)$.  
 - **Sufficient.**
 
----
+
 
 ### Statement (2): $(c = 2)$  
 - Substitute into $(m = \frac{4c}{5d})$:  
@@ -762,7 +761,7 @@ $[m = \frac{4(2)}{5d} = \frac{8}{5d}]$
 - Since $(d)$ is not specified (only that $d \neq 0$), $(m)$ cannot be uniquely determined.  
 - **Insufficient.**
 
----
+
 
 ### Combining (1) and (2)  
 - From (2): $(c = 2)$.  
@@ -773,7 +772,7 @@ $[m = \frac{4(2)}{5d} = \frac{8}{5d}]$
 - Either way, the two statements together force $(m = 8)$.  
 - **Sufficient.**
 
----
+
 
 ### Correct Answer Choice:  
 **(A)** — Statement (1) alone is sufficient, but statement (2) alone is not.  
