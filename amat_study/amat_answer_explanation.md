@@ -719,7 +719,7 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 - Clearly, $(V_A > V_B)$.  
 - **Sufficient.**
 
----
+
 
 ### Statement (2)  
 - The volume of cube $(B)$ is 62.5% of the volume of cube $(A)$.  
@@ -728,13 +728,13 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 - Again, $(V_A > V_B)$.  
 - **Sufficient.**
 
----
+
 
 ### Combining  
 - Each statement alone already determines that cube $(A)$’s volume is greater.  
 - So combining is unnecessary.
 
----
+
 
 ### Correct Answer Choice:  
 **(D)** — Each statement alone is sufficient.  
