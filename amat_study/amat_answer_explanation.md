@@ -348,7 +348,7 @@ Correct choice: **C** (Both statements together are sufficient, but neither alon
 ### Problem Restatement
 We want the value of $(y)$, given that $(x)$ and $(y)$ are integers.
 
----
+
 
 ### Step 1: Statement (1) Alone
 $[
@@ -361,7 +361,7 @@ $((x,y) = (1,27), (27,1), (3,9), (9,3), (-1,-27), (-27,-1), (-3,-9), (-9,-3))$.
 So $(y)$ could be many values.  
 ❌ Statement (1) alone is **insufficient**.
 
----
+
 
 ### Step 2: Statement (2) Alone
 $[
@@ -371,7 +371,7 @@ x = y^2
 This only relates $(x)$ and $(y)$. But without more information, $(y)$ could be many integers (positive or negative).  
 ❌ Statement (2) alone is **insufficient**.
 
----
+
 
 ### Step 3: Combine Statements (1) and (2)
 From (2): $(x = y^2)$.  
@@ -387,7 +387,7 @@ y = 3
 
 ✅ Together, the statements are **sufficient**.
 
----
+
 
 ### Final Answer
 Correct choice: **C** (Both statements together are sufficient, but neither alone is sufficient).
@@ -403,7 +403,7 @@ $[
 \frac{x+y}{2}
 ]$
 
----
+
 
 ### Step 1: Statement (1) Alone
 The average of $(x)$ and $(2y)$ is 10:  
@@ -415,7 +415,7 @@ This is one equation with two unknowns.
 We cannot determine $(\frac{x+y}{2})$ uniquely.  
 ❌ Statement (1) alone is **insufficient**.
 
----
+
 
 ### Step 2: Statement (2) Alone
 The average of $(2x)$ and $(7y)$ is 32:  
@@ -427,7 +427,7 @@ This is also one equation with two unknowns.
 We cannot determine $(\frac{x+y}{2})$ uniquely.  
 ❌ Statement (2) alone is **insufficient**.
 
----
+
 
 ### Step 3: Combine Statements (1) and (2)
 We now have a system of equations:
@@ -463,7 +463,7 @@ $[
 
 ✅ Together, the statements are **sufficient**.
 
----
+
 
 ### Final Answer
 Correct choice: **C** (Both statements together are sufficient, but neither alone is sufficient).
@@ -544,7 +544,7 @@ Even together, the statements are **not sufficient** to determine the sum of the
 - Each statement alone already determines $(N = 102)$.  
 - So combining is unnecessary.
 
----
+
 
 ### Correct Answer Choice:
 **(D)** — Each statement alone is sufficient.  
