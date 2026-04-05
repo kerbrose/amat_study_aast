@@ -684,7 +684,7 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 - Sum = $(11 + 12 + 13 + 14 + 15 = 65)$.  
 - **Sufficient.**
 
----
+
 
 ### Statement (2)  
 - The sum of the even integers in $(S)$ is 26.  
@@ -697,13 +697,13 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 - Sum = 65.  
 - **Sufficient.**
 
----
+
 
 ### Combining  
 - Each statement alone already determines the sum.  
 - So combining is unnecessary.
 
----
+
 
 ### Correct Answer Choice:  
 **(D)** — Each statement alone is sufficient.  
