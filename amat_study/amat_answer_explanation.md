@@ -784,21 +784,21 @@ $[m = \frac{4(2)}{5d} = \frac{8}{5d}]$
 
 We want: **the value of $(2x - y)$.**
 
----
+
 
 ### Statement (1): $(x + y = 12)$  
 - This gives a relationship between $(x)$ and $(y)$.  
 - But we cannot directly determine $(2x - y)$.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2): $(x - y = 4)$  
 - This gives another relationship between $(x)$ and $(y)$.  
 - But again, not enough to determine $(2x - y)$.  
 - **Insufficient.**
 
----
+
 
 ### Combining (1) and (2)  
 We have the system:  
@@ -816,7 +816,7 @@ $[2x - y = 2(8) - 4 = 16 - 4 = 12]$
 So the value is uniquely determined: $(2x - y = 12)$.  
 - **Together, sufficient.**
 
----
+
 
 ### Correct Answer Choice:  
 **(C)** — Both statements together are sufficient, but neither alone is sufficient.  
