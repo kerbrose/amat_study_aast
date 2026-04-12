@@ -955,7 +955,6 @@ So combining is unnecessary.
 
 We want: **the value of $(x-y)^2$ given $x^2 + y^2 = 29$.**
 
----
 
 ### Statement (1): $xy = 10$  
 We know:  
@@ -965,7 +964,6 @@ $(x-y)^2 = 29 - 2(10) = 29 - 20 = 9$
 So $(x-y)^2 = 9$.  
 **Sufficient.**
 
----
 
 ### Statement (2): $x = 5$  
 Substitute into $x^2 + y^2 = 29$:  
@@ -976,14 +974,12 @@ Now compute:
 Two possible values.  
 **Insufficient.**
 
----
 
 ### Combining  
 Statement (1) alone already gives a unique value.  
 Statement (2) alone does not.  
 So combining is unnecessary.
 
----
 
 ### Correct Answer Choice:  
 **(A)** — Statement (1) alone is sufficient, but statement (2) alone is not.  
