@@ -1021,7 +1021,6 @@ We’re asked: **Is $2x > 2y$?**
 
 We’re asked: **What is their combined monthly salary?**
 
----
 
 ### Statement (1): Rita’s monthly salary = \$4,000  
 - Given: Rita’s salary = $\tfrac{2}{3}$ Juanita’s salary.  
@@ -1029,7 +1028,6 @@ We’re asked: **What is their combined monthly salary?**
 - Combined = $4000 + 6000 = 10{,}000$.  
 - **Sufficient.**
 
----
 
 ### Statement (2): Either Rita’s salary or Juanita’s salary = \$6,000  
 - Case 1: Rita = 6000. Then Juanita = $\tfrac{3}{2} \times 6000 = 9000$. Combined = 15,000.  
@@ -1037,14 +1035,12 @@ We’re asked: **What is their combined monthly salary?**
 - Two possible totals (10,000 or 15,000).  
 - **Insufficient.**
 
----
 
 ### Combining  
 - Statement (1) alone already gives the answer (10,000).  
 - Statement (2) alone does not.  
 - So combining is unnecessary.
 
----
 
 ### Correct Answer Choice:  
 **(A)** — Statement (1) alone is sufficient, but statement (2) alone is not.  
