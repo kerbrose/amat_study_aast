@@ -889,14 +889,12 @@ So combining is unnecessary.
 ## Q21
 We’re asked: **Which of the positive numbers $x$ or $y$ is greater?**
 
----
 
 ### Statement (1): $y = 2x$  
 - Since both are positive, $y$ is always twice $x$.  
 - That means $y > x$.  
 - **Sufficient.**
 
----
 
 ### Statement (2): $2x + 5y = 12$  
 - This is one equation with two unknowns.  
@@ -906,13 +904,11 @@ We’re asked: **Which of the positive numbers $x$ or $y$ is greater?**
 - So depending on the values, either $x$ or $y$ could be greater.  
 - **Insufficient.**
 
----
 
 ### Combining  
 - Statement (1) alone already determines that $y > x$.  
 - Statement (2) is not needed.
 
----
 
 ### Correct Answer Choice:  
 **(A)** — Statement (1) alone is sufficient, but statement (2) alone is not.  
