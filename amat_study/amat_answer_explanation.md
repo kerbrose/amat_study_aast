@@ -601,7 +601,7 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 
 ### Statement (2)  
 - $(n)$ and $(2^3 = 8)$ are each divisible by the same number of positive integers.  
-- The number of divisors of 8 is 4 (since $(8 = 2^3)$, divisors count = $(3+1 = 4)$).  
+- The number of divisors of 8 is 4, since $(8 = 2^3)$, divisors count = $(3+1 = 4)$.  
 - So $(n)$ also has 4 divisors.  
 - The only integers with exactly 4 divisors are:  
   - The cube of a prime $(p^3)$, divisors: $(1, p, p^2, p^3)$.  
@@ -684,7 +684,7 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 - Sum = $(11 + 12 + 13 + 14 + 15 = 65)$.  
 - **Sufficient.**
 
----
+
 
 ### Statement (2)  
 - The sum of the even integers in $(S)$ is 26.  
@@ -697,13 +697,13 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 - Sum = 65.  
 - **Sufficient.**
 
----
+
 
 ### Combining  
 - Each statement alone already determines the sum.  
 - So combining is unnecessary.
 
----
+
 
 ### Correct Answer Choice:  
 **(D)** — Each statement alone is sufficient.  
@@ -719,7 +719,7 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 - Clearly, $(V_A > V_B)$.  
 - **Sufficient.**
 
----
+
 
 ### Statement (2)  
 - The volume of cube $(B)$ is 62.5% of the volume of cube $(A)$.  
@@ -728,13 +728,13 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 - Again, $(V_A > V_B)$.  
 - **Sufficient.**
 
----
+
 
 ### Combining  
 - Each statement alone already determines that cube $(A)$’s volume is greater.  
 - So combining is unnecessary.
 
----
+
 
 ### Correct Answer Choice:  
 **(D)** — Each statement alone is sufficient.  
@@ -746,7 +746,6 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 
 We’re asked: **What is the value of $(m)$ if $(m = \frac{4c}{5d})$ and $(d \neq 0)$?**
 
----
 
 ### Statement (1): $c = 10d$  
 - Substitute into $(m = \frac{4c}{5d})$:  
@@ -754,7 +753,7 @@ We’re asked: **What is the value of $(m)$ if $(m = \frac{4c}{5d})$ and $(d \ne
 - This gives a unique value for $(m)$.  
 - **Sufficient.**
 
----
+
 
 ### Statement (2): $(c = 2)$  
 - Substitute into $(m = \frac{4c}{5d})$:  
@@ -762,7 +761,7 @@ $[m = \frac{4(2)}{5d} = \frac{8}{5d}]$
 - Since $(d)$ is not specified (only that $d \neq 0$), $(m)$ cannot be uniquely determined.  
 - **Insufficient.**
 
----
+
 
 ### Combining (1) and (2)  
 - From (2): $(c = 2)$.  
@@ -773,7 +772,7 @@ $[m = \frac{4(2)}{5d} = \frac{8}{5d}]$
 - Either way, the two statements together force $(m = 8)$.  
 - **Sufficient.**
 
----
+
 
 ### Correct Answer Choice:  
 **(A)** — Statement (1) alone is sufficient, but statement (2) alone is not.  
@@ -785,21 +784,21 @@ $[m = \frac{4(2)}{5d} = \frac{8}{5d}]$
 
 We want: **the value of $(2x - y)$.**
 
----
+
 
 ### Statement (1): $(x + y = 12)$  
 - This gives a relationship between $(x)$ and $(y)$.  
 - But we cannot directly determine $(2x - y)$.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2): $(x - y = 4)$  
 - This gives another relationship between $(x)$ and $(y)$.  
 - But again, not enough to determine $(2x - y)$.  
 - **Insufficient.**
 
----
+
 
 ### Combining (1) and (2)  
 We have the system:  
@@ -817,7 +816,7 @@ $[2x - y = 2(8) - 4 = 16 - 4 = 12]$
 So the value is uniquely determined: $(2x - y = 12)$.  
 - **Together, sufficient.**
 
----
+
 
 ### Correct Answer Choice:  
 **(C)** — Both statements together are sufficient, but neither alone is sufficient.  
