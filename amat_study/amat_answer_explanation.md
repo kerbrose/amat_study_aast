@@ -829,7 +829,6 @@ So the value is uniquely determined: $(2x - y = 12)$.
 
 We want: **the ratio of $(c)$ to $(d)$.**
 
----
 
 ### Statement (1)  
 - The ratio of $(3c)$ to $(3d)$ is $(3:4)$.  
@@ -837,7 +836,7 @@ We want: **the ratio of $(c)$ to $(d)$.**
 - So the ratio of $(c)$ to $(d)$ is uniquely determined.  
 - **Sufficient.**
 
----
+
 
 ### Statement (2)  
 - The ratio of $(c+3)$ to $(d+3)$ is $(4:5)$.  
@@ -849,13 +848,11 @@ We want: **the ratio of $(c)$ to $(d)$.**
 - Different possible ratios.  
 - **Insufficient.**
 
----
 
 ### Combining  
 - Statement (1) alone already determines the ratio uniquely $(3:4)$.  
 - Statement (2) is not needed.  
 
----
 
 ### Correct Answer Choice:  
 **(A)** — Statement (1) alone is sufficient, but statement (2) alone is not.  
