@@ -829,7 +829,6 @@ So the value is uniquely determined: $(2x - y = 12)$.
 
 We want: **the ratio of $(c)$ to $(d)$.**
 
----
 
 ### Statement (1)  
 - The ratio of $(3c)$ to $(3d)$ is $(3:4)$.  
@@ -837,7 +836,7 @@ We want: **the ratio of $(c)$ to $(d)$.**
 - So the ratio of $(c)$ to $(d)$ is uniquely determined.  
 - **Sufficient.**
 
----
+
 
 ### Statement (2)  
 - The ratio of $(c+3)$ to $(d+3)$ is $(4:5)$.  
@@ -849,13 +848,11 @@ We want: **the ratio of $(c)$ to $(d)$.**
 - Different possible ratios.  
 - **Insufficient.**
 
----
 
 ### Combining  
 - Statement (1) alone already determines the ratio uniquely $(3:4)$.  
 - Statement (2) is not needed.  
 
----
 
 ### Correct Answer Choice:  
 **(A)** — Statement (1) alone is sufficient, but statement (2) alone is not.  
@@ -866,27 +863,23 @@ We want: **the ratio of $(c)$ to $(d)$.**
 
 We want the value of $x$.
 
----
 
 ### Statement (1): $x + 1 = 2 - 3x$  
 $x + 1 = 2 - 3x \implies 4x = 1 \implies x = \tfrac{1}{4}$  
 This gives a unique value for $x$.  
 **Sufficient.**
 
----
 
 ### Statement (2): $\frac{1}{2x} = 2$  
 $\frac{1}{2x} = 2 \implies 1 = 4x \implies x = \tfrac{1}{4}$  
 Again, this gives a unique value for $x$.  
 **Sufficient.**
 
----
 
 ### Combining  
 Each statement alone already determines $x = \tfrac{1}{4}$.  
 So combining is unnecessary.
 
----
 
 ### Correct Answer Choice:  
 **(D)** — Each statement alone is sufficient.  
@@ -896,14 +889,12 @@ So combining is unnecessary.
 ## Q21
 We’re asked: **Which of the positive numbers $x$ or $y$ is greater?**
 
----
 
 ### Statement (1): $y = 2x$  
 - Since both are positive, $y$ is always twice $x$.  
 - That means $y > x$.  
 - **Sufficient.**
 
----
 
 ### Statement (2): $2x + 5y = 12$  
 - This is one equation with two unknowns.  
@@ -913,13 +904,11 @@ We’re asked: **Which of the positive numbers $x$ or $y$ is greater?**
 - So depending on the values, either $x$ or $y$ could be greater.  
 - **Insufficient.**
 
----
 
 ### Combining  
 - Statement (1) alone already determines that $y > x$.  
 - Statement (2) is not needed.
 
----
 
 ### Correct Answer Choice:  
 **(A)** — Statement (1) alone is sufficient, but statement (2) alone is not.  
@@ -931,7 +920,6 @@ We’re asked: **Which of the positive numbers $x$ or $y$ is greater?**
 
 We’re asked: **What is the value of $2^*$ if $x^* = ax + a$, where $a$ is a constant?**
 
----
 
 ### Statement (1): $3^* = 2$  
 By definition:  
@@ -942,7 +930,6 @@ $2^* = a(2) + a = 2a + a = 3a = 3 \cdot \tfrac{1}{2} = \tfrac{3}{2}$
 Unique value found.  
 **Sufficient.**
 
----
 
 ### Statement (2): $5^* = 3$  
 By definition:  
@@ -953,13 +940,11 @@ $2^* = 2a + a = 3a = 3 \cdot \tfrac{1}{2} = \tfrac{3}{2}$
 Unique value found.  
 **Sufficient.**
 
----
 
 ### Combining  
 Each statement alone already determines $2^* = \tfrac{3}{2}$.  
 So combining is unnecessary.
 
----
 
 ### Correct Answer Choice:  
 **(D)** — Each statement alone is sufficient.  
@@ -970,7 +955,6 @@ So combining is unnecessary.
 
 We want: **the value of $(x-y)^2$ given $x^2 + y^2 = 29$.**
 
----
 
 ### Statement (1): $xy = 10$  
 We know:  
@@ -980,7 +964,6 @@ $(x-y)^2 = 29 - 2(10) = 29 - 20 = 9$
 So $(x-y)^2 = 9$.  
 **Sufficient.**
 
----
 
 ### Statement (2): $x = 5$  
 Substitute into $x^2 + y^2 = 29$:  
@@ -991,14 +974,12 @@ Now compute:
 Two possible values.  
 **Insufficient.**
 
----
 
 ### Combining  
 Statement (1) alone already gives a unique value.  
 Statement (2) alone does not.  
 So combining is unnecessary.
 
----
 
 ### Correct Answer Choice:  
 **(A)** — Statement (1) alone is sufficient, but statement (2) alone is not.  
@@ -1010,14 +991,13 @@ So combining is unnecessary.
 
 We’re asked: **Is $2x > 2y$?**
 
----
+
 
 ### Statement (1): $x > y$  
 - If $x > y$, then multiplying both sides by 2 (positive constant) gives $2x > 2y$.  
 - So the answer is **Yes**.  
 - **Sufficient.**
 
----
 
 ### Statement (2): $3x > 3y$  
 - Divide both sides by 3 (positive constant): $x > y$.  
@@ -1025,13 +1005,11 @@ We’re asked: **Is $2x > 2y$?**
 - So the answer is **Yes**.  
 - **Sufficient.**
 
----
 
 ### Combining  
 - Each statement alone already determines the answer.  
 - Combining is unnecessary.
 
----
 
 ### Correct Answer Choice:  
 **(D)** — Each statement alone is sufficient.  
@@ -1043,7 +1021,6 @@ We’re asked: **Is $2x > 2y$?**
 
 We’re asked: **What is their combined monthly salary?**
 
----
 
 ### Statement (1): Rita’s monthly salary = \$4,000  
 - Given: Rita’s salary = $\tfrac{2}{3}$ Juanita’s salary.  
@@ -1051,7 +1028,6 @@ We’re asked: **What is their combined monthly salary?**
 - Combined = $4000 + 6000 = 10{,}000$.  
 - **Sufficient.**
 
----
 
 ### Statement (2): Either Rita’s salary or Juanita’s salary = \$6,000  
 - Case 1: Rita = 6000. Then Juanita = $\tfrac{3}{2} \times 6000 = 9000$. Combined = 15,000.  
@@ -1059,14 +1035,12 @@ We’re asked: **What is their combined monthly salary?**
 - Two possible totals (10,000 or 15,000).  
 - **Insufficient.**
 
----
 
 ### Combining  
 - Statement (1) alone already gives the answer (10,000).  
 - Statement (2) alone does not.  
 - So combining is unnecessary.
 
----
 
 ### Correct Answer Choice:  
 **(A)** — Statement (1) alone is sufficient, but statement (2) alone is not.  
