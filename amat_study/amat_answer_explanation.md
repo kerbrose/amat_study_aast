@@ -920,7 +920,6 @@ We’re asked: **Which of the positive numbers $x$ or $y$ is greater?**
 
 We’re asked: **What is the value of $2^*$ if $x^* = ax + a$, where $a$ is a constant?**
 
----
 
 ### Statement (1): $3^* = 2$  
 By definition:  
@@ -931,7 +930,6 @@ $2^* = a(2) + a = 2a + a = 3a = 3 \cdot \tfrac{1}{2} = \tfrac{3}{2}$
 Unique value found.  
 **Sufficient.**
 
----
 
 ### Statement (2): $5^* = 3$  
 By definition:  
@@ -942,13 +940,11 @@ $2^* = 2a + a = 3a = 3 \cdot \tfrac{1}{2} = \tfrac{3}{2}$
 Unique value found.  
 **Sufficient.**
 
----
 
 ### Combining  
 Each statement alone already determines $2^* = \tfrac{3}{2}$.  
 So combining is unnecessary.
 
----
 
 ### Correct Answer Choice:  
 **(D)** — Each statement alone is sufficient.  
