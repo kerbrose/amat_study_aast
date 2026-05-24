@@ -1528,6 +1528,7 @@ That corresponds to **Answer Choice B** in GMAT-style Data Sufficiency.
 
 
 ## Q38
+
 Let’s break this one down carefully:
 
 We’re asked: **How many minutes long was the call?**
@@ -1584,14 +1585,14 @@ That corresponds to **Answer Choice D** in GMAT-style Data Sufficiency.
 
 We want: **How many seconds did Car X take to cross the ½‑mile bridge?**
 
----
+
 
 ### Step 1: Express the relationship
 - Time to cross = $\dfrac{\text{distance}}{\text{speed}}$.  
 - Distance = 0.5 miles.  
 - We need Car X’s speed to compute its crossing time.
 
----
+
 
 ### Statement (1):  
 *Car X drove onto the bridge exactly 3 seconds after Car Y, and drove off exactly 2 seconds after Car Y.*
@@ -1601,7 +1602,7 @@ We want: **How many seconds did Car X take to cross the ½‑mile bridge?**
 - Without Car Y’s time, we cannot determine Car X’s time.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2):  
 *Car Y traveled across the bridge at a constant speed of 30 mph.*
@@ -1611,7 +1612,7 @@ We want: **How many seconds did Car X take to cross the ½‑mile bridge?**
 - But this gives no information about Car X’s speed or time.  
 - **Insufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 - From (2): Car Y’s time = 60 seconds.  
@@ -1619,7 +1620,7 @@ We want: **How many seconds did Car X take to cross the ½‑mile bridge?**
 - Now we know Car X’s crossing time exactly.  
 - **Sufficient together.**
 
----
+
 
 ### ✅ Final Answer:  
 **Statements (1) and (2) together are sufficient, but neither alone is sufficient.**  
