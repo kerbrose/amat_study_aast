@@ -1535,7 +1535,7 @@ We’re asked: **How many minutes long was the call?**
   - Each additional minute: $0.18$.  
   - Total cost = $1.26 + 0.18(x - 3)$, for $x \geq 3$.
 
----
+
 
 ### Statement (1):  
 *The charge for the first 3 minutes was $0.36 less than the charge for the remainder of the call.*
@@ -1551,7 +1551,7 @@ $x - 3 = \frac{1.62}{0.18} = 9 \quad \Rightarrow \quad x = 12$
 So the call lasted **12 minutes**.  
 Statement (1) is **sufficient**.
 
----
+
 
 ### Statement (2):  
 *The total charge for the call was $2.88.*
@@ -1563,13 +1563,13 @@ $0.18(x - 3) = 1.62 \quad \Rightarrow \quad x - 3 = 9 \quad \Rightarrow \quad x 
 So again, the call lasted **12 minutes**.  
 Statement (2) is **sufficient**.
 
----
+
 
 ### Combining (1) and (2):  
 Each statement alone already gives the unique answer $x = 12$.  
 Together they are also sufficient, but not needed.
 
----
+
 
 ### ✅ Final Answer:  
 **Each statement alone is sufficient.**  
