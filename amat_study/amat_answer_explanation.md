@@ -601,14 +601,11 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 
 ### Statement (2)  
 - $(n)$ and $(2^3 = 8)$ are each divisible by the same number of positive integers.  
-- The number of divisors of 8 is 4, since $(8 = 2^3)$, divisors count = $(3+1 = 4)$.  
-- So $(n)$ also has 4 divisors.  
-- The only integers with exactly 4 divisors are:  
-  - The cube of a prime $(p^3)$, divisors: $(1, p, p^2, p^3)$.  
-  - The product of two distinct primes $(p \cdot q)$, divisors: $(1, p, q, pq)$.  
-- In both cases, the number of divisors is 4.  
-- The question asks: “How many positive integers divide $(n)$?” → Answer is 4.  
-- **Sufficient.**
+- $n$ and $2^3$ are each divisible by the same number of positive integers.
+- First, let's find how many positive integers divide $2^3$ (which is 8).
+- The positive divisors of 8 are: 1, 2, 4, and 8 (a total of 4 divisors).
+- According to the statement, $n$ must also have exactly 4 positive divisors.Because this directly tells us that $n$ is divisible by exactly 4 positive integers.
+- Statement (2) is also **sufficient** on its own.
 
 
 ### Combining  
