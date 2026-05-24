@@ -1422,7 +1422,7 @@ The product of two numbers that are both greater than  will **always** be greate
 
 We’re asked: **At what rate, in gallons per minute, is the amount of water in the tank increasing?**
 
----
+
 
 ### Statement (1):  
 - The amount of water initially in the tank is 200 gallons.  
@@ -1430,7 +1430,7 @@ We’re asked: **At what rate, in gallons per minute, is the amount of water in 
 - Without rates, we cannot determine the net change per minute.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2):  
 - Inflow rate = 10 gallons/minute.  
@@ -1439,13 +1439,13 @@ We’re asked: **At what rate, in gallons per minute, is the amount of water in 
 - This directly answers the question.  
 - **Sufficient.**
 
----
+
 
 ### Combining  
 - Statement (2) alone already gives the net rate.  
 - Statement (1) is irrelevant for the rate question.  
 
----
+
 
 ### Correct Answer Choice:  
 **(B)** — Statement (2) alone is sufficient, but statement (1) alone is not.  
