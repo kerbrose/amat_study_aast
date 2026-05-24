@@ -1289,39 +1289,36 @@ So the threshold is about **6.67 m/s**.
 
 ## Q32
 
-We’re asked: **Was Sherry’s average speed faster than 24 km/h?**
+We want to determine if **n is prime** given two possible statements.
 
----
 
-### Step 1: Convert 24 km/h into meters per second  
-$24 \text{ km/h} = \frac{24{,}000 \text{ m}}{3600 \text{ s}} = \frac{24{,}000}{3600} = 6.\overline{6} \text{ m/s}$  
-So the threshold is about **6.67 m/s**.
+### Statement A: \(24 ≤ n ≤ 28\)
+- Possible values: \(n = 24, 25, 26, 27, 28\).
+- Check primality:
+  - 24 → divisible by 2, not prime  
+  - 25 → divisible by 5, not prime  
+  - 26 → divisible by 2, not prime  
+  - 27 → divisible by 3, not prime  
+  - 28 → divisible by 2, not prime  
 
----
+👉 None of these are prime.  
+So **Statement A alone is sufficient** to conclude that \(n\) is not prime.
 
-### Statement (1): Sherry’s average speed > 7 m/s  
-- Since 7 m/s > 6.67 m/s, her speed was faster than 24 km/h.  
-- **Sufficient.**
+### Statement B: \(n\) is not divisible by 2 or 3
+- This eliminates multiples of 2 and 3, but many numbers remain (e.g., 5, 7, 11, 25, 49, etc.).
+- Some of these are prime, others are not.  
+👉 Statement B alone is **not sufficient**.
 
----
 
-### Statement (2): Sherry’s average speed < 8 m/s  
-- This only tells us her speed was below 8 m/s.  
-- But it could be 6 m/s (slower than 24 km/h) or 7.5 m/s (faster than 24 km/h).  
-- Cannot determine.  
-- **Insufficient.**
+### Combined (A and B)
+- From Statement A, we already know \(n\) is between 24 and 28.  
+- From Statement B, we eliminate numbers divisible by 2 or 3 → possible candidates: 25.  
+- 25 is divisible by 5, so not prime.  
+👉 Together, they are also sufficient.
 
----
 
-### Combining  
-- Statement (1) alone already answers the question definitively.  
-- Statement (2) alone does not.  
-- Together, the answer is still determined by (1).  
-
----
-
-### Correct Answer Choice:  
-**(A)** — Statement (1) alone is sufficient, but statement (2) alone is not.  
+✅ **Final Answer:**  
+**Statement A alone is sufficient. Statement B alone is not sufficient.**  
 
 ---
 
@@ -1329,7 +1326,7 @@ So the threshold is about **6.67 m/s**.
 
 We’re asked: **If $y = x^2 - 6x + 9$, what is the value of $x$?**
 
----
+
 
 ### Step 1: Simplify the expression  
 Notice:  
@@ -1337,14 +1334,12 @@ $y = x^2 - 6x + 9 = (x - 3)^2$
 
 So $y = (x-3)^2$.
 
----
 
 ### Statement (1): $y = 0$  
 $(x-3)^2 = 0 \implies x - 3 = 0 \implies x = 3$  
 Unique solution.  
 **Sufficient.**
 
----
 
 ### Statement (2): $x + y = 3$  
 Substitute $y = (x-3)^2$:  
@@ -1356,14 +1351,12 @@ $(x-2)(x-3) = 0 \implies x = 2 \text{ or } x = 3$
 Two possible values.  
 **Insufficient.**
 
----
 
 ### Combining  
 Statement (1) alone already gives $x = 3$.  
 Statement (2) alone does not.  
 So combining is unnecessary.
 
----
 
 ### Correct Answer Choice:  
 **(A)** — Statement (1) alone is sufficient, but statement (2) alone is not.  
@@ -1379,9 +1372,9 @@ By adding  to both sides, we can factor the expression:
 
 Now we can evaluate the statements based on this simplified inequality.
 
----
 
-### Statement (1): $ x < y $
+
+### Statement (1): $x<y$
 
 This tells us the relationship between  and , but nothing about their **actual values**.
 
@@ -1390,19 +1383,19 @@ This tells us the relationship between  and , but nothing about their **actual v
 
 Since we can get both a "yes" and a "no," Statement (1) is **Insufficient**.
 
----
+
 
 ### Statement (2): $2<x$
 
 We know $x>2$. Since the original prompt states $x$ and $y$ are positive, let's look at the factored form $(x−1)(y−1)>1$ again.
 
-    If $x=3$, the inequality becomes $2(y−1)>1$, or $y−1>0.5$, which means $y>1.5$.
+If $x=3$, the inequality becomes $2(y−1)>1$, or $y−1>0.5$, which means $y>1.5$.
 
-    However, we don't know the value of $y$. If $y=0.1$, the inequality fails. If $y=5$, it holds.
+However, we don't know the value of $y$. If $y=0.1$, the inequality fails. If $y=5$, it holds.
 
 Since we still don't know $y$, Statement (2) is **Insufficient**.
 
----
+
 
 ### Combining (1) and (2)
 
@@ -1410,9 +1403,9 @@ From (2), we know $x>2$. From (1), we know $y>x$, which implies $y>2$ as well.
 
 If both $x>2$ and $y>2$:
 
-    The term $(x−1)$ must be greater than 1.
+The term $(x−1)$ must be greater than 1.
 
-    The term $(y−1)$ must be greater than 1.
+The term $(y−1)$ must be greater than 1.
 
 
 The product of two numbers that are both greater than  will **always** be greater than 1. Therefore,  $(x−1)(y−1)>1$ is guaranteed to be true.
