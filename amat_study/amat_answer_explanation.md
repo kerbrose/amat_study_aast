@@ -1050,7 +1050,7 @@ We’re asked: **What is their combined monthly salary?**
 
 We’re asked: **How many cars are to be sold?**
 
----
+
 
 ### Statement (1)  
 - Suppose there are $C$ cars and $S$ salespeople.  
@@ -1061,7 +1061,7 @@ $C - 4S = 23 \quad \implies \quad C = 4S + 23$
 - Two unknowns, one equation. Cannot determine $C$.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2)  
 - Each salesperson sells 6 cars → total sold = $6S$.  
@@ -1071,7 +1071,7 @@ $C - 6S = 5 \quad \implies \quad C = 6S + 5$
 - Again, two unknowns, one equation. Cannot determine $C$.  
 - **Insufficient.**
 
----
+
 
 ### Combining (1) and (2)  
 We have:  
@@ -1086,7 +1086,7 @@ $C = 4(9) + 23 = 36 + 23 = 59$
 So the dealership has **59 cars**.  
 - **Together, sufficient.**
 
----
+
 
 ### Correct Answer Choice:  
 **(C)** — Both statements together are sufficient, but neither alone is sufficient.  
