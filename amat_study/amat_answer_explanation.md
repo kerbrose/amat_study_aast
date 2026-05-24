@@ -1412,7 +1412,7 @@ The product of two numbers that are both greater than  will **always** be greate
 
 **Both statements together are Sufficient.**
 
----
+
 
 **Correct Answer: C**
 
@@ -1456,28 +1456,28 @@ We’re asked: **At what rate, in gallons per minute, is the amount of water in 
 
 We’re asked: **Is $x$ a negative number?**
 
----
+
 
 ### Statement (1): $9x > 10x$  
 $9x > 10x \implies -x > 0 \implies x < 0$  
 So $x$ is definitely negative.  
 **Sufficient.**
 
----
+
 
 ### Statement (2): $x + 3$ is positive  
 $x + 3 > 0 \implies x > -3$  
 Since $x$ could be positive (e.g., $x=5$) or negative (e.g., $x=-2$), we cannot determine whether $x$ is negative.  
 **Insufficient.**
 
----
+
 
 ### Combining  
 Statement (1) alone already answers the question.  
 Statement (2) alone does not.  
 So combining is unnecessary.
 
----
+
 
 ### Correct Answer Choice:  
 **(A)** — Statement (1) alone is sufficient, but statement (2) alone is not.  
