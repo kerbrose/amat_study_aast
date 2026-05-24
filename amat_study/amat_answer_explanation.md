@@ -1289,39 +1289,36 @@ So the threshold is about **6.67 m/s**.
 
 ## Q32
 
-We’re asked: **Was Sherry’s average speed faster than 24 km/h?**
+We want to determine if **n is prime** given two possible statements.
 
----
 
-### Step 1: Convert 24 km/h into meters per second  
-$24 \text{ km/h} = \frac{24{,}000 \text{ m}}{3600 \text{ s}} = \frac{24{,}000}{3600} = 6.\overline{6} \text{ m/s}$  
-So the threshold is about **6.67 m/s**.
+### Statement A: \(24 ≤ n ≤ 28\)
+- Possible values: \(n = 24, 25, 26, 27, 28\).
+- Check primality:
+  - 24 → divisible by 2, not prime  
+  - 25 → divisible by 5, not prime  
+  - 26 → divisible by 2, not prime  
+  - 27 → divisible by 3, not prime  
+  - 28 → divisible by 2, not prime  
 
----
+👉 None of these are prime.  
+So **Statement A alone is sufficient** to conclude that \(n\) is not prime.
 
-### Statement (1): Sherry’s average speed > 7 m/s  
-- Since 7 m/s > 6.67 m/s, her speed was faster than 24 km/h.  
-- **Sufficient.**
+### Statement B: \(n\) is not divisible by 2 or 3
+- This eliminates multiples of 2 and 3, but many numbers remain (e.g., 5, 7, 11, 25, 49, etc.).
+- Some of these are prime, others are not.  
+👉 Statement B alone is **not sufficient**.
 
----
 
-### Statement (2): Sherry’s average speed < 8 m/s  
-- This only tells us her speed was below 8 m/s.  
-- But it could be 6 m/s (slower than 24 km/h) or 7.5 m/s (faster than 24 km/h).  
-- Cannot determine.  
-- **Insufficient.**
+### Combined (A and B)
+- From Statement A, we already know \(n\) is between 24 and 28.  
+- From Statement B, we eliminate numbers divisible by 2 or 3 → possible candidates: 25.  
+- 25 is divisible by 5, so not prime.  
+👉 Together, they are also sufficient.
 
----
 
-### Combining  
-- Statement (1) alone already answers the question definitively.  
-- Statement (2) alone does not.  
-- Together, the answer is still determined by (1).  
-
----
-
-### Correct Answer Choice:  
-**(A)** — Statement (1) alone is sufficient, but statement (2) alone is not.  
+✅ **Final Answer:**  
+**Statement A alone is sufficient. Statement B alone is not sufficient.**  
 
 ---
 
