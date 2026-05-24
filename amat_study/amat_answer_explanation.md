@@ -1255,19 +1255,19 @@ We’re asked: **Did the tank contain more than 30 gallons of water when it star
 
 We’re asked: **Was Sherry’s average speed faster than 24 km/h?**
 
----
+
 
 ### Step 1: Convert 24 km/h into meters per second  
 $24 \text{ km/h} = \frac{24{,}000 \text{ m}}{3600 \text{ s}} = \frac{24{,}000}{3600} = 6.\overline{6} \text{ m/s}$  
 So the threshold is about **6.67 m/s**.
 
----
+
 
 ### Statement (1): Sherry’s average speed > 7 m/s  
 - Since 7 m/s > 6.67 m/s, her speed was faster than 24 km/h.  
 - **Sufficient.**
 
----
+
 
 ### Statement (2): Sherry’s average speed < 8 m/s  
 - This only tells us her speed was below 8 m/s.  
@@ -1275,14 +1275,14 @@ So the threshold is about **6.67 m/s**.
 - Cannot determine.  
 - **Insufficient.**
 
----
+
 
 ### Combining  
 - Statement (1) alone already answers the question definitively.  
 - Statement (2) alone does not.  
 - Together, the answer is still determined by (1).  
 
----
+
 
 ### Correct Answer Choice:  
 **(A)** — Statement (1) alone is sufficient, but statement (2) alone is not.  
