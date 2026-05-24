@@ -523,7 +523,9 @@ a_1 + a_2 + a_3 + a_4 = 20 + 10 + \frac{a_2 + 10}{2} = 30 + \frac{a_2 + 10}{2}
 This still depends on $(a_2)$. Without knowing $(a_2)$ individually, we cannot fix the sum.  
 
 ### Conclusion
-Even together, the statements are **not sufficient** to determine the sum of the first four terms.  
+✅ Even together, the statements are **not sufficient** to determine the sum of the first four terms.
+
+Correct choice: **E**.
 
 ---
 
@@ -672,7 +674,7 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 
 ## Q15
 
----
+
 
 ### Statement (1)  
 - $(S)$ consists of five consecutive integers.  
@@ -1048,7 +1050,7 @@ We’re asked: **What is their combined monthly salary?**
 
 We’re asked: **How many cars are to be sold?**
 
----
+
 
 ### Statement (1)  
 - Suppose there are $C$ cars and $S$ salespeople.  
@@ -1059,7 +1061,7 @@ $C - 4S = 23 \quad \implies \quad C = 4S + 23$
 - Two unknowns, one equation. Cannot determine $C$.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2)  
 - Each salesperson sells 6 cars → total sold = $6S$.  
@@ -1069,7 +1071,7 @@ $C - 6S = 5 \quad \implies \quad C = 6S + 5$
 - Again, two unknowns, one equation. Cannot determine $C$.  
 - **Insufficient.**
 
----
+
 
 ### Combining (1) and (2)  
 We have:  
@@ -1084,7 +1086,7 @@ $C = 4(9) + 23 = 36 + 23 = 59$
 So the dealership has **59 cars**.  
 - **Together, sufficient.**
 
----
+
 
 ### Correct Answer Choice:  
 **(C)** — Both statements together are sufficient, but neither alone is sufficient.  
@@ -1095,7 +1097,7 @@ So the dealership has **59 cars**.
 
 We’re asked: **If $x$ is a positive integer, what is the value of $x$?**
 
----
+
 
 ### Statement (1): $x^2 = \sqrt{x}$  
 - Rewrite: $x^2 = x^{1/2}$.  
@@ -1104,7 +1106,7 @@ We’re asked: **If $x$ is a positive integer, what is the value of $x$?**
 - Since $x$ is a positive integer, the only solution is $x=1$.  
 - **Sufficient.**
 
----
+
 
 ### Statement (2): $\frac{n}{x} = n$ and $n \neq 0$  
 - Divide both sides by $n$: $\frac{1}{x} = 1$.  
@@ -1112,13 +1114,13 @@ We’re asked: **If $x$ is a positive integer, what is the value of $x$?**
 - Unique value.  
 - **Sufficient.**
 
----
+
 
 ### Combining  
 - Each statement alone already determines $x = 1$.  
 - So combining is unnecessary.
 
----
+
 
 ### Correct Answer Choice:  
 **(D)** — Each statement alone is sufficient.  
@@ -1130,7 +1132,7 @@ We’re asked: **If $x$ is a positive integer, what is the value of $x$?**
 
 We’re asked: **How many hours would it take Pump A and Pump B working together to empty the tank?**
 
----
+
 
 ### Statement (1)  
 - Pump A alone empties the tank in 4 hours 20 minutes.  
@@ -1139,14 +1141,14 @@ We’re asked: **How many hours would it take Pump A and Pump B working together
 - We know Pump A’s rate, but not Pump B’s.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2)  
 - Pump B empties the tank at 72 liters per minute.  
 - But we don’t know the total capacity of the tank, so we cannot convert this into “tanks per hour.”  
 - **Insufficient.**
 
----
+
 
 ### Combining (1) and (2)  
 - Pump A’s rate = $\tfrac{3}{13}$ tanks/hour.  
@@ -1157,7 +1159,7 @@ We’re asked: **How many hours would it take Pump A and Pump B working together
 - Therefore, we cannot combine the two rates to find the joint time.  
 - **Still insufficient.**
 
----
+
 
 ### Correct Answer Choice:  
 **(E)** — Statements (1) and (2) together are not sufficient.  
@@ -1168,7 +1170,7 @@ We’re asked: **How many hours would it take Pump A and Pump B working together
 
 We’re asked: **What is the area of rectangular region $R$?**
 
----
+
 
 ### Statement (1): Each diagonal of $R$ has length 5  
 - Let the sides be $a$ and $b$.  
@@ -1178,7 +1180,7 @@ We’re asked: **What is the area of rectangular region $R$?**
 - Multiple possible areas.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2): The perimeter of $R$ is 14  
 - Perimeter: $2(a+b) = 14 \implies a+b = 7$.  
@@ -1187,7 +1189,7 @@ We’re asked: **What is the area of rectangular region $R$?**
 - Multiple possible areas.  
 - **Insufficient.**
 
----
+
 
 ### Combining (1) and (2)  
 We have:  
@@ -1201,7 +1203,7 @@ $49 = 25 + 2ab \implies 2ab = 24 \implies ab = 12$
 So the area of $R$ is **12**.  
 - **Together, sufficient.**
 
----
+
 
 ### Correct Answer Choice:  
 **(C)** — Both statements together are sufficient, but neither alone is sufficient.  
@@ -1214,21 +1216,21 @@ So the area of $R$ is **12**.
 We’re asked: **Did the tank contain more than 30 gallons of water when it started to leak?**  
 (Remember: $1 \text{ gallon} = 128 \text{ ounces}$. So 30 gallons = $30 \times 128 = 3840$ ounces.)
 
----
+
 
 ### Statement (1): Leak rate = 6.4 ounces/minute  
 - This gives the rate, but not the total time until empty.  
 - Without knowing how long it leaked, we cannot determine the initial volume.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2): Tank became empty in less than 12 hours  
 - This gives a maximum time, but no leak rate.  
 - Without the leak rate, we cannot determine the initial volume.  
 - **Insufficient.**
 
----
+
 
 ### Combining (1) and (2)  
 - Leak rate = 6.4 ounces/minute.  
@@ -1241,7 +1243,7 @@ We’re asked: **Did the tank contain more than 30 gallons of water when it star
 - Both possibilities exist.  
 - **Still insufficient.**
 
----
+
 
 ### Correct Answer Choice:  
 **(E)** — Statements (1) and (2) together are not sufficient.  
@@ -1253,19 +1255,19 @@ We’re asked: **Did the tank contain more than 30 gallons of water when it star
 
 We’re asked: **Was Sherry’s average speed faster than 24 km/h?**
 
----
+
 
 ### Step 1: Convert 24 km/h into meters per second  
 $24 \text{ km/h} = \frac{24{,}000 \text{ m}}{3600 \text{ s}} = \frac{24{,}000}{3600} = 6.\overline{6} \text{ m/s}$  
 So the threshold is about **6.67 m/s**.
 
----
+
 
 ### Statement (1): Sherry’s average speed > 7 m/s  
 - Since 7 m/s > 6.67 m/s, her speed was faster than 24 km/h.  
 - **Sufficient.**
 
----
+
 
 ### Statement (2): Sherry’s average speed < 8 m/s  
 - This only tells us her speed was below 8 m/s.  
@@ -1273,14 +1275,14 @@ So the threshold is about **6.67 m/s**.
 - Cannot determine.  
 - **Insufficient.**
 
----
+
 
 ### Combining  
 - Statement (1) alone already answers the question definitively.  
 - Statement (2) alone does not.  
 - Together, the answer is still determined by (1).  
 
----
+
 
 ### Correct Answer Choice:  
 **(A)** — Statement (1) alone is sufficient, but statement (2) alone is not.  
@@ -1412,7 +1414,7 @@ The product of two numbers that are both greater than  will **always** be greate
 
 **Both statements together are Sufficient.**
 
----
+
 
 **Correct Answer: C**
 
@@ -1422,7 +1424,7 @@ The product of two numbers that are both greater than  will **always** be greate
 
 We’re asked: **At what rate, in gallons per minute, is the amount of water in the tank increasing?**
 
----
+
 
 ### Statement (1):  
 - The amount of water initially in the tank is 200 gallons.  
@@ -1430,7 +1432,7 @@ We’re asked: **At what rate, in gallons per minute, is the amount of water in 
 - Without rates, we cannot determine the net change per minute.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2):  
 - Inflow rate = 10 gallons/minute.  
@@ -1439,13 +1441,13 @@ We’re asked: **At what rate, in gallons per minute, is the amount of water in 
 - This directly answers the question.  
 - **Sufficient.**
 
----
+
 
 ### Combining  
 - Statement (2) alone already gives the net rate.  
 - Statement (1) is irrelevant for the rate question.  
 
----
+
 
 ### Correct Answer Choice:  
 **(B)** — Statement (2) alone is sufficient, but statement (1) alone is not.  
@@ -1456,28 +1458,28 @@ We’re asked: **At what rate, in gallons per minute, is the amount of water in 
 
 We’re asked: **Is $x$ a negative number?**
 
----
+
 
 ### Statement (1): $9x > 10x$  
 $9x > 10x \implies -x > 0 \implies x < 0$  
 So $x$ is definitely negative.  
 **Sufficient.**
 
----
+
 
 ### Statement (2): $x + 3$ is positive  
 $x + 3 > 0 \implies x > -3$  
 Since $x$ could be positive (e.g., $x=5$) or negative (e.g., $x=-2$), we cannot determine whether $x$ is negative.  
 **Insufficient.**
 
----
+
 
 ### Combining  
 Statement (1) alone already answers the question.  
 Statement (2) alone does not.  
 So combining is unnecessary.
 
----
+
 
 ### Correct Answer Choice:  
 **(A)** — Statement (1) alone is sufficient, but statement (2) alone is not.  
@@ -1488,7 +1490,7 @@ So combining is unnecessary.
 
 We want to determine if $i + j$ is an even integer.
 
----
+
 
 ### Step 1: Recall the rule
 - The sum of two integers is **even** if both are even or both are odd.
@@ -1496,27 +1498,27 @@ We want to determine if $i + j$ is an even integer.
 
 So, we need to know whether $i$ and $j$ have the same parity (both even or both odd).
 
----
+
 
 ### Step 2: Analyze Statement (1) $i < 10$
 - This only tells us that $i$ is less than 10.  
 - It gives no information about whether $i$ is even or odd, nor about $j$.  
 - Therefore, **insufficient**.
 
----
+
 
 ### Step 3: Analyze Statement (2) $i = j$
 - If $i = j$, then $i + j = 2i$.  
 - $2i$ is always even, regardless of whether $i$ is odd or even.  
 - Therefore, this statement **alone is sufficient**.
 
----
+
 
 ### Step 4: Combine Statements (1) and (2)
 - Statement (2) already guarantees sufficiency. Adding (1) doesn’t change that.  
 - So, together they are also sufficient, but (2) alone is enough.
 
----
+
 
 ### ✅ Final Answer:
 **Statement (2) alone is sufficient, but statement (1) alone is not.**  
@@ -1526,6 +1528,7 @@ That corresponds to **Answer Choice B** in GMAT-style Data Sufficiency.
 
 
 ## Q38
+
 Let’s break this one down carefully:
 
 We’re asked: **How many minutes long was the call?**
@@ -1535,7 +1538,7 @@ We’re asked: **How many minutes long was the call?**
   - Each additional minute: $0.18$.  
   - Total cost = $1.26 + 0.18(x - 3)$, for $x \geq 3$.
 
----
+
 
 ### Statement (1):  
 *The charge for the first 3 minutes was $0.36 less than the charge for the remainder of the call.*
@@ -1551,7 +1554,7 @@ $x - 3 = \frac{1.62}{0.18} = 9 \quad \Rightarrow \quad x = 12$
 So the call lasted **12 minutes**.  
 Statement (1) is **sufficient**.
 
----
+
 
 ### Statement (2):  
 *The total charge for the call was $2.88.*
@@ -1563,13 +1566,13 @@ $0.18(x - 3) = 1.62 \quad \Rightarrow \quad x - 3 = 9 \quad \Rightarrow \quad x 
 So again, the call lasted **12 minutes**.  
 Statement (2) is **sufficient**.
 
----
+
 
 ### Combining (1) and (2):  
 Each statement alone already gives the unique answer $x = 12$.  
 Together they are also sufficient, but not needed.
 
----
+
 
 ### ✅ Final Answer:  
 **Each statement alone is sufficient.**  
@@ -1582,14 +1585,14 @@ That corresponds to **Answer Choice D** in GMAT-style Data Sufficiency.
 
 We want: **How many seconds did Car X take to cross the ½‑mile bridge?**
 
----
+
 
 ### Step 1: Express the relationship
 - Time to cross = $\dfrac{\text{distance}}{\text{speed}}$.  
 - Distance = 0.5 miles.  
 - We need Car X’s speed to compute its crossing time.
 
----
+
 
 ### Statement (1):  
 *Car X drove onto the bridge exactly 3 seconds after Car Y, and drove off exactly 2 seconds after Car Y.*
@@ -1599,7 +1602,7 @@ We want: **How many seconds did Car X take to cross the ½‑mile bridge?**
 - Without Car Y’s time, we cannot determine Car X’s time.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2):  
 *Car Y traveled across the bridge at a constant speed of 30 mph.*
@@ -1609,7 +1612,7 @@ We want: **How many seconds did Car X take to cross the ½‑mile bridge?**
 - But this gives no information about Car X’s speed or time.  
 - **Insufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 - From (2): Car Y’s time = 60 seconds.  
@@ -1617,7 +1620,7 @@ We want: **How many seconds did Car X take to cross the ½‑mile bridge?**
 - Now we know Car X’s crossing time exactly.  
 - **Sufficient together.**
 
----
+
 
 ### ✅ Final Answer:  
 **Statements (1) and (2) together are sufficient, but neither alone is sufficient.**  
