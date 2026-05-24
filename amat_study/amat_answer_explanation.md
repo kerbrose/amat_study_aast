@@ -1132,7 +1132,7 @@ We’re asked: **If $x$ is a positive integer, what is the value of $x$?**
 
 We’re asked: **How many hours would it take Pump A and Pump B working together to empty the tank?**
 
----
+
 
 ### Statement (1)  
 - Pump A alone empties the tank in 4 hours 20 minutes.  
@@ -1141,14 +1141,14 @@ We’re asked: **How many hours would it take Pump A and Pump B working together
 - We know Pump A’s rate, but not Pump B’s.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2)  
 - Pump B empties the tank at 72 liters per minute.  
 - But we don’t know the total capacity of the tank, so we cannot convert this into “tanks per hour.”  
 - **Insufficient.**
 
----
+
 
 ### Combining (1) and (2)  
 - Pump A’s rate = $\tfrac{3}{13}$ tanks/hour.  
@@ -1159,7 +1159,7 @@ We’re asked: **How many hours would it take Pump A and Pump B working together
 - Therefore, we cannot combine the two rates to find the joint time.  
 - **Still insufficient.**
 
----
+
 
 ### Correct Answer Choice:  
 **(E)** — Statements (1) and (2) together are not sufficient.  
