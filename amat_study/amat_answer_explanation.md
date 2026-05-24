@@ -513,7 +513,7 @@ Correct choice: **C** (Both statements together are sufficient, but neither alon
 - Plug into (2): $(a_1 + a_2 + (a_1 + a_2)/2 = 30)$.  
 - That simplifies to $(1.5(a_1 + a_2) = 30 \implies a_1 + a_2 = 20)$.  
 - Then $(a_3 = 10)$.  
-- From (1): (a_4 = (a_2 + a_3)/2 = (a_2 + 10)/2)$.  
+- From (1): $a_4 = (a_2 + a_3)/2 = (a_2 + 10)/2$.  
 
 Now the sum of the first four terms:  
 $[
