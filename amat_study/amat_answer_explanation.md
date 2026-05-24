@@ -1372,9 +1372,9 @@ By adding  to both sides, we can factor the expression:
 
 Now we can evaluate the statements based on this simplified inequality.
 
----
 
-### Statement (1): $ x < y $
+
+### Statement (1): $x<y$
 
 This tells us the relationship between  and , but nothing about their **actual values**.
 
@@ -1383,19 +1383,19 @@ This tells us the relationship between  and , but nothing about their **actual v
 
 Since we can get both a "yes" and a "no," Statement (1) is **Insufficient**.
 
----
+
 
 ### Statement (2): $2<x$
 
 We know $x>2$. Since the original prompt states $x$ and $y$ are positive, let's look at the factored form $(x−1)(y−1)>1$ again.
 
-    If $x=3$, the inequality becomes $2(y−1)>1$, or $y−1>0.5$, which means $y>1.5$.
+If $x=3$, the inequality becomes $2(y−1)>1$, or $y−1>0.5$, which means $y>1.5$.
 
-    However, we don't know the value of $y$. If $y=0.1$, the inequality fails. If $y=5$, it holds.
+However, we don't know the value of $y$. If $y=0.1$, the inequality fails. If $y=5$, it holds.
 
 Since we still don't know $y$, Statement (2) is **Insufficient**.
 
----
+
 
 ### Combining (1) and (2)
 
@@ -1403,9 +1403,9 @@ From (2), we know $x>2$. From (1), we know $y>x$, which implies $y>2$ as well.
 
 If both $x>2$ and $y>2$:
 
-    The term $(x−1)$ must be greater than 1.
+The term $(x−1)$ must be greater than 1.
 
-    The term $(y−1)$ must be greater than 1.
+The term $(y−1)$ must be greater than 1.
 
 
 The product of two numbers that are both greater than  will **always** be greater than 1. Therefore,  $(x−1)(y−1)>1$ is guaranteed to be true.
