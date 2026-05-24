@@ -1170,7 +1170,7 @@ We’re asked: **How many hours would it take Pump A and Pump B working together
 
 We’re asked: **What is the area of rectangular region $R$?**
 
----
+
 
 ### Statement (1): Each diagonal of $R$ has length 5  
 - Let the sides be $a$ and $b$.  
@@ -1180,7 +1180,7 @@ We’re asked: **What is the area of rectangular region $R$?**
 - Multiple possible areas.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2): The perimeter of $R$ is 14  
 - Perimeter: $2(a+b) = 14 \implies a+b = 7$.  
@@ -1189,7 +1189,7 @@ We’re asked: **What is the area of rectangular region $R$?**
 - Multiple possible areas.  
 - **Insufficient.**
 
----
+
 
 ### Combining (1) and (2)  
 We have:  
@@ -1203,7 +1203,7 @@ $49 = 25 + 2ab \implies 2ab = 24 \implies ab = 12$
 So the area of $R$ is **12**.  
 - **Together, sufficient.**
 
----
+
 
 ### Correct Answer Choice:  
 **(C)** — Both statements together are sufficient, but neither alone is sufficient.  
