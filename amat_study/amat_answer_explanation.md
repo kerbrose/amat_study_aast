@@ -523,7 +523,9 @@ a_1 + a_2 + a_3 + a_4 = 20 + 10 + \frac{a_2 + 10}{2} = 30 + \frac{a_2 + 10}{2}
 This still depends on $(a_2)$. Without knowing $(a_2)$ individually, we cannot fix the sum.  
 
 ### Conclusion
-Even together, the statements are **not sufficient** to determine the sum of the first four terms.  
+✅ Even together, the statements are **not sufficient** to determine the sum of the first four terms.
+
+Correct choice: **E**.
 
 ---
 
