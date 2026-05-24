@@ -674,7 +674,7 @@ The correct choice is **(E)**: *Statements (1) and (2) together are not sufficie
 
 ## Q15
 
----
+
 
 ### Statement (1)  
 - $(S)$ consists of five consecutive integers.  
@@ -1216,21 +1216,21 @@ So the area of $R$ is **12**.
 We’re asked: **Did the tank contain more than 30 gallons of water when it started to leak?**  
 (Remember: $1 \text{ gallon} = 128 \text{ ounces}$. So 30 gallons = $30 \times 128 = 3840$ ounces.)
 
----
+
 
 ### Statement (1): Leak rate = 6.4 ounces/minute  
 - This gives the rate, but not the total time until empty.  
 - Without knowing how long it leaked, we cannot determine the initial volume.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2): Tank became empty in less than 12 hours  
 - This gives a maximum time, but no leak rate.  
 - Without the leak rate, we cannot determine the initial volume.  
 - **Insufficient.**
 
----
+
 
 ### Combining (1) and (2)  
 - Leak rate = 6.4 ounces/minute.  
@@ -1243,7 +1243,7 @@ We’re asked: **Did the tank contain more than 30 gallons of water when it star
 - Both possibilities exist.  
 - **Still insufficient.**
 
----
+
 
 ### Correct Answer Choice:  
 **(E)** — Statements (1) and (2) together are not sufficient.  
