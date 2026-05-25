@@ -1634,7 +1634,6 @@ That corresponds to **Answer Choice C** in GMAT-style Data Sufficiency.
 We want to know: **Is $ \frac{p}{q} < 1$?**  
 Equivalently: Is $p < q$? (since both are positive).
 
----
 
 ### Statement (1): $p < 4$  
 - This only tells us that $p$ is less than 4.  
@@ -1643,7 +1642,6 @@ Equivalently: Is $p < q$? (since both are positive).
 - If $p = 3$ and $q = 2$, then $p/q > 1$.  
 - So **insufficient**.
 
----
 
 ### Statement (2): $q < 4$  
 - This only tells us that $q$ is less than 4.  
@@ -1652,7 +1650,6 @@ Equivalently: Is $p < q$? (since both are positive).
 - If $p = 5$ and $q = 3$, then $p/q > 1$.  
 - So **insufficient**.
 
----
 
 ### Combine (1) and (2):  
 - Now we know $p < 4$ and $q < 4$.  
@@ -1661,7 +1658,6 @@ Equivalently: Is $p < q$? (since both are positive).
 - Example: $p = 3, q = 2 \Rightarrow p/q > 1$.  
 - So **still insufficient**.
 
----
 
 ### ✅ Final Answer:  
 **Statements (1) and (2) together are not sufficient.**  
