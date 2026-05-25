@@ -1671,7 +1671,7 @@ That corresponds to **Answer Choice E** in GMAT-style Data Sufficiency.
 
 We want: **How many machines (A, B, C) are working in that minute?**
 
----
+
 
 ### Step 1: Recall machine rates
 - Type A: 400 cans/minute  
@@ -1683,7 +1683,7 @@ Let $a, b, c$ = number of machines of type A, B, C.
 Then:  
 $400a + 600b = 2400c$
 
----
+
 
 ### Statement (1): A total of 4,800 cans are filled that minute
 $400a + 600b = 4800$
@@ -1694,7 +1694,7 @@ Example: If $a=12, b=0$, then 12 A machines. If $a=0, b=8$, then 8 B machines.
 Both satisfy 4,800 cans, but the number of machines differs.  
 So **insufficient**.
 
----
+
 
 ### Statement (2): For that minute, there are 2 Type B machines for every Type C machine
 $b = 2c$
@@ -1703,7 +1703,7 @@ But without knowing the total cans filled, we can’t determine $a$.
 Example: If $c=1, b=2$, then lids installed = 2,400. Cans filled must equal 2,400, but we don’t know how many A machines are involved.  
 So **insufficient**.
 
----
+
 
 ### Combine (1) and (2):
 From (1): $400a + 600b = 4800$.  
@@ -1724,7 +1724,7 @@ Total machines = $6 + 4 + 2 = 12$.
 
 Thus, together the statements are **sufficient**.
 
----
+
 
 ### ✅ Final Answer:  
 **Statements (1) and (2) together are sufficient, but neither alone is sufficient.**  
