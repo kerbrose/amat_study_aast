@@ -1900,7 +1900,7 @@ Because we can get both a "No" and a "Yes" answer, Statement 2 does not give us 
 
 We want: **How many businesses did not report a net profit nor invest in foreign markets?**
 
----
+
 
 ### Step 1: Define sets
 - Total businesses = 30.  
@@ -1908,10 +1908,10 @@ We want: **How many businesses did not report a net profit nor invest in foreign
 - Foreign investment group = 15.  
 - We want the number outside both groups (neither profit nor foreign).  
 - Formula:  
-  $ \text{Neither} = 30 - (\text{Profit} + \text{Foreign} - \text{Both})$  
+$ \text{Neither} = 30 - (\text{Profit} + \text{Foreign} - \text{Both})$  
 So we need the intersection (“Both”).
 
----
+
 
 ### Statement (1): 12 businesses reported both profit and foreign investment
 - Profit + Foreign – Both = $21 + 15 - 12 = 24$.  
@@ -1919,7 +1919,7 @@ So we need the intersection (“Both”).
 - We can determine the exact number.  
 - **Sufficient.**
 
----
+
 
 ### Statement (2): 24 businesses reported profit or foreign investment (or both)
 - Profit ∪ Foreign = 24.  
@@ -1927,13 +1927,13 @@ So we need the intersection (“Both”).
 - We can determine the exact number.  
 - **Sufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 Each statement alone already gives the answer (6).  
 Together they are also sufficient, but not needed.
 
----
+
 
 ### ✅ Final Answer:  
 **Each statement alone is sufficient.**  
