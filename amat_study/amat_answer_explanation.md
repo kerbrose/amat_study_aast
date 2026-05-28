@@ -1949,7 +1949,7 @@ That corresponds to **Answer Choice D** in GMAT-style Data Sufficiency.
 
 We want: **Is $n$ closer to 50 than to 75?**
 
----
+
 
 ### Step 1: Translate the question  
 - “Closer to 50 than to 75” means:  
@@ -1957,14 +1957,14 @@ We want: **Is $n$ closer to 50 than to 75?**
 - Equivalently: $n < 62.5$.  
 So the question is: **Is $n < 62.5$?**
 
----
+
 
 ### Statement (1): $75 - n > n - 50$  
 $75 - n > n - 50 \quad \Rightarrow \quad 125 > 2n \quad \Rightarrow \quad n < 62.5$  
 This directly tells us that $n$ is less than 62.5, i.e., closer to 50.  
 **Sufficient.**
 
----
+
 
 ### Statement (2): $n > 60$  
 - If $n = 61$, then it’s closer to 50 (distance 11 vs. 14).  
@@ -1972,14 +1972,14 @@ This directly tells us that $n$ is less than 62.5, i.e., closer to 50.
 - So depending on the value, $n$ could be closer to 50 or to 75.  
 **Insufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 - Statement (1) alone already gives sufficiency.  
 - Adding (2) doesn’t change that.  
 - Still **sufficient**.
 
----
+
 
 ### ✅ Final Answer:  
 **Statement (1) alone is sufficient, but statement (2) alone is not.**  
