@@ -2272,42 +2272,52 @@ Let’s carefully analyze this **Data Sufficiency** problem:
 
 We want: **How many guests were served a double scoop of ice cream?**
 
----
+
 
 ### Step 1: Define variables  
 - Let $G$ = total number of guests.  
 - Let $D$ = number of guests with double scoops.  
 - Let $S$ = number of guests with single scoops.  
-- Then:  
-  $G = D + S$  
-  Total scoops = $2D + S$.
+- Then:  $G = D + S$  
 
----
+Total scoops = $2D + S$.
 
-### Statement (1): 60% of guests were served a double scoop  
-$D = 0.6G$  
-This gives the proportion, but not the actual number of guests. Without knowing $G$, we cannot find $D$.  
+
+
+### Statement (1): 60% of guests were served a double scoop
+
+$D = 0.6G$
+
+This gives the proportion, but not the actual number of guests. Without knowing $G$, we cannot find $D$.
+
 **Insufficient.**
 
----
+
 
 ### Statement (2): A total of 120 scoops were served  
+
 $2D + S = 120$  
-But we don’t know how many guests there were, nor the proportion of double vs. single scoops.  
+
+But we don’t know how many guests there were, nor the proportion of double vs. single scoops.
+
 **Insufficient.**
 
----
 
-### Combine (1) and (2):  
-From (1): $D = 0.6G$, $S = 0.4G$.  
+
+### Combine (1) and (2):
+
+From (1): $D = 0.6G$, $S = 0.4G$.
+
 Total scoops = $2D + S = 2(0.6G) + 0.4G = 1.6G$.  
+
 From (2): $1.6G = 120 \quad \Rightarrow \quad G = 75$.  
 So:  
 $D = 0.6 \times 75 = 45$  
-We can determine the exact number of double‑scoop guests.  
+We can determine the exact number of double‑scoop guests.
+
 **Sufficient together.**
 
----
+
 
 ### ✅ Final Answer:  
 **Statements (1) and (2) together are sufficient, but neither alone is sufficient.**  
