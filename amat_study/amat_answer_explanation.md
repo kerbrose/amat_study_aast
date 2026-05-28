@@ -2002,7 +2002,7 @@ So to find $t$, we need both $x$ and $n$.
 ### Statement (1): $x = n + 3$  
 - Substituting:  
 
-$ t = 10x n = 10(n+3)n = 10(n^2 + 3n)$  
+$t = 10x n = 10(n+3)n = 10(n^2 + 3n)$  
 
 - This gives a formula for $t$, but without knowing $n$, we cannot get a single numeric value.  
 - **Insufficient.**
@@ -2013,7 +2013,7 @@ $ t = 10x n = 10(n+3)n = 10(n^2 + 3n)$
 - Then $x = 16$.  
 - Substituting:  
 
-$  t = 10 \cdot 16 \cdot n = 160n$  
+$t = 10 \cdot 16 \cdot n = 160n$  
 
 - Again, without knowing $n$, we cannot get a single numeric value.  
 - **Insufficient.**
@@ -2026,7 +2026,7 @@ $  t = 10 \cdot 16 \cdot n = 160n$
 - So $n = 13$.  
 - Substituting:  
 
-$ t = 10 \cdot 16 \cdot 13 = 2080$  
+$t = 10 \cdot 16 \cdot 13 = 2080$  
 
 - Now we have a unique value for $t$.  
 - **Sufficient together.**
