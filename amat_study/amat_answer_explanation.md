@@ -1908,7 +1908,9 @@ We want: **How many businesses did not report a net profit nor invest in foreign
 - Foreign investment group = 15.  
 - We want the number outside both groups (neither profit nor foreign).  
 - Formula:  
+
 $ \text{Neither} = 30 - (\text{Profit} + \text{Foreign} - \text{Both})$  
+
 So we need the intersection (“Both”).
 
 
