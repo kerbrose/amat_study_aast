@@ -1949,7 +1949,7 @@ That corresponds to **Answer Choice D** in GMAT-style Data Sufficiency.
 
 We want: **Is $n$ closer to 50 than to 75?**
 
----
+
 
 ### Step 1: Translate the question  
 - “Closer to 50 than to 75” means:  
@@ -1957,14 +1957,14 @@ We want: **Is $n$ closer to 50 than to 75?**
 - Equivalently: $n < 62.5$.  
 So the question is: **Is $n < 62.5$?**
 
----
+
 
 ### Statement (1): $75 - n > n - 50$  
 $75 - n > n - 50 \quad \Rightarrow \quad 125 > 2n \quad \Rightarrow \quad n < 62.5$  
 This directly tells us that $n$ is less than 62.5, i.e., closer to 50.  
 **Sufficient.**
 
----
+
 
 ### Statement (2): $n > 60$  
 - If $n = 61$, then it’s closer to 50 (distance 11 vs. 14).  
@@ -1972,14 +1972,14 @@ This directly tells us that $n$ is less than 62.5, i.e., closer to 50.
 - So depending on the value, $n$ could be closer to 50 or to 75.  
 **Insufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 - Statement (1) alone already gives sufficiency.  
 - Adding (2) doesn’t change that.  
 - Still **sufficient**.
 
----
+
 
 ### ✅ Final Answer:  
 **Statement (1) alone is sufficient, but statement (2) alone is not.**  
@@ -1992,41 +1992,46 @@ That corresponds to **Answer Choice A** in GMAT-style Data Sufficiency.
 
 We want: **What is the value of $t$, given $t = 2x(5n)$?**
 
----
+
 
 ### Step 1: Simplify the expression  
 $t = 2x \cdot 5n = 10xn$  
 So to find $t$, we need both $x$ and $n$.
 
----
 
 ### Statement (1): $x = n + 3$  
 - Substituting:  
-  $  t = 10x n = 10(n+3)n = 10(n^2 + 3n)$  
+
+$ t = 10x n = 10(n+3)n = 10(n^2 + 3n)$  
+
 - This gives a formula for $t$, but without knowing $n$, we cannot get a single numeric value.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2): $2x = 32$  
 - Then $x = 16$.  
 - Substituting:  
-  $  t = 10 \cdot 16 \cdot n = 160n$  
+
+$  t = 10 \cdot 16 \cdot n = 160n$  
+
 - Again, without knowing $n$, we cannot get a single numeric value.  
 - **Insufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 - From (2): $x = 16$.  
 - From (1): $x = n + 3$.  
 - So $n = 13$.  
 - Substituting:  
-  $  t = 10 \cdot 16 \cdot 13 = 2080$  
+
+$ t = 10 \cdot 16 \cdot 13 = 2080$  
+
 - Now we have a unique value for $t$.  
 - **Sufficient together.**
 
----
+
 
 ### ✅ Final Answer:  
 **Statements (1) and (2) together are sufficient, but neither alone is sufficient.**  
