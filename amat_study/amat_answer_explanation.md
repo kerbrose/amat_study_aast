@@ -2330,7 +2330,6 @@ That corresponds to **Answer Choice C** in GMAT-style Data Sufficiency.
 
 We want: **By what percent was the price of the candy bar increased?**
 
----
 
 ### Step 1: Define variables  
 - Let the original price = $P$.  
@@ -2339,14 +2338,12 @@ We want: **By what percent was the price of the candy bar increased?**
 - Percent increase = $\dfrac{0.05}{P} \times 100\%$.  
 So we need the original price $P$.
 
----
 
 ### Statement (1): The price was increased by 5 cents  
 - This tells us the absolute increase, but not the original price.  
 - Without $P$, we cannot compute the percent increase.  
 - **Insufficient.**
 
----
 
 ### Statement (2): The price after the increase was 45 cents  
 - So $P + 0.05 = 0.45$.  
@@ -2354,7 +2351,6 @@ So we need the original price $P$.
 - Without the increase amount, we cannot compute the percent increase.  
 - **Insufficient.**
 
----
 
 ### Combine (1) and (2):  
 - From (2): $P + 0.05 = 0.45 \Rightarrow P = 0.40$.  
@@ -2363,7 +2359,6 @@ So we need the original price $P$.
 - Now we can determine the exact percent increase.  
 - **Sufficient together.**
 
----
 
 ### ✅ Final Answer:  
 **Statements (1) and (2) together are sufficient, but neither alone is sufficient.**  
