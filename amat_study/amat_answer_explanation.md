@@ -2464,7 +2464,7 @@ Let’s carefully analyze this **Data Sufficiency** problem:
 
 We want: **The ratio of baking powder to flour in the biscuit mix.**
 
----
+
 
 ### Step 1: Define variables  
 - Let $F$ = grams of flour.  
@@ -2472,7 +2472,7 @@ We want: **The ratio of baking powder to flour in the biscuit mix.**
 - Total mix = $F + B$.  
 - We want: $\dfrac{B}{F}$.
 
----
+
 
 ### Statement (1):  
 *Exactly 9.9 grams of flour is contained in 10 grams of the mix.*  
@@ -2484,7 +2484,7 @@ $\frac{B}{F} = \frac{0.1}{9.9} = \frac{1}{99}$
 This gives the exact ratio.  
 **Sufficient.**
 
----
+
 
 ### Statement (2):  
 *Exactly 0.3 gram of baking powder is contained in 30 grams of the mix.*  
@@ -2496,13 +2496,13 @@ $\frac{B}{F} = \frac{0.3}{29.7} = \frac{3}{297} = \frac{1}{99}$
 This also gives the exact ratio.  
 **Sufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 Each statement alone already gives the ratio.  
 Together they are also sufficient, but not needed.
 
----
+
 
 ### ✅ Final Answer:  
 **Each statement alone is sufficient.**  
