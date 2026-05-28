@@ -2146,7 +2146,7 @@ To determine the time the order was completed, we need two pieces of information
 This gives us the start time, but we have no information about how fast the machine is working. It could finish in 10 minutes or 10 hours.
 **Statement (1) is NOT SUFFICIENT.**
 
----
+
 
 ### Evaluating Statement (2): The machine had filled 1/2 of the order by 10:30 a.m. and 5/6 of the order by 11:10 a.m.
 
@@ -2157,14 +2157,14 @@ The difference between  $\frac{5}{6}$ and $\frac{1}{2}$​ is:
 $\frac{5}{6} - \frac{3}{6} = \frac{2}{6} = \frac{1}{3}$
 
 2. **Find the time elapsed:** The time from 10:30 a.m. to 11:10 a.m. is **40 minutes**.
-3. **Calculate the remaining work: ** At 11:10 a.m., the machine has completed $\frac{5}{6}$ of the order. To finish, it needs to complete the remaining $\frac{1}{6}$ of the order.
+3. **Calculate the remaining work:** At 11:10 a.m., the machine has completed $\frac{5}{6}$ of the order. To finish, it needs to complete the remaining $\frac{1}{6}$ of the order.
 4. **Determine the time to finish:** If it takes 40 minutes to do $\frac{1}{3}$ of the order, it will take **20 minutes** to do $\frac{1}{6}$ of the order (since $\frac{1}{6}$ is half of $\frac{1}{3}$).
 * 11:10 a.m. + 20 minutes = **11:30 a.m.**
 
 
 **Statement (2) is SUFFICIENT.**
 
----
+
 
 ### Conclusion
 
