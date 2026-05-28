@@ -1782,7 +1782,7 @@ That corresponds to **Answer Choice C** in GMAT-style Data Sufficiency.
 
 We want: **Total number of games Team A won.**
 
----
+
 
 ### Step 1: Break down the situation
 - Team A played 20 games initially.  
@@ -1791,7 +1791,7 @@ We want: **Total number of games Team A won.**
 - So total wins = $10 + \text{(remaining games)}$.  
 - To solve, we need to know how many games were played in total.
 
----
+
 
 ### Statement (1): Team A played 25 games altogether
 - Total games = 25.  
@@ -1800,24 +1800,22 @@ We want: **Total number of games Team A won.**
 - Total wins = $10 + 5 = 15$.  
 - **Sufficient.**
 
----
+
 
 ### Statement (2): Team A won 60% of all the games it played
 - Let total games = $N$.  
 - Wins = $0.6N$.  
 - But we also know wins = $10 + (N - 20)$.  
-  $  0.6N = 10 + (N - 20) = N - 10$  
-  $0.6N = N - 10 \quad \Rightarrow \quad 0.4N = 10 \quad \Rightarrow \quad N = 25$  
+$ 0.6N = 10 + (N - 20) = N - 10$  
+$0.6N = N - 10 \quad \Rightarrow \quad 0.4N = 10 \quad \Rightarrow \quad N = 25$  
 - So total wins = $0.6 \times 25 = 15$.  
 - **Sufficient.**
 
----
 
 ### Combine (1) and (2):  
 Each statement alone already gives the unique answer (15 wins).  
 Together they are also sufficient, but not needed.
 
----
 
 ### ✅ Final Answer:  
 **Each statement alone is sufficient.**  
