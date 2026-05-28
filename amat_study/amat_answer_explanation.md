@@ -2519,14 +2519,14 @@ Let’s carefully analyze this **Data Sufficiency** problem:
 
 We want: **The selling price of the house.**
 
----
+
 
 ### Step 1: Define variables  
 - Let $S$ = selling price.  
 - Commission = $0.06S$.  
 - Net amount (after commission) = $S - 0.06S = 0.94S$.
 
----
+
 
 ### Statement (1):  
 *The selling price minus the commission was \$84,600.*  
@@ -2537,7 +2537,7 @@ $0.94S = 84{,}600 \quad \Rightarrow \quad S = \frac{84{,}600}{0.94} = 90{,}000$
 We can determine the exact selling price.  
 **Sufficient.**
 
----
+
 
 ### Statement (2):  
 *The selling price was 250% of the original purchase price of \$36,000.*  
@@ -2548,13 +2548,13 @@ $S = 2.5 \times 36{,}000 = 90{,}000$
 We can determine the exact selling price.  
 **Sufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 Each statement alone already gives the selling price.  
 Together they are also sufficient, but not needed.
 
----
+
 
 ### ✅ Final Answer:  
 **Each statement alone is sufficient.**  
