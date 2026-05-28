@@ -2231,7 +2231,7 @@ That corresponds to **Answer Choice E** in GMAT-style Data Sufficiency.
 
 We want: **the amount Elena spent on newspapers** given her total spending was \$720.
 
----
+
 
 ### Statement (1)  
 - Magazines = 80% of books.  
@@ -2241,7 +2241,7 @@ We want: **the amount Elena spent on newspapers** given her total spending was \
 - Two unknowns, one equation. Cannot solve for $(N)$.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2)  
 - Newspapers = 60% of (magazines + books).  
@@ -2253,13 +2253,13 @@ We want: **the amount Elena spent on newspapers** given her total spending was \
 - Unique value for newspapers.  
 - **Sufficient.**
 
----
+
 
 ### Combining  
 - Statement (2) alone already gives the answer.  
 - Statement (1) is not needed.
 
----
+
 
 ### Correct Answer Choice:  
 **(B)** — Statement (2) alone is sufficient, but statement (1) alone is not.  
