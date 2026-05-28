@@ -2373,14 +2373,14 @@ Let’s carefully analyze this **Data Sufficiency** problem:
 
 We want: **Surface area of the painted band around the circular tub.**
 
----
+
 
 ### Step 1: Recall formula  
 The painted band is essentially the **lateral surface area of a cylindrical strip** of height $x$.  
 $\text{Band area} = \text{circumference} \times \text{height} = (2\pi r)(x)$  
 So we need both the **radius $r$** of the tub and the **height $x$** of the band.
 
----
+
 
 ### Statement (1): $x = 0.5$  
 - This gives the height of the band.  
@@ -2388,14 +2388,14 @@ So we need both the **radius $r$** of the tub and the **height $x$** of the band
 - Without $r$, we cannot compute the area.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2): The height of the tub is 1 meter  
 - This gives the total height of the tub, not the band height.  
 - We still don’t know the radius $r$, nor the band’s height $x$.  
 - **Insufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 - From (1): Band height = 0.5 m.  
@@ -2404,12 +2404,11 @@ So we need both the **radius $r$** of the tub and the **height $x$** of the band
 - Without $r$, we cannot compute the band’s surface area.  
 - **Still insufficient.**
 
----
+
 
 ### ✅ Final Answer:  
 **Statements (1) and (2) together are not sufficient.**  
 That corresponds to **Answer Choice E** in GMAT-style Data Sufficiency.
-
 
 
 A useful shortcut here: whenever the question asks for **surface area of a cylindrical band**, check if both **radius** and **band height** are given. If either is missing, the information is insufficient. 
