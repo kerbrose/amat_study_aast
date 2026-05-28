@@ -1828,61 +1828,70 @@ That corresponds to **Answer Choice D** in GMAT-style Data Sufficiency.
 
 ## Q44
 
-This is a classic number theory puzzle. To determine if the product  is a multiple of 8, we need to look at the "evenness" of these three consecutive integers.
+To determine if the product $abc$ is a multiple of 8, let's analyze the given information:
 
-### The Core Principle
+We are told that $a$, $b$, and $c$ are consecutive integers and $0 < a < b < c$.
+Because they are three consecutive integers, they must follow one of two patterns:
 
-In any set of three consecutive integers , there are only two possible patterns for even (E) and odd (O) numbers:
+* **Pattern 1 (Odd-Even-Odd):** $a$ is odd, $b$ is even, $c$ is odd.
+* **Pattern 2 (Even-Odd-Even):** $a$ is even, $b$ is odd, $c$ is even.
 
-1. **Odd, Even, Odd** (e.g., 1, 2, 3)
-2. **Even, Odd, Even** (e.g., 2, 3, 4)
+Let's evaluate the statements.
 
-For the product  to be a multiple of 8, the total "count" of factors of 2 across all three numbers must be at least three (since ).
 
----
 
-### Evaluating Statement (1): The product  is even.
+### **Statement (1): The product $ac$ is even.**
 
-If the product of  and  is even, at least one of them must be even.
+For the product of two numbers ($ac$) to be even, at least one of the numbers must be even.
 
-* In the **Odd, Even, Odd** pattern, both  and  are odd, so  would be odd. This pattern is ruled out.
-* In the **Even, Odd, Even** pattern, both  and  are even, so  is even. This matches the statement.
+If we look at our two patterns:
 
-In the **Even, Odd, Even** pattern:
+* In **Pattern 1**, both $a$ and $c$ are odd, so $ac$ would be *odd*. This contradicts Statement 1.
+* In **Pattern 2**, both $a$ and $c$ are even, so $ac$ is *even*. This matches Statement 1.
 
-* Since  and  are consecutive even numbers (like 2 and 4, or 4 and 6), one of them **must** be a multiple of 4.
-* The other even number provides at least one factor of 2.
-* Combined (), the product  will always be a multiple of 8.
+Therefore, Statement 1 locks us into **Pattern 2**, meaning $a$ is even, $b$ is odd, and $c$ is even.
+
+Since $a$ and $c$ are consecutive even integers (separated by the odd integer $b$), one of them must be a multiple of 2 and the other must be a multiple of 4.
+
+* Because $a$ and $c$ are even, $a \times c$ will contribute at least $2 \times 4 = 8$ to the overall product.
+* For example: If $a=2, b=3, c=4$, then $abc = 2 \times 3 \times 4 = 24$ (a multiple of 8).
+* For example: If $a=4, b=5, c=6$, then $abc = 4 \times 5 \times 6 = 120$ (a multiple of 8).
+
+Since $abc$ will always contain at least one factor of 4 and one factor of 2, the product $abc$ will **always** be a multiple of 8.
 
 **Statement (1) is SUFFICIENT.**
 
----
 
-### Evaluating Statement (2): The product  is a multiple of 4.
 
-Let’s test our two possible patterns:
+### **Statement (2): The product $bc$ is a multiple of 4.**
 
-* **Pattern 1 (Odd, Even, Odd):** Let $a=1,b=2,c=3$. Here $bc=6$, which is **not** a multiple of 4. This pattern is ruled out.
-* **Pattern 2 (Even, Odd, Even):** Let $a=2,b=3,c=4$. Here $bc=12$, which **is** a multiple of 4. In this case, $abc=24$, which is a multiple of 8.
+Let's test our two patterns to see if they can satisfy this condition:
 
-Wait, let's check if Pattern 1 could ever work. If $b$ is even and $c$ is odd, for $bc$ to be a multiple of 4, $b$ itself must be a multiple of 4 (since  contributes no factors of 2).
+* **Case 1: Pattern 1 (Odd-Even-Odd)**
+* Let $a=3, b=4, c=5$.
+* Is $bc$ a multiple of 4? $4 \times 5 = 20$ (Yes).
+* Is $abc$ a multiple of 8? $3 \times 4 \times 5 = 60$ (**No**).
 
-* If $b=4$, then $a=3$ and $c=5$.
-* Product $abc=3×4×5=60$. Is 60 a multiple of 8? **No.**
 
-Now we have a conflict:
+* **Case 2: Pattern 2 (Even-Odd-Even)**
+* Let $a=2, b=3, c=4$.
+* Is $bc$ a multiple of 4? $3 \times 4 = 12$ (Yes).
+* Is $abc$ a multiple of 8? $2 \times 3 \times 4 = 24$ (**Yes**).
 
-* If $a=2$, $b=3$, $c=4$, the answer is **Yes**.
-* If $a=3$, $b=4$, $c=5$, the answer is **No**.
+
+
+Because we can get both a "No" and a "Yes" answer, Statement 2 does not give us a definitive answer.
 
 **Statement (2) is NOT SUFFICIENT.**
 
----
 
-### Conclusion
 
-Since Statement (1) guarantees the **Even, Odd, Even** pattern (which always results in a multiple of 8), but Statement (2) allows for both "Yes" and "No" scenarios, the answer is **A**.
+### **Conclusion:**
 
+* Statement (1) alone is sufficient.
+* Statement (2) alone is not sufficient.
+
+**Correct Answer: A** (Statement 1 alone is sufficient, but statement 2 alone is not sufficient).
 
 
 ---
