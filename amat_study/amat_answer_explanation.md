@@ -2330,7 +2330,6 @@ That corresponds to **Answer Choice C** in GMAT-style Data Sufficiency.
 
 We want: **By what percent was the price of the candy bar increased?**
 
----
 
 ### Step 1: Define variables  
 - Let the original price = $P$.  
@@ -2339,14 +2338,12 @@ We want: **By what percent was the price of the candy bar increased?**
 - Percent increase = $\dfrac{0.05}{P} \times 100\%$.  
 So we need the original price $P$.
 
----
 
 ### Statement (1): The price was increased by 5 cents  
 - This tells us the absolute increase, but not the original price.  
 - Without $P$, we cannot compute the percent increase.  
 - **Insufficient.**
 
----
 
 ### Statement (2): The price after the increase was 45 cents  
 - So $P + 0.05 = 0.45$.  
@@ -2354,7 +2351,6 @@ So we need the original price $P$.
 - Without the increase amount, we cannot compute the percent increase.  
 - **Insufficient.**
 
----
 
 ### Combine (1) and (2):  
 - From (2): $P + 0.05 = 0.45 \Rightarrow P = 0.40$.  
@@ -2363,7 +2359,6 @@ So we need the original price $P$.
 - Now we can determine the exact percent increase.  
 - **Sufficient together.**
 
----
 
 ### ✅ Final Answer:  
 **Statements (1) and (2) together are sufficient, but neither alone is sufficient.**  
@@ -2378,14 +2373,14 @@ Let’s carefully analyze this **Data Sufficiency** problem:
 
 We want: **Surface area of the painted band around the circular tub.**
 
----
+
 
 ### Step 1: Recall formula  
 The painted band is essentially the **lateral surface area of a cylindrical strip** of height $x$.  
 $\text{Band area} = \text{circumference} \times \text{height} = (2\pi r)(x)$  
 So we need both the **radius $r$** of the tub and the **height $x$** of the band.
 
----
+
 
 ### Statement (1): $x = 0.5$  
 - This gives the height of the band.  
@@ -2393,14 +2388,14 @@ So we need both the **radius $r$** of the tub and the **height $x$** of the band
 - Without $r$, we cannot compute the area.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2): The height of the tub is 1 meter  
 - This gives the total height of the tub, not the band height.  
 - We still don’t know the radius $r$, nor the band’s height $x$.  
 - **Insufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 - From (1): Band height = 0.5 m.  
@@ -2409,12 +2404,11 @@ So we need both the **radius $r$** of the tub and the **height $x$** of the band
 - Without $r$, we cannot compute the band’s surface area.  
 - **Still insufficient.**
 
----
+
 
 ### ✅ Final Answer:  
 **Statements (1) and (2) together are not sufficient.**  
 That corresponds to **Answer Choice E** in GMAT-style Data Sufficiency.
-
 
 
 A useful shortcut here: whenever the question asks for **surface area of a cylindrical band**, check if both **radius** and **band height** are given. If either is missing, the information is insufficient. 
@@ -2428,32 +2422,32 @@ Let’s carefully analyze this **Data Sufficiency** problem:
 
 We want: **Is $a > b$?**
 
----
+
 
 ### Step 1: Restate the condition  
 The question is asking directly whether $a$ is greater than $b$.
 
----
+
 
 ### Statement (1): $2a > 2b$  
 - Dividing both sides by 2 (positive constant), we get $a > b$.  
 - This directly answers the question.  
 - **Sufficient.**
 
----
+
 
 ### Statement (2): $a + c > b + c$  
 - Subtracting $c$ from both sides, we get $a > b$.  
 - This also directly answers the question.  
 - **Sufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 - Each statement alone already gives sufficiency.  
 - Together they are also sufficient, but not needed.
 
----
+
 
 ### ✅ Final Answer:  
 **Each statement alone is sufficient.**  
@@ -2470,7 +2464,7 @@ Let’s carefully analyze this **Data Sufficiency** problem:
 
 We want: **The ratio of baking powder to flour in the biscuit mix.**
 
----
+
 
 ### Step 1: Define variables  
 - Let $F$ = grams of flour.  
@@ -2478,7 +2472,7 @@ We want: **The ratio of baking powder to flour in the biscuit mix.**
 - Total mix = $F + B$.  
 - We want: $\dfrac{B}{F}$.
 
----
+
 
 ### Statement (1):  
 *Exactly 9.9 grams of flour is contained in 10 grams of the mix.*  
@@ -2490,7 +2484,7 @@ $\frac{B}{F} = \frac{0.1}{9.9} = \frac{1}{99}$
 This gives the exact ratio.  
 **Sufficient.**
 
----
+
 
 ### Statement (2):  
 *Exactly 0.3 gram of baking powder is contained in 30 grams of the mix.*  
@@ -2502,13 +2496,13 @@ $\frac{B}{F} = \frac{0.3}{29.7} = \frac{3}{297} = \frac{1}{99}$
 This also gives the exact ratio.  
 **Sufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 Each statement alone already gives the ratio.  
 Together they are also sufficient, but not needed.
 
----
+
 
 ### ✅ Final Answer:  
 **Each statement alone is sufficient.**  
