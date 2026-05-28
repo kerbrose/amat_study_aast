@@ -1738,7 +1738,6 @@ That corresponds to **Answer Choice C** in GMAT-style Data Sufficiency.
 
 We want: **Coordinates of point R** given that triangles $ \triangle OPQ $ and $ \triangle QRS $ have equal area.
 
----
 
 ### Step 1: Interpret the setup
 - $O$ is the origin $(0,0)$.  
@@ -1746,7 +1745,6 @@ We want: **Coordinates of point R** given that triangles $ \triangle OPQ $ and $
 - We’re told the two triangles have equal area.  
 - To solve, we need enough information to pin down $R$.
 
----
 
 ### Statement (1): $P = (0,12)$  
 - This fixes point $P$.  
@@ -1754,7 +1752,6 @@ We want: **Coordinates of point R** given that triangles $ \triangle OPQ $ and $
 - Equal area condition alone isn’t enough to determine $R$.  
 - **Insufficient.**
 
----
 
 ### Statement (2): $OP = OQ$ and $QS = RS$  
 - $OP = OQ$ means $P$ and $Q$ are equidistant from the origin.  
@@ -1762,7 +1759,6 @@ We want: **Coordinates of point R** given that triangles $ \triangle OPQ $ and $
 - This gives geometric relationships, but without coordinates for $P$, we can’t calculate exact positions.  
 - **Insufficient.**
 
----
 
 ### Combine (1) and (2):  
 - From (1), $P = (0,12)$.  
@@ -1773,7 +1769,6 @@ We want: **Coordinates of point R** given that triangles $ \triangle OPQ $ and $
 - Together, these constraints are enough to uniquely determine $R$.  
 - **Sufficient.**
 
----
 
 ### ✅ Final Answer:  
 **Statements (1) and (2) together are sufficient, but neither alone is sufficient.**  
