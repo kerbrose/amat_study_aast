@@ -2422,32 +2422,32 @@ Let’s carefully analyze this **Data Sufficiency** problem:
 
 We want: **Is $a > b$?**
 
----
+
 
 ### Step 1: Restate the condition  
 The question is asking directly whether $a$ is greater than $b$.
 
----
+
 
 ### Statement (1): $2a > 2b$  
 - Dividing both sides by 2 (positive constant), we get $a > b$.  
 - This directly answers the question.  
 - **Sufficient.**
 
----
+
 
 ### Statement (2): $a + c > b + c$  
 - Subtracting $c$ from both sides, we get $a > b$.  
 - This also directly answers the question.  
 - **Sufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 - Each statement alone already gives sufficiency.  
 - Together they are also sufficient, but not needed.
 
----
+
 
 ### ✅ Final Answer:  
 **Each statement alone is sufficient.**  
