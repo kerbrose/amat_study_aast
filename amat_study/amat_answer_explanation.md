@@ -2099,13 +2099,13 @@ That corresponds to **Answer Choice D** in GMAT-style Data Sufficiency.
 We want: **Does $a^2 + b^2 = c^2$?**  
 That’s the Pythagorean theorem condition, i.e., is the triangle right‑angled?
 
----
+
 
 ### Step 1: Interpret the setup  
 We have a triangle with angles $x, y,$ and presumably the third angle $= 180 - (x+y)$.  
 Sides are labeled $a, b, c$. The question is essentially: is the triangle right‑angled?
 
----
+
 
 ### Statement (1): $x + y = 90$  
 - Then the third angle = $180 - 90 = 90$.  
@@ -2113,7 +2113,7 @@ Sides are labeled $a, b, c$. The question is essentially: is the triangle right�
 - In a right triangle, the Pythagorean theorem holds: $a^2 + b^2 = c^2$.  
 - **Sufficient.**
 
----
+
 
 ### Statement (2): $x = y$  
 - This means the triangle is isosceles.  
@@ -2121,14 +2121,14 @@ Sides are labeled $a, b, c$. The question is essentially: is the triangle right�
 - Without knowing the actual measures, we cannot conclude.  
 - **Insufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 - Statement (1) alone already guarantees sufficiency.  
 - Adding (2) doesn’t change that.  
 - Still **sufficient.**
 
----
+
 
 ### ✅ Final Answer:  
 **Statement (1) alone is sufficient, but statement (2) alone is not.**  
@@ -2146,7 +2146,7 @@ To determine the time the order was completed, we need two pieces of information
 This gives us the start time, but we have no information about how fast the machine is working. It could finish in 10 minutes or 10 hours.
 **Statement (1) is NOT SUFFICIENT.**
 
----
+
 
 ### Evaluating Statement (2): The machine had filled 1/2 of the order by 10:30 a.m. and 5/6 of the order by 11:10 a.m.
 
@@ -2157,14 +2157,14 @@ The difference between  $\frac{5}{6}$ and $\frac{1}{2}$​ is:
 $\frac{5}{6} - \frac{3}{6} = \frac{2}{6} = \frac{1}{3}$
 
 2. **Find the time elapsed:** The time from 10:30 a.m. to 11:10 a.m. is **40 minutes**.
-3. **Calculate the remaining work: ** At 11:10 a.m., the machine has completed $\frac{5}{6}$ of the order. To finish, it needs to complete the remaining $\frac{1}{6}$ of the order.
+3. **Calculate the remaining work:** At 11:10 a.m., the machine has completed $\frac{5}{6}$ of the order. To finish, it needs to complete the remaining $\frac{1}{6}$ of the order.
 4. **Determine the time to finish:** If it takes 40 minutes to do $\frac{1}{3}$ of the order, it will take **20 minutes** to do $\frac{1}{6}$ of the order (since $\frac{1}{6}$ is half of $\frac{1}{3}$).
 * 11:10 a.m. + 20 minutes = **11:30 a.m.**
 
 
 **Statement (2) is SUFFICIENT.**
 
----
+
 
 ### Conclusion
 
@@ -2179,7 +2179,7 @@ The correct answer is **B**.
 
 We want: **Gross revenues from ticket sales during the second week.**
 
----
+
 
 ### Step 1: Define variables  
 - Let $W_1$ = revenues in week 1.  
@@ -2187,7 +2187,7 @@ We want: **Gross revenues from ticket sales during the second week.**
 - Let $W_3$ = revenues in week 3.  
 - We want $W_2$.
 
----
+
 
 ### Statement (1):  
 *Gross revenues during the second week were $1.5 million less than during the first week.*  
@@ -2197,7 +2197,7 @@ $W_2 = W_1 - 1.5$
 This gives a relationship, but not the actual value of $W_2$, since $W_1$ is unknown.  
 **Insufficient.**
 
----
+
 
 ### Statement (2):  
 *Gross revenues during the third week were $2.0 million less than during the first week.*  
@@ -2207,7 +2207,7 @@ $W_3 = W_1 - 2.0$
 This gives a relationship between $W_3$ and $W_1$, but nothing about $W_2$.  
 **Insufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 - From (1): $W_2 = W_1 - 1.5$.  
@@ -2217,7 +2217,7 @@ This gives a relationship between $W_3$ and $W_1$, but nothing about $W_2$.
 - Without a numerical value for $W_1$, we cannot determine $W_2$.  
 **Still insufficient.**
 
----
+
 
 ### ✅ Final Answer:  
 **Statements (1) and (2) together are not sufficient.**  
@@ -2231,7 +2231,7 @@ That corresponds to **Answer Choice E** in GMAT-style Data Sufficiency.
 
 We want: **the amount Elena spent on newspapers** given her total spending was \$720.
 
----
+
 
 ### Statement (1)  
 - Magazines = 80% of books.  
@@ -2241,7 +2241,7 @@ We want: **the amount Elena spent on newspapers** given her total spending was \
 - Two unknowns, one equation. Cannot solve for $(N)$.  
 - **Insufficient.**
 
----
+
 
 ### Statement (2)  
 - Newspapers = 60% of (magazines + books).  
@@ -2253,13 +2253,13 @@ We want: **the amount Elena spent on newspapers** given her total spending was \
 - Unique value for newspapers.  
 - **Sufficient.**
 
----
+
 
 ### Combining  
 - Statement (2) alone already gives the answer.  
 - Statement (1) is not needed.
 
----
+
 
 ### Correct Answer Choice:  
 **(B)** — Statement (2) alone is sufficient, but statement (1) alone is not.  
