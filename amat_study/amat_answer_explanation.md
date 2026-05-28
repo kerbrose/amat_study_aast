@@ -1806,8 +1806,11 @@ We want: **Total number of games Team A won.**
 - Let total games = $N$.  
 - Wins = $0.6N$.  
 - But we also know wins = $10 + (N - 20)$.  
-$ 0.6N = 10 + (N - 20) = N - 10$  
+
+$0.6N = 10 + (N - 20) = N - 10$
+
 $0.6N = N - 10 \quad \Rightarrow \quad 0.4N = 10 \quad \Rightarrow \quad N = 25$  
+
 - So total wins = $0.6 \times 25 = 15$.  
 - **Sufficient.**
 
