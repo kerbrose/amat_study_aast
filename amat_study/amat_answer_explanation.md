@@ -2854,3 +2854,48 @@ Answer choice **A**.
 
 ---
 
+
+## Q65
+
+
+### Question Restated
+We need to determine: **Is the integer $n$ odd?**
+
+
+### Statement (1):  
+$n$ is divisible by 3.  
+
+- Possible values: $n = 3, 6, 9, 12, \dots$  
+- Some of these are odd (3, 9, 15, …), some are even (6, 12, 18, …).  
+👉 We cannot determine odd/even.  
+
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2):  
+$n$ is divisible by 5.  
+
+- Possible values: $n = 5, 10, 15, 20, \dots$  
+- Some are odd (5, 15, 25, …), some are even (10, 20, 30, …).  
+👉 We cannot determine odd/even.  
+
+❌ **Statement (2) alone is not sufficient.**
+
+
+
+### Combine (1) and (2):  
+If $n$ is divisible by both 3 and 5, then $n$ is divisible by 15.  
+
+- Possible values: $n = 15, 30, 45, 60, \dots$  
+- Again, some are odd (15, 45, 75, …), some are even (30, 60, 90, …).  
+👉 Still cannot determine odd/even.  
+
+❌ **Together not sufficient.**
+
+
+### Final Answer  
+**Statements (1) and (2) together are not sufficient.**  
+Answer choice **E**.  
+
+---
