@@ -2769,7 +2769,7 @@ Let’s analyze this carefully in **GMAT Data Sufficiency style**:
 We are asked:  
 If $m$ and $n$ are consecutive positive integers, is $m > n$?
 
----
+
 
 ### Step 1: Restating the condition
 - If $m$ and $n$ are consecutive integers, then either:
@@ -2777,7 +2777,7 @@ If $m$ and $n$ are consecutive positive integers, is $m > n$?
   - $n = m + 1$ (so $m < n$).  
 - The question is essentially: *Which one comes first?*
 
----
+
 
 ### Statement (1): $m - 1$ and $n + 1$ are consecutive positive integers
 - If $m - 1$ and $n + 1$ are consecutive, then:
@@ -2791,7 +2791,7 @@ This matches the definition of consecutive integers, and clearly $m > n$.
 
 ✅ **Statement (1) alone is sufficient.**
 
----
+
 
 ### Statement (2): $m$ is an even integer
 - If $m$ is even, then $n$ could be either:
@@ -2801,7 +2801,7 @@ This matches the definition of consecutive integers, and clearly $m > n$.
 
 ❌ **Statement (2) alone is not sufficient.**
 
----
+
 
 ### Combined Statements
 - Statement (1) already tells us $m = n + 1$.  
