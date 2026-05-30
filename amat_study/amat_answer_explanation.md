@@ -2821,13 +2821,11 @@ We need to determine **how many tickets Paula sold**, given that Paula + Sandy =
 
 
 ### Statement (1):  
-Sandy sold $ \tfrac{2}{3} $ as many tickets as Paula.  
+Sandy sold $\tfrac{2}{3}$ as many tickets as Paula.  
 
-Let Paula = $P$. Then Sandy = $ \tfrac{2}{3}P $.  
+Let Paula = $P$. Then Sandy = $\tfrac{2}{3}P$.  
 So:  
-$$
-P + \tfrac{2}{3}P = 100 \quad \Rightarrow \quad \tfrac{5}{3}P = 100 \quad \Rightarrow \quad P = 60
-$$  
+$P + \tfrac{2}{3}P = 100 \quad \Rightarrow \quad \tfrac{5}{3}P = 100 \quad \Rightarrow \quad P = 60$  
 
 ✅ Statement (1) **alone is sufficient**.
 
@@ -2983,9 +2981,7 @@ Let’s call the current number of employees $E$.
 If 3 additional employees are hired, then there will be **at least 20 employees**.  
 
 That means:  
-$$
-E + 3 \geq 20 \quad \Rightarrow \quad E \geq 17
-$$  
+$E + 3 \geq 20 \quad \Rightarrow \quad E \geq 17$  
 
 So $E$ could be 17, 18, 19, 20, …  
 👉 Multiple possible values.  
@@ -2998,9 +2994,7 @@ So $E$ could be 17, 18, 19, 20, …
 If 3 employees resign, then there will be **fewer than 15 employees**.  
 
 That means:  
-$$
-E - 3 < 15 \quad \Rightarrow \quad E < 18
-$$  
+$E - 3 < 15 \quad \Rightarrow \quad E < 18$  
 
 So $E$ could be 17, 16, 15, …  
 👉 Multiple possible values.  
@@ -3014,14 +3008,10 @@ From (1): $E \geq 17$.
 From (2): $E < 18$.  
 
 Together:  
-$$
-17 \leq E < 18
-$$  
+$17 \leq E < 18$  
 
 So the only possible integer is:  
-$$
-E = 17
-$$  
+$E = 17$  
 
 ✅ **Together sufficient.**
 
@@ -3045,17 +3035,13 @@ Correct GMAT answer choice: **C**.
 
 ### Step 1: Restate the Question
 We’re told $x$ is one of three possible values:  
-$
-x \in \left\{ \tfrac{1}{4}, \tfrac{3}{8}, \tfrac{2}{5} \right\}
-$  
+$x \in \left\{ \tfrac{1}{4}, \tfrac{3}{8}, \tfrac{2}{5} \right\}$  
 We want to determine **the exact value of $x$**.
 
 
 
 ### Statement (1):  
-$
-\tfrac{1}{4} < x < \tfrac{1}{2}
-$
+$\tfrac{1}{4} < x < \tfrac{1}{2}$
 
 - Check each candidate:  
   - $x = \tfrac{1}{4} = 0.25$. Not greater than 0.25. ❌  
@@ -3070,9 +3056,7 @@ So $x$ could be either $3/8$ or $2/5$.
 
 
 ### Statement (2):  
-$
-\tfrac{1}{3} < x < \tfrac{3}{5}
-$
+$\tfrac{1}{3} < x < \tfrac{3}{5}$
 
 - Check each candidate:  
   - $x = \tfrac{1}{4} = 0.25$. Not greater than 1/3. ❌  
