@@ -2732,7 +2732,7 @@ which implies:
 
 $\sqrt{x} = ny \quad \Rightarrow \quad x = (ny)^2$
 
----
+
 
 ### Statement (1): $yn = 10$
 
@@ -2740,7 +2740,7 @@ $\sqrt{x} = ny \quad \Rightarrow \quad x = (ny)^2$
 - Then $x = (ny)^2 = (10)^2 = 100$.
 - So **Statement (1) alone is sufficient** to determine $x$.
 
----
+
 
 ### Statement (2): $y = 40, \; n = \frac{1}{4}$
 
@@ -2748,7 +2748,7 @@ $\sqrt{x} = ny \quad \Rightarrow \quad x = (ny)^2$
 - Then $x = (ny)^2 = (10)^2 = 100$.
 - So **Statement (2) alone is also sufficient** to determine $x$.
 
----
+
 
 ### Combined Statements
 
