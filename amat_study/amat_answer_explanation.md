@@ -2967,3 +2967,76 @@ Since we still cannot determine a single unique value for $\square$, the two sta
 
 
 ---
+
+
+## Q67
+
+
+### Step 1: Restate the Question
+We want to know: **How many employees does the company currently have?**
+
+Let’s call the current number of employees $E$.
+
+
+
+### Statement (1):  
+If 3 additional employees are hired, then there will be **at least 20 employees**.  
+
+That means:  
+$$
+E + 3 \geq 20 \quad \Rightarrow \quad E \geq 17
+$$  
+
+So $E$ could be 17, 18, 19, 20, …  
+👉 Multiple possible values.  
+
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2):  
+If 3 employees resign, then there will be **fewer than 15 employees**.  
+
+That means:  
+$$
+E - 3 < 15 \quad \Rightarrow \quad E < 18
+$$  
+
+So $E$ could be 17, 16, 15, …  
+👉 Multiple possible values.  
+
+❌ **Statement (2) alone is not sufficient.**
+
+
+
+### Combine (1) and (2):  
+From (1): $E \geq 17$.  
+From (2): $E < 18$.  
+
+Together:  
+$$
+17 \leq E < 18
+$$  
+
+So the only possible integer is:  
+$$
+E = 17
+$$  
+
+✅ **Together sufficient.**
+
+
+
+### Step 2: Eliminate Answer Choices
+- (1) alone not sufficient.  
+- (2) alone not sufficient.  
+- Together sufficient.  
+
+Correct GMAT answer choice: **C**.
+
+
+
+✅ **Final Answer: C**
+
+
+---
