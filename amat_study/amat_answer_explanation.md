@@ -3150,3 +3150,70 @@ Correct choice: **C**.
 ✅ **Final Answer: C**
 
 ---
+
+
+## Q70
+
+
+### Step 1: Restate the Equation
+We’re given:
+$x + 2y + 1 = y - x$
+
+Simplify:
+
+$x + 2y + 1 = y - x \quad \Rightarrow \quad x + 2y + 1 - y = -x$
+
+$x + y + 1 = -x$
+
+$2x + y + 1 = 0$
+
+So the relationship is:
+$2x + y = -1$
+
+We want the **value of $x$**.
+
+
+### Statement (1): $y^2 = 9$  
+That means $y = 3$ or $y = -3$.
+
+- If $y = 3$:  
+  $2x + 3 = -1 \quad \Rightarrow \quad 2x = -4 \quad \Rightarrow \quad x = -2$
+
+- If $y = -3$:  
+  $2x - 3 = -1 \quad \Rightarrow \quad 2x = 2 \quad \Rightarrow \quad x = 1$
+
+So $x$ could be $-2$ or $1$.  
+👉 Multiple values possible.  
+
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2): $y = 3$  
+Plug into the equation:  
+$2x + 3 = -1 \quad \Rightarrow \quad 2x = -4 \quad \Rightarrow \quad x = -2$
+
+Unique solution.  
+✅ **Statement (2) alone is sufficient.**
+
+
+
+### Combine (1) and (2):  
+Statement (2) already gives $y = 3$, which leads to $x = -2$.  
+So together, still sufficient.  
+
+
+
+### Step 2: Map to GMAT Answer Choices  
+- (1) alone: Not sufficient.  
+- (2) alone: Sufficient.  
+- Together: Sufficient, but (2) alone already works.  
+
+Correct GMAT choice: **B**.
+
+
+
+✅ **Final Answer: B**
+
+---
+
