@@ -2445,7 +2445,7 @@ answer is E
 
 (1) When the decimal is rounded to the nearest tenth, 3.2 is the result.
 
-(2) When the decimal is rounded to the nearest hunderdth, 3.24 is the result.
+(2) When the decimal is rounded to the nearest hundredth, 3.24 is the result.
 
 [explanation](./amat_answer_explanation.md#Q66)
 

@@ -1294,8 +1294,8 @@ So the threshold is about **6.67 m/s**.
 We want to determine if **n is prime** given two possible statements.
 
 
-### Statement A: \(24 ≤ n ≤ 28\)
-- Possible values: \(n = 24, 25, 26, 27, 28\).
+### Statement A: $24 ≤ n ≤ 28$
+- Possible values: $n = 24, 25, 26, 27, 28$.
 - Check primality:
   - 24 → divisible by 2, not prime  
   - 25 → divisible by 5, not prime  
@@ -1304,16 +1304,16 @@ We want to determine if **n is prime** given two possible statements.
   - 28 → divisible by 2, not prime  
 
 👉 None of these are prime.  
-So **Statement A alone is sufficient** to conclude that \(n\) is not prime.
+So **Statement A alone is sufficient** to conclude that $n$ is not prime.
 
-### Statement B: \(n\) is not divisible by 2 or 3
+### Statement B: $n$ is not divisible by 2 or 3
 - This eliminates multiples of 2 and 3, but many numbers remain (e.g., 5, 7, 11, 25, 49, etc.).
 - Some of these are prime, others are not.  
 👉 Statement B alone is **not sufficient**.
 
 
 ### Combined (A and B)
-- From Statement A, we already know \(n\) is between 24 and 28.  
+- From Statement A, we already know $n$ is between 24 and 28.  
 - From Statement B, we eliminate numbers divisible by 2 or 3 → possible candidates: 25.  
 - 25 is divisible by 5, so not prime.  
 👉 Together, they are also sufficient.
@@ -2811,3 +2811,295 @@ This matches the definition of consecutive integers, and clearly $m > n$.
 This corresponds to **option A** in GMAT Data Sufficiency.
 
 ---
+
+
+## Q64
+
+Let’s carefully analyze this GMAT-style **Data Sufficiency** problem:
+
+We need to determine **how many tickets Paula sold**, given that Paula + Sandy = 100.
+
+
+### Statement (1):  
+Sandy sold $ \tfrac{2}{3} $ as many tickets as Paula.  
+
+Let Paula = $P$. Then Sandy = $ \tfrac{2}{3}P $.  
+So:  
+$$
+P + \tfrac{2}{3}P = 100 \quad \Rightarrow \quad \tfrac{5}{3}P = 100 \quad \Rightarrow \quad P = 60
+$$  
+
+✅ Statement (1) **alone is sufficient**.
+
+
+
+### Statement (2):  
+Sandy sold 8% of all the raffle tickets sold for Club X.  
+
+We only know Sandy’s share of the **total tickets sold by everyone**, but we don’t know the total number of tickets sold by Club X.  
+Without knowing the total, we cannot determine Sandy’s exact number, and therefore cannot determine Paula’s number.  
+
+❌ Statement (2) **alone is not sufficient**.
+
+
+
+### Combining (1) and (2):  
+Since (1) already gives us Paula’s exact number (60), adding (2) doesn’t change sufficiency.  
+
+
+
+### Final Answer:  
+**Statement (1) alone is sufficient, but statement (2) alone is not sufficient.**  
+Answer choice **A**.  
+
+---
+
+
+## Q65
+
+
+### Question Restated
+We need to determine: **Is the integer $n$ odd?**
+
+
+### Statement (1):  
+$n$ is divisible by 3.  
+
+- Possible values: $n = 3, 6, 9, 12, \dots$  
+- Some of these are odd (3, 9, 15, …), some are even (6, 12, 18, …).  
+👉 We cannot determine odd/even.  
+
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2):  
+$n$ is divisible by 5.  
+
+- Possible values: $n = 5, 10, 15, 20, \dots$  
+- Some are odd (5, 15, 25, …), some are even (10, 20, 30, …).  
+👉 We cannot determine odd/even.  
+
+❌ **Statement (2) alone is not sufficient.**
+
+
+
+### Combine (1) and (2):  
+If $n$ is divisible by both 3 and 5, then $n$ is divisible by 15.  
+
+- Possible values: $n = 15, 30, 45, 60, \dots$  
+- Again, some are odd (15, 45, 75, …), some are even (30, 60, 90, …).  
+👉 Still cannot determine odd/even.  
+
+❌ **Together not sufficient.**
+
+
+### Final Answer  
+**Statements (1) and (2) together are not sufficient.**  
+Answer choice **E**.  
+
+---
+
+
+## Q66
+
+
+To solve this GMAT Data Sufficiency question, let's break down the given information and analyze the place values of the decimal number $3.2\square\triangle6$:
+
+* **$2$** is in the tenths place.
+* **$\square$** is in the hundredths place (this is the digit we need to find).
+* **$\triangle$** is in the thousandths place.
+* **$6$** is in the ten-thousandths place.
+
+
+
+### **Step 1: Analyze Statement (1)**
+
+> *(1) When the decimal is rounded to the nearest tenth, $3.2$ is the result.*
+
+* To round a number to the nearest tenth, we look at the digit in the **hundredths place** ($\square$).
+* If $\square$ is $0, 1, 2, 3,$ or $4$, the number rounds down to $3.2$.
+* If $\square$ is $5, 6, 7, 8,$ or $9$, the number rounds up to $3.3$.
+* Since the result is $3.2$, $\square$ can be any digit from the set $\{0, 1, 2, 3, 4\}$.
+
+Because we do not have a unique value for $\square$, **Statement (1) is NOT SUFFICIENT.**
+
+
+
+### **Step 2: Analyze Statement (2)**
+
+> *(2) When the decimal is rounded to the nearest hundredth, $3.24$ is the result.*
+
+To round a number to the nearest hundredth, we look at the digit in the **thousandths place** ($\triangle$). There are two possible scenarios that can result in $3.24$:
+
+* **Scenario A (Rounding Down):** The hundredths digit $\square$ is already $4$, and the thousandths digit $\triangle$ is less than $5$ (i.e., $0, 1, 2, 3,$ or $4$).
+* *Example:* If the number is $3.2416$, it rounds down to $3.24$. Here, $\square = 4$.
+
+
+* **Scenario B (Rounding Up):** The hundredths digit $\square$ is $3$, and the thousandths digit $\triangle$ is $5$ or greater (i.e., $5, 6, 7, 8,$ or $9$).
+* *Example:* If the number is $3.2356$, it rounds up to $3.24$. Here, $\square = 3$.
+
+
+
+*(Note: In standard mathematical rounding tested on the GMAT, you look only at the digit immediately to the right. Sequential or "double rounding" from the $6$ at the end is incorrect).*
+
+Since $\square$ can be either $3$ or $4$, **Statement (2) is NOT SUFFICIENT.**
+
+
+
+### **Step 3: Combine Statements (1) and (2)**
+
+Now we look at the intersection of the possibilities from both statements:
+
+* From Statement (1): $\square \in \{0, 1, 2, 3, 4\}$
+* From Statement (2): $\square \in \{3, 4\}$
+
+Combining both statements, $\square$ can still be either **$3$** or **$4$**:
+
+1. If the number is $3.2356$ ($\square = 3$): It rounds to $3.2$ (nearest tenth) and $3.24$ (nearest hundredth).
+2. If the number is $3.2416$ ($\square = 4$): It rounds to $3.2$ (nearest tenth) and $3.24$ (nearest hundredth).
+
+Since we still cannot determine a single unique value for $\square$, the two statements combined are not sufficient.
+
+### **Correct Answer:**
+
+**E** (Statements (1) and (2) TOGETHER are NOT sufficient).
+
+
+---
+
+
+## Q67
+
+
+### Step 1: Restate the Question
+We want to know: **How many employees does the company currently have?**
+
+Let’s call the current number of employees $E$.
+
+
+
+### Statement (1):  
+If 3 additional employees are hired, then there will be **at least 20 employees**.  
+
+That means:  
+$$
+E + 3 \geq 20 \quad \Rightarrow \quad E \geq 17
+$$  
+
+So $E$ could be 17, 18, 19, 20, …  
+👉 Multiple possible values.  
+
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2):  
+If 3 employees resign, then there will be **fewer than 15 employees**.  
+
+That means:  
+$$
+E - 3 < 15 \quad \Rightarrow \quad E < 18
+$$  
+
+So $E$ could be 17, 16, 15, …  
+👉 Multiple possible values.  
+
+❌ **Statement (2) alone is not sufficient.**
+
+
+
+### Combine (1) and (2):  
+From (1): $E \geq 17$.  
+From (2): $E < 18$.  
+
+Together:  
+$$
+17 \leq E < 18
+$$  
+
+So the only possible integer is:  
+$$
+E = 17
+$$  
+
+✅ **Together sufficient.**
+
+
+
+### Step 2: Eliminate Answer Choices
+- (1) alone not sufficient.  
+- (2) alone not sufficient.  
+- Together sufficient.  
+
+Correct GMAT answer choice: **C**.
+
+
+
+✅ **Final Answer: C**
+
+
+---
+
+## Q68
+
+### Step 1: Restate the Question
+We’re told $x$ is one of three possible values:  
+$
+x \in \left\{ \tfrac{1}{4}, \tfrac{3}{8}, \tfrac{2}{5} \right\}
+$  
+We want to determine **the exact value of $x$**.
+
+
+
+### Statement (1):  
+$
+\tfrac{1}{4} < x < \tfrac{1}{2}
+$
+
+- Check each candidate:  
+  - $x = \tfrac{1}{4} = 0.25$. Not greater than 0.25. ❌  
+  - $x = \tfrac{3}{8} = 0.375$. Yes, between 0.25 and 0.5. ✅  
+  - $x = \tfrac{2}{5} = 0.4$. Yes, between 0.25 and 0.5. ✅  
+
+So $x$ could be either $3/8$ or $2/5$.  
+👉 Multiple possibilities remain.  
+
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2):  
+$
+\tfrac{1}{3} < x < \tfrac{3}{5}
+$
+
+- Check each candidate:  
+  - $x = \tfrac{1}{4} = 0.25$. Not greater than 1/3. ❌  
+  - $x = \tfrac{3}{8} = 0.375$. Yes, between 0.333 and 0.6. ✅  
+  - $x = \tfrac{2}{5} = 0.4$. Yes, between 0.333 and 0.6. ✅  
+
+So $x$ could be either $3/8$ or $2/5$.  
+👉 Multiple possibilities remain.  
+
+❌ **Statement (2) alone is not sufficient.**
+
+
+
+### Combine (1) and (2):  
+From (1): $x \in \{3/8, 2/5\}$.  
+From (2): $x \in \{3/8, 2/5\}$.  
+
+Intersection: still $x \in \{3/8, 2/5\}$.  
+👉 We cannot determine a unique value.  
+
+❌ **Together not sufficient.**
+
+
+
+### Final Answer  
+**Statements (1) and (2) together are not sufficient.**  
+Correct GMAT choice: **E**.
+
+---
+
