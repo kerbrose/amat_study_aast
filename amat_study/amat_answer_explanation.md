@@ -2519,14 +2519,14 @@ Let’s carefully analyze this **Data Sufficiency** problem:
 
 We want: **The selling price of the house.**
 
----
+
 
 ### Step 1: Define variables  
 - Let $S$ = selling price.  
 - Commission = $0.06S$.  
 - Net amount (after commission) = $S - 0.06S = 0.94S$.
 
----
+
 
 ### Statement (1):  
 *The selling price minus the commission was \$84,600.*  
@@ -2537,7 +2537,7 @@ $0.94S = 84{,}600 \quad \Rightarrow \quad S = \frac{84{,}600}{0.94} = 90{,}000$
 We can determine the exact selling price.  
 **Sufficient.**
 
----
+
 
 ### Statement (2):  
 *The selling price was 250% of the original purchase price of \$36,000.*  
@@ -2548,13 +2548,13 @@ $S = 2.5 \times 36{,}000 = 90{,}000$
 We can determine the exact selling price.  
 **Sufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 Each statement alone already gives the selling price.  
 Together they are also sufficient, but not needed.
 
----
+
 
 ### ✅ Final Answer:  
 **Each statement alone is sufficient.**  
@@ -2571,12 +2571,11 @@ Let’s carefully analyze this **Data Sufficiency** problem:
 
 We want: **What is the value of $|x|$?**
 
----
+
 
 ### Step 1: Recall definition  
 $|x|$ is the nonnegative value of $x$. To determine it uniquely, we need enough information about $x$.
 
----
 
 ### Statement (1): $x = -|x|$  
 - If $x = -|x|$, then $x$ must be **nonpositive**.  
@@ -2585,7 +2584,6 @@ $|x|$ is the nonnegative value of $x$. To determine it uniquely, we need enough 
 - So multiple values are possible.  
 - **Insufficient.**
 
----
 
 ### Statement (2): $x^2 = 4$  
 - Then $x = \pm 2$.  
@@ -2593,7 +2591,6 @@ $|x|$ is the nonnegative value of $x$. To determine it uniquely, we need enough 
 - This gives a unique value.  
 - **Sufficient.**
 
----
 
 ### Combine (1) and (2):  
 - From (2): $x = \pm 2$.  
@@ -2605,7 +2602,6 @@ $|x|$ is the nonnegative value of $x$. To determine it uniquely, we need enough 
 - Still a unique value.  
 - **Sufficient.**
 
----
 
 ### ✅ Final Answer:  
 **Statement (2) alone is sufficient, but statement (1) alone is not.**  
@@ -2623,13 +2619,12 @@ Let’s carefully analyze this **Data Sufficiency** problem:
 
 We want: **The value of $z$ in the triangle.**
 
----
+
 
 ### Step 1: Recall triangle angle sum  
 For any triangle:  
 $x + y + z = 180^\circ$
 
----
 
 ### Statement (1): $x + y = 139$  
 Substitute into the angle sum:  
@@ -2637,7 +2632,7 @@ $139 + z = 180 \quad \Rightarrow \quad z = 41$
 This gives a unique value for $z$.  
 **Sufficient.**
 
----
+
 
 ### Statement (2): $y + z = 108$  
 Substitute into the angle sum:  
@@ -2646,14 +2641,14 @@ We now know $x$, but not $z$ individually.
 Multiple values of $z$ are possible depending on $y$.  
 **Insufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 Statement (1) alone already gives $z = 41$.  
 Adding (2) is consistent but not necessary.  
 **Sufficient.**
 
----
+
 
 ### ✅ Final Answer:  
 **Statement (1) alone is sufficient, but statement (2) alone is not.**  
@@ -2671,14 +2666,14 @@ Let’s carefully analyze this **Data Sufficiency** problem:
 
 We want: **The price of a 24‑ounce loaf of rye bread.**
 
----
+
 
 ### Step 1: Define variables  
 - Let $p_{16}$ = price of a 16‑ounce loaf.  
 - Let $p_{24}$ = price of a 24‑ounce loaf.  
 - We want $p_{24}$.
 
----
+
 
 ### Statement (1):  
 *A 16‑ounce loaf + a 24‑ounce loaf = \$2.40.*  
@@ -2688,7 +2683,7 @@ $p_{16} + p_{24} = 2.40$
 This is one equation with two unknowns. Cannot solve for $p_{24}$ alone.  
 **Insufficient.**
 
----
+
 
 ### Statement (2):  
 *Two 16‑ounce loaves + one 24‑ounce loaf = \$3.40.*  
@@ -2698,7 +2693,7 @@ $2p_{16} + p_{24} = 3.40$
 Again, one equation with two unknowns. Cannot solve for $p_{24}$ alone.  
 **Insufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 We now have a system of two equations:
@@ -2716,7 +2711,7 @@ $1.00 + p_{24} = 2.40 \quad \Rightarrow \quad p_{24} = 1.40$
 So the price of a 24‑ounce loaf is uniquely determined.  
 **Sufficient together.**
 
----
+
 
 ### ✅ Final Answer:  
 **Statements (1) and (2) together are sufficient, but neither alone is sufficient.**  
@@ -2737,7 +2732,7 @@ which implies:
 
 $\sqrt{x} = ny \quad \Rightarrow \quad x = (ny)^2$
 
----
+
 
 ### Statement (1): $yn = 10$
 
@@ -2745,7 +2740,7 @@ $\sqrt{x} = ny \quad \Rightarrow \quad x = (ny)^2$
 - Then $x = (ny)^2 = (10)^2 = 100$.
 - So **Statement (1) alone is sufficient** to determine $x$.
 
----
+
 
 ### Statement (2): $y = 40, \; n = \frac{1}{4}$
 
@@ -2753,7 +2748,7 @@ $\sqrt{x} = ny \quad \Rightarrow \quad x = (ny)^2$
 - Then $x = (ny)^2 = (10)^2 = 100$.
 - So **Statement (2) alone is also sufficient** to determine $x$.
 
----
+
 
 ### Combined Statements
 
@@ -2774,7 +2769,7 @@ Let’s analyze this carefully in **GMAT Data Sufficiency style**:
 We are asked:  
 If $m$ and $n$ are consecutive positive integers, is $m > n$?
 
----
+
 
 ### Step 1: Restating the condition
 - If $m$ and $n$ are consecutive integers, then either:
@@ -2782,7 +2777,7 @@ If $m$ and $n$ are consecutive positive integers, is $m > n$?
   - $n = m + 1$ (so $m < n$).  
 - The question is essentially: *Which one comes first?*
 
----
+
 
 ### Statement (1): $m - 1$ and $n + 1$ are consecutive positive integers
 - If $m - 1$ and $n + 1$ are consecutive, then:
@@ -2796,7 +2791,7 @@ This matches the definition of consecutive integers, and clearly $m > n$.
 
 ✅ **Statement (1) alone is sufficient.**
 
----
+
 
 ### Statement (2): $m$ is an even integer
 - If $m$ is even, then $n$ could be either:
@@ -2806,7 +2801,7 @@ This matches the definition of consecutive integers, and clearly $m > n$.
 
 ❌ **Statement (2) alone is not sufficient.**
 
----
+
 
 ### Combined Statements
 - Statement (1) already tells us $m = n + 1$.  
