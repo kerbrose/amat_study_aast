@@ -1294,8 +1294,8 @@ So the threshold is about **6.67 m/s**.
 We want to determine if **n is prime** given two possible statements.
 
 
-### Statement A: \(24 ≤ n ≤ 28\)
-- Possible values: \(n = 24, 25, 26, 27, 28\).
+### Statement A: $24 ≤ n ≤ 28$
+- Possible values: $n = 24, 25, 26, 27, 28$.
 - Check primality:
   - 24 → divisible by 2, not prime  
   - 25 → divisible by 5, not prime  
@@ -1304,16 +1304,16 @@ We want to determine if **n is prime** given two possible statements.
   - 28 → divisible by 2, not prime  
 
 👉 None of these are prime.  
-So **Statement A alone is sufficient** to conclude that \(n\) is not prime.
+So **Statement A alone is sufficient** to conclude that $n$ is not prime.
 
-### Statement B: \(n\) is not divisible by 2 or 3
+### Statement B: $n$ is not divisible by 2 or 3
 - This eliminates multiples of 2 and 3, but many numbers remain (e.g., 5, 7, 11, 25, 49, etc.).
 - Some of these are prime, others are not.  
 👉 Statement B alone is **not sufficient**.
 
 
 ### Combined (A and B)
-- From Statement A, we already know \(n\) is between 24 and 28.  
+- From Statement A, we already know $n$ is between 24 and 28.  
 - From Statement B, we eliminate numbers divisible by 2 or 3 → possible candidates: 25.  
 - 25 is divisible by 5, so not prime.  
 👉 Together, they are also sufficient.
@@ -2811,3 +2811,46 @@ This matches the definition of consecutive integers, and clearly $m > n$.
 This corresponds to **option A** in GMAT Data Sufficiency.
 
 ---
+
+
+## Q64
+
+Let’s carefully analyze this GMAT-style **Data Sufficiency** problem:
+
+We need to determine **how many tickets Paula sold**, given that Paula + Sandy = 100.
+
+
+### Statement (1):  
+Sandy sold $ \tfrac{2}{3} $ as many tickets as Paula.  
+
+Let Paula = $P$. Then Sandy = $ \tfrac{2}{3}P $.  
+So:  
+$$
+P + \tfrac{2}{3}P = 100 \quad \Rightarrow \quad \tfrac{5}{3}P = 100 \quad \Rightarrow \quad P = 60
+$$  
+
+✅ Statement (1) **alone is sufficient**.
+
+
+
+### Statement (2):  
+Sandy sold 8% of all the raffle tickets sold for Club X.  
+
+We only know Sandy’s share of the **total tickets sold by everyone**, but we don’t know the total number of tickets sold by Club X.  
+Without knowing the total, we cannot determine Sandy’s exact number, and therefore cannot determine Paula’s number.  
+
+❌ Statement (2) **alone is not sufficient**.
+
+
+
+### Combining (1) and (2):  
+Since (1) already gives us Paula’s exact number (60), adding (2) doesn’t change sufficiency.  
+
+
+
+### Final Answer:  
+**Statement (1) alone is sufficient, but statement (2) alone is not sufficient.**  
+Answer choice **A**.  
+
+---
+
