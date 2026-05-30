@@ -2619,13 +2619,12 @@ Let’s carefully analyze this **Data Sufficiency** problem:
 
 We want: **The value of $z$ in the triangle.**
 
----
+
 
 ### Step 1: Recall triangle angle sum  
 For any triangle:  
 $x + y + z = 180^\circ$
 
----
 
 ### Statement (1): $x + y = 139$  
 Substitute into the angle sum:  
@@ -2633,7 +2632,7 @@ $139 + z = 180 \quad \Rightarrow \quad z = 41$
 This gives a unique value for $z$.  
 **Sufficient.**
 
----
+
 
 ### Statement (2): $y + z = 108$  
 Substitute into the angle sum:  
@@ -2642,14 +2641,14 @@ We now know $x$, but not $z$ individually.
 Multiple values of $z$ are possible depending on $y$.  
 **Insufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 Statement (1) alone already gives $z = 41$.  
 Adding (2) is consistent but not necessary.  
 **Sufficient.**
 
----
+
 
 ### ✅ Final Answer:  
 **Statement (1) alone is sufficient, but statement (2) alone is not.**  
