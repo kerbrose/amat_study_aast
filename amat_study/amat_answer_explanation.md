@@ -2666,14 +2666,14 @@ Let’s carefully analyze this **Data Sufficiency** problem:
 
 We want: **The price of a 24‑ounce loaf of rye bread.**
 
----
+
 
 ### Step 1: Define variables  
 - Let $p_{16}$ = price of a 16‑ounce loaf.  
 - Let $p_{24}$ = price of a 24‑ounce loaf.  
 - We want $p_{24}$.
 
----
+
 
 ### Statement (1):  
 *A 16‑ounce loaf + a 24‑ounce loaf = \$2.40.*  
@@ -2683,7 +2683,7 @@ $p_{16} + p_{24} = 2.40$
 This is one equation with two unknowns. Cannot solve for $p_{24}$ alone.  
 **Insufficient.**
 
----
+
 
 ### Statement (2):  
 *Two 16‑ounce loaves + one 24‑ounce loaf = \$3.40.*  
@@ -2693,7 +2693,7 @@ $2p_{16} + p_{24} = 3.40$
 Again, one equation with two unknowns. Cannot solve for $p_{24}$ alone.  
 **Insufficient.**
 
----
+
 
 ### Combine (1) and (2):  
 We now have a system of two equations:
@@ -2711,7 +2711,7 @@ $1.00 + p_{24} = 2.40 \quad \Rightarrow \quad p_{24} = 1.40$
 So the price of a 24‑ounce loaf is uniquely determined.  
 **Sufficient together.**
 
----
+
 
 ### ✅ Final Answer:  
 **Statements (1) and (2) together are sufficient, but neither alone is sufficient.**  
