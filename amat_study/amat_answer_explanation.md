@@ -3040,3 +3040,66 @@ Correct GMAT answer choice: **C**.
 
 
 ---
+
+## Q68
+
+### Step 1: Restate the Question
+We’re told $x$ is one of three possible values:  
+$
+x \in \left\{ \tfrac{1}{4}, \tfrac{3}{8}, \tfrac{2}{5} \right\}
+$  
+We want to determine **the exact value of $x$**.
+
+
+
+### Statement (1):  
+$
+\tfrac{1}{4} < x < \tfrac{1}{2}
+$
+
+- Check each candidate:  
+  - $x = \tfrac{1}{4} = 0.25$. Not greater than 0.25. ❌  
+  - $x = \tfrac{3}{8} = 0.375$. Yes, between 0.25 and 0.5. ✅  
+  - $x = \tfrac{2}{5} = 0.4$. Yes, between 0.25 and 0.5. ✅  
+
+So $x$ could be either $3/8$ or $2/5$.  
+👉 Multiple possibilities remain.  
+
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2):  
+$
+\tfrac{1}{3} < x < \tfrac{3}{5}
+$
+
+- Check each candidate:  
+  - $x = \tfrac{1}{4} = 0.25$. Not greater than 1/3. ❌  
+  - $x = \tfrac{3}{8} = 0.375$. Yes, between 0.333 and 0.6. ✅  
+  - $x = \tfrac{2}{5} = 0.4$. Yes, between 0.333 and 0.6. ✅  
+
+So $x$ could be either $3/8$ or $2/5$.  
+👉 Multiple possibilities remain.  
+
+❌ **Statement (2) alone is not sufficient.**
+
+
+
+### Combine (1) and (2):  
+From (1): $x \in \{3/8, 2/5\}$.  
+From (2): $x \in \{3/8, 2/5\}$.  
+
+Intersection: still $x \in \{3/8, 2/5\}$.  
+👉 We cannot determine a unique value.  
+
+❌ **Together not sufficient.**
+
+
+
+### Final Answer  
+**Statements (1) and (2) together are not sufficient.**  
+Correct GMAT choice: **E**.
+
+---
+
