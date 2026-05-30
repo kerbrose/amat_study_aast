@@ -3087,3 +3087,66 @@ Correct GMAT choice: **E**.
 
 ---
 
+## Q69
+
+
+### Step 1: Restate the Question  
+We want to know if:  
+$a - b + c > a + b - c$
+
+
+
+### Step 2: Simplify the Inequality  
+Subtract $a$ from both sides:  
+$- b + c > b - c$
+
+Rearrange:  
+$c + c > b + b \quad \Rightarrow \quad 2c > 2b \quad \Rightarrow \quad c > b$
+
+So the question reduces to: **Is $c > b$?**
+
+
+
+### Statement (1): $b$ is negative.  
+- If $b < 0$, we still don’t know $c$.  
+- $c$ could be negative too (e.g., $b = -5, c = -10$, then $c < b$).  
+- Or $c$ could be positive (e.g., $b = -5, c = 2$, then $c > b$).  
+👉 Sometimes true, sometimes false.  
+
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2): $c$ is positive.  
+- If $c > 0$, we still don’t know $b$.  
+- $b$ could be negative (then $c > b$).  
+- Or $b$ could be larger positive (then $c < b$).  
+👉 Sometimes true, sometimes false.  
+
+❌ **Statement (2) alone is not sufficient.**
+
+
+
+### Combine (1) and (2):  
+- From (1): $b < 0$.  
+- From (2): $c > 0$.  
+
+So $c > 0 > b$.  
+That means $c > b$ is **always true**.  
+
+✅ **Together sufficient.**
+
+
+
+### Step 3: Map to GMAT Answer Choices  
+- (1) alone: Not sufficient.  
+- (2) alone: Not sufficient.  
+- Together: Sufficient.  
+
+Correct choice: **C**.
+
+
+
+✅ **Final Answer: C**
+
+---
