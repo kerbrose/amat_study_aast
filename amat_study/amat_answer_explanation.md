@@ -3035,7 +3035,7 @@ Correct GMAT answer choice: **C**.
 
 ### Step 1: Restate the Question
 We’re told $x$ is one of three possible values:  
-$x \in \left\{ \tfrac{1}{4}, \tfrac{3}{8}, \tfrac{2}{5} \right\}$  
+$x \in \{ \tfrac{1}{4}, \tfrac{3}{8}, \tfrac{2}{5} \}$  
 We want to determine **the exact value of $x$**.
 
 
