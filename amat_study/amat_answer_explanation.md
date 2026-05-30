@@ -2899,3 +2899,71 @@ If $n$ is divisible by both 3 and 5, then $n$ is divisible by 15.
 Answer choice **E**.  
 
 ---
+
+
+## Q66
+
+
+To solve this GMAT Data Sufficiency question, let's break down the given information and analyze the place values of the decimal number $3.2\square\triangle6$:
+
+* **$2$** is in the tenths place.
+* **$\square$** is in the hundredths place (this is the digit we need to find).
+* **$\triangle$** is in the thousandths place.
+* **$6$** is in the ten-thousandths place.
+
+
+
+### **Step 1: Analyze Statement (1)**
+
+> *(1) When the decimal is rounded to the nearest tenth, $3.2$ is the result.*
+
+* To round a number to the nearest tenth, we look at the digit in the **hundredths place** ($\square$).
+* If $\square$ is $0, 1, 2, 3,$ or $4$, the number rounds down to $3.2$.
+* If $\square$ is $5, 6, 7, 8,$ or $9$, the number rounds up to $3.3$.
+* Since the result is $3.2$, $\square$ can be any digit from the set $\{0, 1, 2, 3, 4\}$.
+
+Because we do not have a unique value for $\square$, **Statement (1) is NOT SUFFICIENT.**
+
+
+
+### **Step 2: Analyze Statement (2)**
+
+> *(2) When the decimal is rounded to the nearest hundredth, $3.24$ is the result.*
+
+To round a number to the nearest hundredth, we look at the digit in the **thousandths place** ($\triangle$). There are two possible scenarios that can result in $3.24$:
+
+* **Scenario A (Rounding Down):** The hundredths digit $\square$ is already $4$, and the thousandths digit $\triangle$ is less than $5$ (i.e., $0, 1, 2, 3,$ or $4$).
+* *Example:* If the number is $3.2416$, it rounds down to $3.24$. Here, $\square = 4$.
+
+
+* **Scenario B (Rounding Up):** The hundredths digit $\square$ is $3$, and the thousandths digit $\triangle$ is $5$ or greater (i.e., $5, 6, 7, 8,$ or $9$).
+* *Example:* If the number is $3.2356$, it rounds up to $3.24$. Here, $\square = 3$.
+
+
+
+*(Note: In standard mathematical rounding tested on the GMAT, you look only at the digit immediately to the right. Sequential or "double rounding" from the $6$ at the end is incorrect).*
+
+Since $\square$ can be either $3$ or $4$, **Statement (2) is NOT SUFFICIENT.**
+
+
+
+### **Step 3: Combine Statements (1) and (2)**
+
+Now we look at the intersection of the possibilities from both statements:
+
+* From Statement (1): $\square \in \{0, 1, 2, 3, 4\}$
+* From Statement (2): $\square \in \{3, 4\}$
+
+Combining both statements, $\square$ can still be either **$3$** or **$4$**:
+
+1. If the number is $3.2356$ ($\square = 3$): It rounds to $3.2$ (nearest tenth) and $3.24$ (nearest hundredth).
+2. If the number is $3.2416$ ($\square = 4$): It rounds to $3.2$ (nearest tenth) and $3.24$ (nearest hundredth).
+
+Since we still cannot determine a single unique value for $\square$, the two statements combined are not sufficient.
+
+### **Correct Answer:**
+
+**E** (Statements (1) and (2) TOGETHER are NOT sufficient).
+
+
+---
