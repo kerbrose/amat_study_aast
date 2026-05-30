@@ -2571,12 +2571,11 @@ Let’s carefully analyze this **Data Sufficiency** problem:
 
 We want: **What is the value of $|x|$?**
 
----
+
 
 ### Step 1: Recall definition  
 $|x|$ is the nonnegative value of $x$. To determine it uniquely, we need enough information about $x$.
 
----
 
 ### Statement (1): $x = -|x|$  
 - If $x = -|x|$, then $x$ must be **nonpositive**.  
@@ -2585,7 +2584,6 @@ $|x|$ is the nonnegative value of $x$. To determine it uniquely, we need enough 
 - So multiple values are possible.  
 - **Insufficient.**
 
----
 
 ### Statement (2): $x^2 = 4$  
 - Then $x = \pm 2$.  
@@ -2593,7 +2591,6 @@ $|x|$ is the nonnegative value of $x$. To determine it uniquely, we need enough 
 - This gives a unique value.  
 - **Sufficient.**
 
----
 
 ### Combine (1) and (2):  
 - From (2): $x = \pm 2$.  
@@ -2605,7 +2602,6 @@ $|x|$ is the nonnegative value of $x$. To determine it uniquely, we need enough 
 - Still a unique value.  
 - **Sufficient.**
 
----
 
 ### ✅ Final Answer:  
 **Statement (2) alone is sufficient, but statement (1) alone is not.**  
