@@ -4068,4 +4068,54 @@ Correct GMAT choice: **B**.
 
 ---
 
+## Q88
+
+
+### Problem Restated  
+We want to know: **Are $x, y, z$ consecutive integers?**
+
+That means:  
+$y = x+1, \quad z = x+2$
+
+
+
+### Statement (1): $z - x = 2$  
+This tells us the distance between $z$ and $x$ is 2.  
+So possible sets:  
+- $x=3, y=4, z=5$ → consecutive.  
+- $x=3, y=10, z=5$ → not consecutive.  
+
+We don’t know if $y$ is exactly between them.  
+❌ Not sufficient.
+
+
+
+### Statement (2): $x < y < z$  
+This only tells us the order, not the spacing.  
+Example: $x=2, y=3, z=4$ → consecutive.  
+Example: $x=2, y=5, z=10$ → not consecutive.  
+❌ Not sufficient.
+
+
+
+### Combine (1) and (2):  
+From (1): $z = x+2$.  
+From (2): $x < y < z$.  
+So $y$ must be strictly between $x$ and $x+2$.  
+Since $y$ is an integer, the only possibility is:  
+$y = x+1$  
+
+Thus $x, y, z$ are consecutive integers.  
+✅ Together, sufficient.
+
+
+
+### Final GMAT Answer  
+- (1) alone: Not sufficient  
+- (2) alone: Not sufficient  
+- Together: Sufficient  
+
+Correct choice: **C**.
+
+---
 
