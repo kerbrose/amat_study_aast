@@ -3529,3 +3529,56 @@ Each statement alone already gives the gloves’ cost. Together, still sufficien
 
 ---
 
+## Q78
+
+
+
+### Step 1: Restate the Question  
+We want the **number of 360° rotations** the wheel makes while rolling 100 meters.  
+That’s simply:  
+
+$\text{Rotations} = \frac{\text{Distance traveled}}{\text{Circumference of wheel}}$
+
+So we need the wheel’s circumference.
+
+
+
+### Statement (1):  
+The diameter of the wheel = 0.5 m.  
+
+Circumference = $\pi \times d = \pi \times 0.5 = 0.5\pi \approx 1.57$ m.  
+
+Rotations = $\frac{100}{0.5\pi} \approx 63.7$.  
+
+✅ Statement (1) alone is sufficient.
+
+
+
+### Statement (2):  
+The wheel makes 20 rotations per minute.  
+
+This gives a **rate of rotation**, but we don’t know the wheel’s circumference or the time taken to travel 100 meters.  
+Without knowing the wheel’s size or speed, we cannot determine the number of rotations for 100 meters.  
+
+❌ Statement (2) alone is not sufficient.
+
+
+
+### Combine (1) and (2):  
+Since (1) already gives us the exact number of rotations, combining doesn’t add value.  
+
+
+
+### Step 2: Map to GMAT Answer Choices  
+- (1) alone: Sufficient.  
+- (2) alone: Not sufficient.  
+- Together: Still sufficient, but (1) alone works.  
+
+Correct GMAT choice: **A**.
+
+
+
+✅ **Final Answer: A**
+
+---
+
