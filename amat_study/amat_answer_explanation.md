@@ -4166,4 +4166,86 @@ Correct choice: **A**.
 
 ---
 
+## Q90
+
+
+
+To determine how much of the $\$200,000$ estate the youngest child received, let's define the variables for each person's share:
+
+* $S =$ the spouse's share
+* $C_1 =$ the oldest child's share
+* $C_2 =$ the middle child's share
+* $C_3 =$ the youngest child's share
+
+From the problem, we know the total sum is:
+
+
+$S + C_1 + C_2 + C_3 = 200,000$
+
+
+
+### **Evaluating Statement (1)**
+
+> *The spouse received $\frac{1}{2}$ of the sum from the estate, and the oldest child received $\frac{1}{4}$ of the remainder.*
+
+* **Spouse's share:** $S = \frac{1}{2} \times 200,000 = 100,000$
+* **Remainder:** $200,000 - 100,000 = 100,000$
+* **Oldest child's share:** $C_1 = \frac{1}{4} \times 100,000 = 25,000$
+
+Now we can find the combined total for the remaining two younger children:
+
+
+$$C_2 + C_3 = 200,000 - 100,000 - 25,000 = 75,000$$
+
+Since we only know the sum of $C_2$ and $C_3$ but do not have any information to break down how much each individual child received, we cannot uniquely determine the youngest child's share ($C_3$).
+
+Thus, **Statement (1) alone is NOT SUFFICIENT.**
+
+
+
+### **Evaluating Statement (2)**
+
+> *Each of the two younger children received $12,500 more than the oldest child and $62,500 less than the spouse.*
+
+The two younger children are $C_2$ and $C_3$. From the statement, we can write the following relationships:
+
+1. $C_2 = C_1 + 12,500$ and $C_3 = C_1 + 12,500$
+2. $C_2 = S - 62,500$ and $C_3 = S - 62,500$
+
+Since both younger children received the exact same amount ($C_2 = C_3$), we can express both $C_1$ and $S$ in terms of $C_3$:
+
+* $C_1 = C_3 - 12,500$
+* $S = C_3 + 62,500$
+
+Now, substitute $S, C_1,$ and $C_2$ back into our original total estate equation:
+
+
+$S + C_1 + C_2 + C_3 = 200,000$
+
+$(C_3 + 62,500) + (C_3 - 12,500) + C_3 + C_3 = 200,000$
+
+Combine the like terms:
+
+
+$4C_3 + 50,000 = 200,000$
+
+$4C_3 = 150,000$
+
+$C_3 = 37,500$
+
+Since we can solve for the exact value of $C_3$ ($37,500$), this statement provides enough information.
+
+Thus, **Statement (2) alone is SUFFICIENT.**
+
+
+
+### **Conclusion**
+
+* Statement (1) alone is insufficient.
+* Statement (2) alone is sufficient.
+
+**Correct Answer:** **B** (Statement 2 alone is sufficient, but statement 1 alone is not sufficient)
+
+---
+
 
