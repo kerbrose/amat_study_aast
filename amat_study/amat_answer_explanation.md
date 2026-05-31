@@ -3690,3 +3690,60 @@ Each statement alone already gives the answer. Together, still sufficient.
 
 ---
 
+## Q81
+
+
+### Step 1: Restate the Question  
+We want the **average miles per gallon (mpg)** for a car during a 180‑mile trip.  
+Formula:  
+
+$\text{mpg} = \frac{\text{miles driven}}{\text{gallons used}}$
+
+We know miles = 180. We need gallons used.
+
+
+
+### Statement (1):  
+The total cost of gasoline for the 180‑mile trip = \$12.00.  
+
+- This gives us the **total cost**, but not the **price per gallon**.  
+- Without knowing the price per gallon, we cannot convert cost into gallons.  
+👉 Not sufficient.
+
+
+
+### Statement (2):  
+The cost of gasoline used for the trip = \$1.20 per gallon.  
+
+- This gives us the **price per gallon**, but not the **total cost**.  
+- Without knowing how much was spent, we cannot find gallons used.  
+👉 Not sufficient.
+
+
+
+### Combine (1) and (2):  
+- From (1): Total cost = \$12.00.  
+- From (2): Price per gallon = \$1.20.  
+
+Gallons used = $\frac{12}{1.20} = 10$.  
+
+So mpg = $\frac{180}{10} = 18$.  
+
+✅ Together sufficient.
+
+
+
+### Step 2: Map to GMAT Answer Choices  
+- (1) alone: Not sufficient.  
+- (2) alone: Not sufficient.  
+- Together: Sufficient.  
+
+Correct GMAT choice: **C**.
+
+
+
+✅ **Final Answer: C**
+
+---
+
+
