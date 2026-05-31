@@ -3867,3 +3867,61 @@ Correct GMAT choice: **A** (Statement (1) alone is sufficient).
 
 ---
 
+## Q84
+
+
+### Question Restated  
+We need to determine: **Is the prime number $p$ equal to 37?**
+
+
+
+### Statement (1): $p = n^2 + 1$, where $n$ is an integer.  
+
+- Possible values:  
+  - $n=6 \Rightarrow p=37$ (prime).  
+  - $n=2 \Rightarrow p=5$ (prime).  
+  - $n=4 \Rightarrow p=17$ (prime).  
+  - $n=8 \Rightarrow p=65$ (not prime).  
+
+So $p$ could be 37, but it could also be other primes (5, 17, …).  
+👉 We cannot conclude $p=37$.  
+
+❌ Statement (1) alone is **not sufficient**.
+
+
+
+### Statement (2): $p^2 > 200$.  
+
+- Since $p$ is prime, we need $p > \sqrt{200} \approx 14.1$.  
+- So $p \geq 17$.  
+- Possible primes: 17, 19, 23, 29, 31, 37, 41, …  
+
+This doesn’t pin down $p=37$.  
+❌ Statement (2) alone is **not sufficient**.
+
+
+
+### Combine (1) and (2):  
+From (1): $p = n^2 + 1$.  
+From (2): $p \geq 17$.  
+
+Check primes of the form $n^2+1$ that are ≥ 17:  
+- $n=4 \Rightarrow p=17$ (prime).  
+- $n=6 \Rightarrow p=37$ (prime).  
+- $n=10 \Rightarrow p=101$ (prime).  
+- Others possible too.  
+
+So $p$ could be 17, 37, 101, …  
+👉 Still not uniquely determined as 37.  
+
+❌ Together, **not sufficient**.
+
+
+
+### Final Answer  
+**Statements (1) and (2) together are not sufficient.**  
+Correct GMAT choice: **E**.  
+
+---
+
+
