@@ -3924,4 +3924,63 @@ Correct GMAT choice: **E**.
 
 ---
 
+## Q85
+
+
+
+### Restating the Problem
+Parcel contents:
+- 25 photographs  
+- 30 negatives  
+
+We want: **Total weight of all contents (in ounces).**
+
+Let:
+- Weight of each photograph = $p$  
+- Weight of each negative = $n$  
+
+So total weight = $25p + 30n$.
+
+
+
+### Statement (1): Each photograph weighs 3 times each negative  
+$p = 3n$
+
+Then total weight = $25(3n) + 30n = 75n + 30n = 105n$.
+
+But we don’t know $n$.  
+❌ Not sufficient.
+
+
+
+### Statement (2): Weight of 1 photograph + 2 negatives = $ \tfrac{1}{3} $ ounce  
+$p + 2n = \tfrac{1}{3}$
+
+This is one equation with two unknowns.  
+We cannot solve for $p$ and $n$ individually.  
+❌ Not sufficient.
+
+
+
+### Combine (1) and (2)  
+From (1): $p = 3n$.  
+Plug into (2):  
+$3n + 2n = \tfrac{1}{3} \quad \Rightarrow \quad 5n = \tfrac{1}{3} \quad \Rightarrow \quad n = \tfrac{1}{15}, \quad p = \tfrac{1}{5}$
+
+Now total weight:  
+$25p + 30n = 25\left(\tfrac{1}{5}\right) + 30\left(\tfrac{1}{15}\right) = 5 + 2 = 7 \text{ ounces}$
+
+✅ Together, sufficient.
+
+
+
+### GMAT Answer Choice
+- (1) alone: Not sufficient  
+- (2) alone: Not sufficient  
+- Together: Sufficient  
+
+Correct choice: **C**.
+
+---
+
 
