@@ -3983,4 +3983,47 @@ Correct choice: **C**.
 
 ---
 
+## Q86
+
+
+### Step 1: Restate the problem  
+We want the **perimeter of the rectangle**, which is:  
+$P = 2(\lambda + w)$
+
+So we need the value of $\lambda + w$.
+
+
+
+### Statement (1): $2\lambda + w = 40$  
+This equation does not directly give $\lambda + w$.  
+- Example: If $\lambda = 10$, then $w = 20$, so $\lambda + w = 30$.  
+- If $\lambda = 15$, then $w = 10$, so $\lambda + w = 25$.  
+
+Different values possible.  
+❌ Not sufficient.
+
+
+
+### Statement (2): $\lambda + w = 25$  
+This is exactly what we need!  
+Perimeter = $2(\lambda + w) = 2(25) = 50$.  
+
+✅ Statement (2) alone is sufficient.
+
+
+
+### Combine (1) and (2):  
+Not necessary, since (2) alone already gives the perimeter.  
+
+
+
+### Final Answer  
+- (1) alone: Not sufficient  
+- (2) alone: Sufficient  
+
+Correct GMAT choice: **B**.
+
+
+---
+
 
