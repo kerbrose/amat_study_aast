@@ -4119,3 +4119,51 @@ Correct choice: **C**.
 
 ---
 
+## Q89
+
+
+### Step 1: Restate the problem  
+We want the **value of $x$** given two statements.
+
+
+
+### Statement (1):  
+$-(x+y) = x - y$
+
+Simplify:  
+$-x - y = x - y$  
+$- x - y - x + y = 0$  
+$-2x = 0 \quad \Rightarrow \quad x = 0$
+
+✅ Statement (1) alone gives a unique value for $x$. **Sufficient.**
+
+
+
+### Statement (2):  
+$x + y = 2$
+
+This is one equation with two unknowns.  
+For example:  
+- If $x=1, y=1$, equation holds.  
+- If $x=2, y=0$, equation also holds.  
+
+Multiple possible values for $x$.  
+❌ Statement (2) alone is **not sufficient**.
+
+
+
+### Combine (1) and (2):  
+From (1): $x=0$.  
+Plug into (2): $0 + y = 2 \Rightarrow y=2$.  
+
+Still consistent, and $x=0$.  
+✅ Together, sufficient (but (1) alone already works).
+
+
+
+
+Correct choice: **A**.
+
+---
+
+
