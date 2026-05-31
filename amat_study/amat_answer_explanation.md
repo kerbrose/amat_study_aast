@@ -3582,3 +3582,57 @@ Correct GMAT choice: **A**.
 
 ---
 
+
+## Q79
+
+### Step 1: Restate the Question  
+
+We want the **sum of $n$ odd integers**.  
+So the problem is asking: given $n$, what is the sum of the list?
+
+
+
+### Statement (1): $n = 8$  
+We know there are 8 odd integers, but we don’t know **which odd integers**.  
+
+- Example: If the list is the first 8 odd integers (1, 3, 5, …, 15), the sum = 64.  
+- But if the list is 8 odd integers starting at 101, the sum is much larger.  
+
+👉 Without knowing which odd integers, we cannot determine the sum.  
+
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2): The square of the number of integers is 64.  
+So:  
+$n^2 = 64 \quad \Rightarrow \quad n = 8$
+
+This is the same information as Statement (1).  
+Again, we know there are 8 odd integers, but not which ones.  
+
+❌ **Statement (2) alone is not sufficient.**
+
+
+
+### Combine (1) and (2):  
+Both statements together only tell us $n = 8$.  
+Still no information about which odd integers are in the list.  
+👉 Cannot determine the sum.  
+
+❌ **Together not sufficient.**
+
+
+
+### Step 2: Map to GMAT Answer Choices  
+- (1) alone: Not sufficient.  
+- (2) alone: Not sufficient.  
+- Together: Not sufficient.  
+
+Correct GMAT choice: **E**.
+
+
+✅ **Final Answer: E**
+
+---
+
