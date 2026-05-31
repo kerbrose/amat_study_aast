@@ -3585,49 +3585,49 @@ Correct GMAT choice: **A**.
 
 ## Q79
 
-### Step 1: Restate the Question  
+### Step 1: Restate the Question
 
-We want the **sum of $n$ odd integers**.  
+We want the **sum of $n$ odd integers**.
 So the problem is asking: given $n$, what is the sum of the list?
 
 
 
-### Statement (1): $n = 8$  
-We know there are 8 odd integers, but we don’t know **which odd integers**.  
+### Statement (1): $n = 8$
+We know there are 8 odd integers, but we don’t know **which odd integers**.
 
-- Example: If the list is the first 8 odd integers (1, 3, 5, …, 15), the sum = 64.  
-- But if the list is 8 odd integers starting at 101, the sum is much larger.  
+- Example: If the list is the first 8 odd integers (1, 3, 5, …, 15), the sum = 64.
+- But if the list is 8 odd integers starting at 101, the sum is much larger.
 
-👉 Without knowing which odd integers, we cannot determine the sum.  
+👉 Without knowing which odd integers, we cannot determine the sum.
 
 ❌ **Statement (1) alone is not sufficient.**
 
 
 
-### Statement (2): The square of the number of integers is 64.  
-So:  
+### Statement (2): The square of the number of integers is 64.
+So:
 $n^2 = 64 \quad \Rightarrow \quad n = 8$
 
-This is the same information as Statement (1).  
-Again, we know there are 8 odd integers, but not which ones.  
+This is the same information as Statement (1).
+Again, we know there are 8 odd integers, but not which ones.
 
 ❌ **Statement (2) alone is not sufficient.**
 
 
 
-### Combine (1) and (2):  
-Both statements together only tell us $n = 8$.  
-Still no information about which odd integers are in the list.  
-👉 Cannot determine the sum.  
+### Combine (1) and (2):
+Both statements together only tell us $n = 8$.
+Still no information about which odd integers are in the list.
+👉 Cannot determine the sum.
 
 ❌ **Together not sufficient.**
 
 
 
-### Step 2: Map to GMAT Answer Choices  
-- (1) alone: Not sufficient.  
-- (2) alone: Not sufficient.  
-- Together: Not sufficient.  
+### Step 2: Map to GMAT Answer Choices
+- (1) alone: Not sufficient.
+- (2) alone: Not sufficient.
+- Together: Not sufficient.
 
 Correct GMAT choice: **E**.
 
@@ -3639,49 +3639,49 @@ Correct GMAT choice: **E**.
 ## Q80
 
 
-### Step 1: Restate the Question  
+### Step 1: Restate the Question
 We want the **running time in minutes** of a cartoon with 17,280 frames.
 
 
-### Statement (1):  
-The cartoon runs at **24 frames per second**.  
+### Statement (1):
+The cartoon runs at **24 frames per second**.
 
-$\text{Time (seconds)} = \frac{17,280}{24} = 720 \text{ seconds}$  
+$\text{Time (seconds)} = \frac{17,280}{24} = 720 \text{ seconds}$
 
-Convert to minutes:  
+Convert to minutes:
 
-$720 \div 60 = 12 \text{ minutes}$  
+$720 \div 60 = 12 \text{ minutes}$
 
-✅ Statement (1) alone gives the exact running time.  
+✅ Statement (1) alone gives the exact running time.
 **Sufficient.**
 
 
 
-### Statement (2):  
-It takes 6 times as long to run the cartoon as to rewind it, and both together take 14 minutes.  
+### Statement (2):
+It takes 6 times as long to run the cartoon as to rewind it, and both together take 14 minutes.
 
-Let running time = $R$, rewind time = $W$.  
-$R = 6W, \quad R + W = 14$  
+Let running time = $R$, rewind time = $W$.
+$R = 6W, \quad R + W = 14$
 
-Substitute:  
+Substitute:
 
-$6W + W = 14 \quad \Rightarrow \quad 7W = 14 \quad \Rightarrow \quad W = 2, \quad R = 12$  
+$6W + W = 14 \quad \Rightarrow \quad 7W = 14 \quad \Rightarrow \quad W = 2, \quad R = 12$
 
-So the running time = 12 minutes.  
+So the running time = 12 minutes.
 
-✅ Statement (2) alone also gives the exact running time.  
+✅ Statement (2) alone also gives the exact running time.
 **Sufficient.**
 
 
 
-### Step 2: Combine Statements  
+### Step 2: Combine Statements
 Each statement alone already gives the answer. Together, still sufficient.
 
 
 
-### Step 3: Map to GMAT Answer Choices  
-- (1) alone sufficient.  
-- (2) alone sufficient.  
+### Step 3: Map to GMAT Answer Choices
+- (1) alone sufficient.
+- (2) alone sufficient.
 - Each alone sufficient → **Answer choice D**.
 
 
@@ -3689,4 +3689,563 @@ Each statement alone already gives the answer. Together, still sufficient.
 ✅ **Final Answer: D**
 
 ---
+
+## Q81
+
+
+### Step 1: Restate the Question
+We want the **average miles per gallon (mpg)** for a car during a 180‑mile trip.
+Formula:
+
+$\text{mpg} = \frac{\text{miles driven}}{\text{gallons used}}$
+
+We know miles = 180. We need gallons used.
+
+
+
+### Statement (1):
+The total cost of gasoline for the 180‑mile trip = \$12.00.
+
+- This gives us the **total cost**, but not the **price per gallon**.
+- Without knowing the price per gallon, we cannot convert cost into gallons.
+👉 Not sufficient.
+
+
+
+### Statement (2):
+The cost of gasoline used for the trip = \$1.20 per gallon.
+
+- This gives us the **price per gallon**, but not the **total cost**.
+- Without knowing how much was spent, we cannot find gallons used.
+👉 Not sufficient.
+
+
+
+### Combine (1) and (2):
+- From (1): Total cost = \$12.00.
+- From (2): Price per gallon = \$1.20.
+
+Gallons used = $\frac{12}{1.20} = 10$.
+
+So mpg = $\frac{180}{10} = 18$.
+
+✅ Together sufficient.
+
+
+
+### Step 2: Map to GMAT Answer Choices
+- (1) alone: Not sufficient.
+- (2) alone: Not sufficient.
+- Together: Sufficient.
+
+Correct GMAT choice: **C**.
+
+
+
+✅ **Final Answer: C**
+
+---
+
+## Q82
+
+
+### Step 1: Restate the Question
+We want to know if:
+$\frac{x}{y} > 1$
+
+given $x, y > 0$.
+
+
+
+### Statement (1): $xy > 1$
+This tells us the product is greater than 1, but not the relative size of $x$ and $y$.
+
+- Example: $x = 2, y = 0.6$. Then $xy = 1.2 > 1$, but $\frac{x}{y} = \frac{2}{0.6} \approx 3.33 > 1$.
+- Example: $x = 0.6, y = 2$. Then $xy = 1.2 > 1$, but $\frac{x}{y} = 0.3 < 1$.
+
+👉 Sometimes true, sometimes false.
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2): $x - y > 0 \quad \Rightarrow \quad x > y$
+If $x > y$ and both are positive, then:
+
+$\frac{x}{y} > 1$
+
+always holds.
+
+✅ **Statement (2) alone is sufficient.**
+
+
+
+### Combine (1) and (2):
+Since (2) alone already guarantees $\frac{x}{y} > 1$, combining adds nothing.
+
+
+
+### Step 2: Map to GMAT Answer Choices
+- (1) alone: Not sufficient.
+- (2) alone: Sufficient.
+- Together: Sufficient, but (2) alone works.
+
+Correct GMAT choice: **B**.
+
+
+
+✅ **Final Answer: B**
+
+---
+
+## Q83
+
+
+
+### Step 1: Restate the Problem
+We have triangle $ \triangle PQR $ with sides:
+- $PQ = x$
+- $QR = x+2$
+- $PR = y$
+
+We want to know: **Which angle is the greatest?**
+
+👉 In any triangle, the largest angle is opposite the longest side.
+
+So the problem reduces to: **Which side is longest?**
+
+
+
+### Step 2: Analyze Statements
+
+#### Statement (1): $y = x+3$
+Now the sides are:
+- $PQ = x$
+- $QR = x+2$
+- $PR = x+3$
+
+Clearly, $PR$ is the longest side.
+Therefore, the largest angle is $\angle Q$ (opposite side $PR$).
+
+✅ Statement (1) alone is sufficient.
+
+
+
+#### Statement (2): $x = 2$
+Now the sides are:
+- $PQ = 2$
+- $QR = 4$
+- $PR = y$ (unknown)
+
+We don’t know $y$.
+- If $y > 4$, then $PR$ is longest → largest angle at $Q$.
+- If $y < 4$, then $QR$ is longest → largest angle at $P$.
+- If $y = 4$, then two sides tie → largest angle depends on triangle type.
+
+❌ Statement (2) alone is not sufficient.
+
+
+
+### Step 3: Combine (1) and (2)
+From (2): $x = 2$.
+From (1): $y = x+3 = 5$.
+
+So sides are:
+- $PQ = 2$
+- $QR = 4$
+- $PR = 5$
+
+Longest side = $PR = 5$.
+Largest angle = $\angle Q$.
+
+✅ Together, sufficient.
+
+
+Correct GMAT choice: **A** (Statement (1) alone is sufficient).
+
+
+✨ **Final Answer: A**
+
+---
+
+## Q84
+
+
+### Question Restated
+We need to determine: **Is the prime number $p$ equal to 37?**
+
+
+
+### Statement (1): $p = n^2 + 1$, where $n$ is an integer.
+
+- Possible values:
+- $n=6 \Rightarrow p=37$ (prime).
+- $n=2 \Rightarrow p=5$ (prime).
+- $n=4 \Rightarrow p=17$ (prime).
+- $n=8 \Rightarrow p=65$ (not prime).
+
+So $p$ could be 37, but it could also be other primes (5, 17, …).
+👉 We cannot conclude $p=37$.
+
+❌ Statement (1) alone is **not sufficient**.
+
+
+
+### Statement (2): $p^2 > 200$.
+
+- Since $p$ is prime, we need $p > \sqrt{200} \approx 14.1$.
+- So $p \geq 17$.
+- Possible primes: 17, 19, 23, 29, 31, 37, 41, …
+
+This doesn’t pin down $p=37$.
+❌ Statement (2) alone is **not sufficient**.
+
+
+
+### Combine (1) and (2):
+From (1): $p = n^2 + 1$.
+From (2): $p \geq 17$.
+
+Check primes of the form $n^2+1$ that are ≥ 17:
+- $n=4 \Rightarrow p=17$ (prime).
+- $n=6 \Rightarrow p=37$ (prime).
+- $n=10 \Rightarrow p=101$ (prime).
+- Others possible too.
+
+So $p$ could be 17, 37, 101, …
+👉 Still not uniquely determined as 37.
+
+❌ Together, **not sufficient**.
+
+
+
+### Final Answer
+**Statements (1) and (2) together are not sufficient.**
+Correct GMAT choice: **E**.
+
+---
+
+## Q85
+
+
+
+### Restating the Problem
+Parcel contents:
+- 25 photographs
+- 30 negatives
+
+We want: **Total weight of all contents (in ounces).**
+
+Let:
+- Weight of each photograph = $p$
+- Weight of each negative = $n$
+
+So total weight = $25p + 30n$.
+
+
+
+### Statement (1): Each photograph weighs 3 times each negative
+$p = 3n$
+
+Then total weight = $25(3n) + 30n = 75n + 30n = 105n$.
+
+But we don’t know $n$.
+❌ Not sufficient.
+
+
+
+### Statement (2): Weight of 1 photograph + 2 negatives = $ \tfrac{1}{3} $ ounce
+$p + 2n = \tfrac{1}{3}$
+
+This is one equation with two unknowns.
+We cannot solve for $p$ and $n$ individually.
+❌ Not sufficient.
+
+
+
+### Combine (1) and (2)
+From (1): $p = 3n$.
+Plug into (2):
+$3n + 2n = \tfrac{1}{3} \quad \Rightarrow \quad 5n = \tfrac{1}{3} \quad \Rightarrow \quad n = \tfrac{1}{15}, \quad p = \tfrac{1}{5}$
+
+Now total weight:
+$25p + 30n = 25\left(\tfrac{1}{5}\right) + 30\left(\tfrac{1}{15}\right) = 5 + 2 = 7 \text{ ounces}$
+
+✅ Together, sufficient.
+
+
+
+### GMAT Answer Choice
+- (1) alone: Not sufficient
+- (2) alone: Not sufficient
+- Together: Sufficient
+
+Correct choice: **C**.
+
+---
+
+## Q86
+
+
+### Step 1: Restate the problem
+We want the **perimeter of the rectangle**, which is:
+$P = 2(\lambda + w)$
+
+So we need the value of $\lambda + w$.
+
+
+
+### Statement (1): $2\lambda + w = 40$
+This equation does not directly give $\lambda + w$.
+- Example: If $\lambda = 10$, then $w = 20$, so $\lambda + w = 30$.
+- If $\lambda = 15$, then $w = 10$, so $\lambda + w = 25$.
+
+Different values possible.
+❌ Not sufficient.
+
+
+
+### Statement (2): $\lambda + w = 25$
+This is exactly what we need!
+Perimeter = $2(\lambda + w) = 2(25) = 50$.
+
+✅ Statement (2) alone is sufficient.
+
+
+
+### Combine (1) and (2):
+Not necessary, since (2) alone already gives the perimeter.
+
+
+
+### Final Answer
+- (1) alone: Not sufficient
+- (2) alone: Sufficient
+
+Correct GMAT choice: **B**.
+
+
+---
+
+
+## Q87
+
+
+### Step 1: Restate the problem
+We want the ratio $ \frac{x}{y} $.
+
+
+
+### Statement (1): $x$ is 4 more than twice $y$.
+$x = 2y + 4$
+So:
+$\frac{x}{y} = \frac{2y+4}{y} = 2 + \frac{4}{y}$
+
+This depends on the value of $y$. Without knowing $y$, the ratio is not fixed.
+❌ Not sufficient.
+
+
+
+### Statement (2): The ratio of $0.5x$ to $2y$ is $3:5$.
+$\frac{0.5x}{2y} = \frac{3}{5}$
+Simplify:
+$\frac{x}{4y} = \frac{3}{5} \quad \Rightarrow \quad \frac{x}{y} = \frac{12}{5}$
+
+This gives us the exact ratio.
+✅ Statement (2) alone is sufficient.
+
+
+
+### Combine (1) and (2):
+Not necessary, since (2) alone already gives the ratio.
+
+
+
+### Final Answer
+- (1) alone: Not sufficient
+- (2) alone: Sufficient
+
+Correct GMAT choice: **B**.
+
+---
+
+## Q88
+
+
+### Problem Restated  
+We want to know: **Are $x, y, z$ consecutive integers?**
+
+That means:  
+$y = x+1, \quad z = x+2$
+
+
+
+### Statement (1): $z - x = 2$  
+This tells us the distance between $z$ and $x$ is 2.  
+So possible sets:  
+- $x=3, y=4, z=5$ → consecutive.  
+- $x=3, y=10, z=5$ → not consecutive.  
+
+We don’t know if $y$ is exactly between them.  
+❌ Not sufficient.
+
+
+
+### Statement (2): $x < y < z$  
+This only tells us the order, not the spacing.  
+Example: $x=2, y=3, z=4$ → consecutive.  
+Example: $x=2, y=5, z=10$ → not consecutive.  
+❌ Not sufficient.
+
+
+
+### Combine (1) and (2):  
+From (1): $z = x+2$.  
+From (2): $x < y < z$.  
+So $y$ must be strictly between $x$ and $x+2$.  
+Since $y$ is an integer, the only possibility is:  
+$y = x+1$  
+
+Thus $x, y, z$ are consecutive integers.  
+✅ Together, sufficient.
+
+
+
+### Final GMAT Answer  
+- (1) alone: Not sufficient  
+- (2) alone: Not sufficient  
+- Together: Sufficient  
+
+Correct choice: **C**.
+
+---
+
+## Q89
+
+
+### Step 1: Restate the problem  
+We want the **value of $x$** given two statements.
+
+
+
+### Statement (1):  
+$-(x+y) = x - y$
+
+Simplify:  
+$-x - y = x - y$  
+$- x - y - x + y = 0$  
+$-2x = 0 \quad \Rightarrow \quad x = 0$
+
+✅ Statement (1) alone gives a unique value for $x$. **Sufficient.**
+
+
+
+### Statement (2):  
+$x + y = 2$
+
+This is one equation with two unknowns.  
+For example:  
+- If $x=1, y=1$, equation holds.  
+- If $x=2, y=0$, equation also holds.  
+
+Multiple possible values for $x$.  
+❌ Statement (2) alone is **not sufficient**.
+
+
+
+### Combine (1) and (2):  
+From (1): $x=0$.  
+Plug into (2): $0 + y = 2 \Rightarrow y=2$.  
+
+Still consistent, and $x=0$.  
+✅ Together, sufficient (but (1) alone already works).
+
+
+
+
+Correct choice: **A**.
+
+---
+
+## Q90
+
+
+
+To determine how much of the $\$200,000$ estate the youngest child received, let's define the variables for each person's share:
+
+* $S =$ the spouse's share
+* $C_1 =$ the oldest child's share
+* $C_2 =$ the middle child's share
+* $C_3 =$ the youngest child's share
+
+From the problem, we know the total sum is:
+
+
+$S + C_1 + C_2 + C_3 = 200,000$
+
+
+
+### **Evaluating Statement (1)**
+
+> *The spouse received $\frac{1}{2}$ of the sum from the estate, and the oldest child received $\frac{1}{4}$ of the remainder.*
+
+* **Spouse's share:** $S = \frac{1}{2} \times 200,000 = 100,000$
+* **Remainder:** $200,000 - 100,000 = 100,000$
+* **Oldest child's share:** $C_1 = \frac{1}{4} \times 100,000 = 25,000$
+
+Now we can find the combined total for the remaining two younger children:
+
+
+$$C_2 + C_3 = 200,000 - 100,000 - 25,000 = 75,000$$
+
+Since we only know the sum of $C_2$ and $C_3$ but do not have any information to break down how much each individual child received, we cannot uniquely determine the youngest child's share ($C_3$).
+
+Thus, **Statement (1) alone is NOT SUFFICIENT.**
+
+
+
+### **Evaluating Statement (2)**
+
+> *Each of the two younger children received $12,500 more than the oldest child and $62,500 less than the spouse.*
+
+The two younger children are $C_2$ and $C_3$. From the statement, we can write the following relationships:
+
+1. $C_2 = C_1 + 12,500$ and $C_3 = C_1 + 12,500$
+2. $C_2 = S - 62,500$ and $C_3 = S - 62,500$
+
+Since both younger children received the exact same amount ($C_2 = C_3$), we can express both $C_1$ and $S$ in terms of $C_3$:
+
+* $C_1 = C_3 - 12,500$
+* $S = C_3 + 62,500$
+
+Now, substitute $S, C_1,$ and $C_2$ back into our original total estate equation:
+
+
+$S + C_1 + C_2 + C_3 = 200,000$
+
+$(C_3 + 62,500) + (C_3 - 12,500) + C_3 + C_3 = 200,000$
+
+Combine the like terms:
+
+
+$4C_3 + 50,000 = 200,000$
+
+$4C_3 = 150,000$
+
+$C_3 = 37,500$
+
+Since we can solve for the exact value of $C_3$ ($37,500$), this statement provides enough information.
+
+Thus, **Statement (2) alone is SUFFICIENT.**
+
+
+
+### **Conclusion**
+
+* Statement (1) alone is insufficient.
+* Statement (2) alone is sufficient.
+
+**Correct Answer:** **B** (Statement 2 alone is sufficient, but statement 1 alone is not sufficient)
+
+---
+
 
