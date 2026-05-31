@@ -3217,3 +3217,53 @@ Correct GMAT choice: **B**.
 
 ---
 
+## Q72
+
+### Step 1: Restate the Question  
+
+We want the **length of the route (miles)** from Houghton to Callahan.  
+Let’s call the distance $D$.
+
+
+### Statement (1):  
+Traveling at 55 mph takes **1 hour less** than traveling at 50 mph.  
+
+$\frac{D}{50} - \frac{D}{55} = 1$
+
+Find $D$:
+
+$\frac{D}{50} - \frac{D}{55} = 1 \quad \Rightarrow \quad \frac{55D - 50D}{2750} = 1$
+
+$\frac{5D}{2750} = 1 \quad \Rightarrow \quad D = 550$
+
+✅ Statement (1) alone gives a unique value: $D = 550$.  
+**Sufficient.**
+
+
+### Statement (2):  
+It takes 11 hours to travel the **first half** of the route at 25 mph.  
+
+Half the route = $\frac{D}{2}$.  
+Time = Distance / Speed = $\frac{D/2}{25} = 11$.  
+
+$\frac{D}{50} = 11 \quad \Rightarrow \quad D = 550$
+
+✅ Statement (2) alone also gives a unique value: $D = 550$.  
+**Sufficient.**
+
+
+### Step 2: Combine Statements  
+Each statement alone already gives $D = 550$.  
+Together, still sufficient.  
+
+
+### Step 3: Map to GMAT Answer Choices  
+- (1) alone sufficient.  
+- (2) alone sufficient.  
+- Each alone sufficient → **Answer choice D**.
+
+
+✅ **Final Answer: D**
+
+---
+
