@@ -3473,3 +3473,59 @@ Each statement alone already gives the answer. Together, still sufficient.
 ✅ **Final Answer: D**
 
 ---
+
+## Q77
+
+
+### Step 1: Restate the Question  
+We want to know: **How much does the pair of gloves cost?**  
+Let:  
+- Shirt = $S$  
+- Gloves = $G$  
+
+We’re told:  
+$S + G = 41.70$
+
+
+
+### Statement (1):  
+The shirt costs **twice as much as the gloves**.  
+
+$S = 2G$
+
+Plug into total:  
+
+$2G + G = 41.70 \quad \Rightarrow \quad 3G = 41.70 \quad \Rightarrow \quad G = 13.90$
+
+✅ Statement (1) alone gives a unique value.  
+**Sufficient.**
+
+
+
+### Statement (2):  
+The shirt costs **\$27.80**.  
+
+Plug into total:  
+$27.80 + G = 41.70 \quad \Rightarrow \quad G = 13.90$
+
+✅ Statement (2) alone also gives a unique value.  
+**Sufficient.**
+
+
+
+### Step 2: Combine Statements  
+Each statement alone already gives the gloves’ cost. Together, still sufficient.
+
+
+
+### Step 3: Map to GMAT Answer Choices  
+- (1) alone sufficient.  
+- (2) alone sufficient.  
+- Each alone sufficient → **Answer choice D**.
+
+
+
+✅ **Final Answer: D**
+
+---
+
