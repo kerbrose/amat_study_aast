@@ -3585,49 +3585,49 @@ Correct GMAT choice: **A**.
 
 ## Q79
 
-### Step 1: Restate the Question  
+### Step 1: Restate the Question
 
-We want the **sum of $n$ odd integers**.  
+We want the **sum of $n$ odd integers**.
 So the problem is asking: given $n$, what is the sum of the list?
 
 
 
-### Statement (1): $n = 8$  
-We know there are 8 odd integers, but we don’t know **which odd integers**.  
+### Statement (1): $n = 8$
+We know there are 8 odd integers, but we don’t know **which odd integers**.
 
-- Example: If the list is the first 8 odd integers (1, 3, 5, …, 15), the sum = 64.  
-- But if the list is 8 odd integers starting at 101, the sum is much larger.  
+- Example: If the list is the first 8 odd integers (1, 3, 5, …, 15), the sum = 64.
+- But if the list is 8 odd integers starting at 101, the sum is much larger.
 
-👉 Without knowing which odd integers, we cannot determine the sum.  
+👉 Without knowing which odd integers, we cannot determine the sum.
 
 ❌ **Statement (1) alone is not sufficient.**
 
 
 
-### Statement (2): The square of the number of integers is 64.  
-So:  
+### Statement (2): The square of the number of integers is 64.
+So:
 $n^2 = 64 \quad \Rightarrow \quad n = 8$
 
-This is the same information as Statement (1).  
-Again, we know there are 8 odd integers, but not which ones.  
+This is the same information as Statement (1).
+Again, we know there are 8 odd integers, but not which ones.
 
 ❌ **Statement (2) alone is not sufficient.**
 
 
 
-### Combine (1) and (2):  
-Both statements together only tell us $n = 8$.  
-Still no information about which odd integers are in the list.  
-👉 Cannot determine the sum.  
+### Combine (1) and (2):
+Both statements together only tell us $n = 8$.
+Still no information about which odd integers are in the list.
+👉 Cannot determine the sum.
 
 ❌ **Together not sufficient.**
 
 
 
-### Step 2: Map to GMAT Answer Choices  
-- (1) alone: Not sufficient.  
-- (2) alone: Not sufficient.  
-- Together: Not sufficient.  
+### Step 2: Map to GMAT Answer Choices
+- (1) alone: Not sufficient.
+- (2) alone: Not sufficient.
+- Together: Not sufficient.
 
 Correct GMAT choice: **E**.
 
@@ -3639,49 +3639,49 @@ Correct GMAT choice: **E**.
 ## Q80
 
 
-### Step 1: Restate the Question  
+### Step 1: Restate the Question
 We want the **running time in minutes** of a cartoon with 17,280 frames.
 
 
-### Statement (1):  
-The cartoon runs at **24 frames per second**.  
+### Statement (1):
+The cartoon runs at **24 frames per second**.
 
-$\text{Time (seconds)} = \frac{17,280}{24} = 720 \text{ seconds}$  
+$\text{Time (seconds)} = \frac{17,280}{24} = 720 \text{ seconds}$
 
-Convert to minutes:  
+Convert to minutes:
 
-$720 \div 60 = 12 \text{ minutes}$  
+$720 \div 60 = 12 \text{ minutes}$
 
-✅ Statement (1) alone gives the exact running time.  
+✅ Statement (1) alone gives the exact running time.
 **Sufficient.**
 
 
 
-### Statement (2):  
-It takes 6 times as long to run the cartoon as to rewind it, and both together take 14 minutes.  
+### Statement (2):
+It takes 6 times as long to run the cartoon as to rewind it, and both together take 14 minutes.
 
-Let running time = $R$, rewind time = $W$.  
-$R = 6W, \quad R + W = 14$  
+Let running time = $R$, rewind time = $W$.
+$R = 6W, \quad R + W = 14$
 
-Substitute:  
+Substitute:
 
-$6W + W = 14 \quad \Rightarrow \quad 7W = 14 \quad \Rightarrow \quad W = 2, \quad R = 12$  
+$6W + W = 14 \quad \Rightarrow \quad 7W = 14 \quad \Rightarrow \quad W = 2, \quad R = 12$
 
-So the running time = 12 minutes.  
+So the running time = 12 minutes.
 
-✅ Statement (2) alone also gives the exact running time.  
+✅ Statement (2) alone also gives the exact running time.
 **Sufficient.**
 
 
 
-### Step 2: Combine Statements  
+### Step 2: Combine Statements
 Each statement alone already gives the answer. Together, still sufficient.
 
 
 
-### Step 3: Map to GMAT Answer Choices  
-- (1) alone sufficient.  
-- (2) alone sufficient.  
+### Step 3: Map to GMAT Answer Choices
+- (1) alone sufficient.
+- (2) alone sufficient.
 - Each alone sufficient → **Answer choice D**.
 
 
@@ -3693,9 +3693,9 @@ Each statement alone already gives the answer. Together, still sufficient.
 ## Q81
 
 
-### Step 1: Restate the Question  
-We want the **average miles per gallon (mpg)** for a car during a 180‑mile trip.  
-Formula:  
+### Step 1: Restate the Question
+We want the **average miles per gallon (mpg)** for a car during a 180‑mile trip.
+Formula:
 
 $\text{mpg} = \frac{\text{miles driven}}{\text{gallons used}}$
 
@@ -3703,40 +3703,40 @@ We know miles = 180. We need gallons used.
 
 
 
-### Statement (1):  
-The total cost of gasoline for the 180‑mile trip = \$12.00.  
+### Statement (1):
+The total cost of gasoline for the 180‑mile trip = \$12.00.
 
-- This gives us the **total cost**, but not the **price per gallon**.  
-- Without knowing the price per gallon, we cannot convert cost into gallons.  
+- This gives us the **total cost**, but not the **price per gallon**.
+- Without knowing the price per gallon, we cannot convert cost into gallons.
 👉 Not sufficient.
 
 
 
-### Statement (2):  
-The cost of gasoline used for the trip = \$1.20 per gallon.  
+### Statement (2):
+The cost of gasoline used for the trip = \$1.20 per gallon.
 
-- This gives us the **price per gallon**, but not the **total cost**.  
-- Without knowing how much was spent, we cannot find gallons used.  
+- This gives us the **price per gallon**, but not the **total cost**.
+- Without knowing how much was spent, we cannot find gallons used.
 👉 Not sufficient.
 
 
 
-### Combine (1) and (2):  
-- From (1): Total cost = \$12.00.  
-- From (2): Price per gallon = \$1.20.  
+### Combine (1) and (2):
+- From (1): Total cost = \$12.00.
+- From (2): Price per gallon = \$1.20.
 
-Gallons used = $\frac{12}{1.20} = 10$.  
+Gallons used = $\frac{12}{1.20} = 10$.
 
-So mpg = $\frac{180}{10} = 18$.  
+So mpg = $\frac{180}{10} = 18$.
 
 ✅ Together sufficient.
 
 
 
-### Step 2: Map to GMAT Answer Choices  
-- (1) alone: Not sufficient.  
-- (2) alone: Not sufficient.  
-- Together: Sufficient.  
+### Step 2: Map to GMAT Answer Choices
+- (1) alone: Not sufficient.
+- (2) alone: Not sufficient.
+- Together: Sufficient.
 
 Correct GMAT choice: **C**.
 
@@ -3746,4 +3746,54 @@ Correct GMAT choice: **C**.
 
 ---
 
+## Q82
+
+
+### Step 1: Restate the Question
+We want to know if:
+$\frac{x}{y} > 1$
+
+given $x, y > 0$.
+
+
+
+### Statement (1): $xy > 1$
+This tells us the product is greater than 1, but not the relative size of $x$ and $y$.
+
+- Example: $x = 2, y = 0.6$. Then $xy = 1.2 > 1$, but $\frac{x}{y} = \frac{2}{0.6} \approx 3.33 > 1$.
+- Example: $x = 0.6, y = 2$. Then $xy = 1.2 > 1$, but $\frac{x}{y} = 0.3 < 1$.
+
+👉 Sometimes true, sometimes false.
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2): $x - y > 0 \quad \Rightarrow \quad x > y$
+If $x > y$ and both are positive, then:
+
+$\frac{x}{y} > 1$
+
+always holds.
+
+✅ **Statement (2) alone is sufficient.**
+
+
+
+### Combine (1) and (2):
+Since (2) alone already guarantees $\frac{x}{y} > 1$, combining adds nothing.
+
+
+
+### Step 2: Map to GMAT Answer Choices
+- (1) alone: Not sufficient.
+- (2) alone: Sufficient.
+- Together: Sufficient, but (2) alone works.
+
+Correct GMAT choice: **B**.
+
+
+
+✅ **Final Answer: B**
+
+---
 
