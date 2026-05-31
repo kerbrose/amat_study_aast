@@ -3421,3 +3421,55 @@ Correct GMAT choice: **C**.
 
 ---
 
+## Q76
+
+
+
+### Step 1: Restate the Question  
+We want to know: **$r$ is what percent of $s$?**  
+That means we need the exact value of:  
+
+$\frac{r}{s} \times 100$
+
+
+
+### Statement (1):  
+
+$r = \tfrac{3}{4}s$
+
+So:  
+$\frac{r}{s} = \frac{3}{4} = 0.75$
+
+$r \text{ is } 75\% \text{ of } s$
+
+✅ Statement (1) alone is sufficient.
+
+
+
+### Statement (2):  
+
+$\frac{r}{s} = \frac{75}{100} = 0.75$
+
+So:  
+
+$r \text{ is } 75\% \text{ of } s$
+
+✅ Statement (2) alone is sufficient.
+
+
+
+### Combine (1) and (2):  
+Each statement alone already gives the answer. Together, still sufficient.
+
+
+
+### Step 2: Map to GMAT Answer Choices  
+- (1) alone sufficient.  
+- (2) alone sufficient.  
+- Each alone sufficient → **Answer choice D**.
+
+
+
+✅ **Final Answer: D**
+
+---
