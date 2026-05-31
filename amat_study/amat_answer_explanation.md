@@ -3803,8 +3803,8 @@ Correct GMAT choice: **B**.
 
 ### Step 1: Restate the Problem
 We have triangle $ \triangle PQR $ with sides:
-- $PQ = x$  
-- $QR = x+2$  
+- $PQ = x$
+- $QR = x+2$
 - $PR = y$
 
 We want to know: **Which angle is the greatest?**
@@ -3817,45 +3817,45 @@ So the problem reduces to: **Which side is longest?**
 
 ### Step 2: Analyze Statements
 
-#### Statement (1): $y = x+3$  
+#### Statement (1): $y = x+3$
 Now the sides are:
-- $PQ = x$  
-- $QR = x+2$  
+- $PQ = x$
+- $QR = x+2$
 - $PR = x+3$
 
-Clearly, $PR$ is the longest side.  
-Therefore, the largest angle is $\angle Q$ (opposite side $PR$).  
+Clearly, $PR$ is the longest side.
+Therefore, the largest angle is $\angle Q$ (opposite side $PR$).
 
 ✅ Statement (1) alone is sufficient.
 
 
 
-#### Statement (2): $x = 2$  
+#### Statement (2): $x = 2$
 Now the sides are:
-- $PQ = 2$  
-- $QR = 4$  
+- $PQ = 2$
+- $QR = 4$
 - $PR = y$ (unknown)
 
-We don’t know $y$.  
-- If $y > 4$, then $PR$ is longest → largest angle at $Q$.  
-- If $y < 4$, then $QR$ is longest → largest angle at $P$.  
+We don’t know $y$.
+- If $y > 4$, then $PR$ is longest → largest angle at $Q$.
+- If $y < 4$, then $QR$ is longest → largest angle at $P$.
 - If $y = 4$, then two sides tie → largest angle depends on triangle type.
 
 ❌ Statement (2) alone is not sufficient.
 
 
 
-### Step 3: Combine (1) and (2)  
-From (2): $x = 2$.  
-From (1): $y = x+3 = 5$.  
+### Step 3: Combine (1) and (2)
+From (2): $x = 2$.
+From (1): $y = x+3 = 5$.
 
 So sides are:
-- $PQ = 2$  
-- $QR = 4$  
+- $PQ = 2$
+- $QR = 4$
 - $PR = 5$
 
-Longest side = $PR = 5$.  
-Largest angle = $\angle Q$.  
+Longest side = $PR = 5$.
+Largest angle = $\angle Q$.
 
 ✅ Together, sufficient.
 
@@ -3870,57 +3870,57 @@ Correct GMAT choice: **A** (Statement (1) alone is sufficient).
 ## Q84
 
 
-### Question Restated  
+### Question Restated
 We need to determine: **Is the prime number $p$ equal to 37?**
 
 
 
-### Statement (1): $p = n^2 + 1$, where $n$ is an integer.  
+### Statement (1): $p = n^2 + 1$, where $n$ is an integer.
 
-- Possible values:  
-  - $n=6 \Rightarrow p=37$ (prime).  
-  - $n=2 \Rightarrow p=5$ (prime).  
-  - $n=4 \Rightarrow p=17$ (prime).  
-  - $n=8 \Rightarrow p=65$ (not prime).  
+- Possible values:
+- $n=6 \Rightarrow p=37$ (prime).
+- $n=2 \Rightarrow p=5$ (prime).
+- $n=4 \Rightarrow p=17$ (prime).
+- $n=8 \Rightarrow p=65$ (not prime).
 
-So $p$ could be 37, but it could also be other primes (5, 17, …).  
-👉 We cannot conclude $p=37$.  
+So $p$ could be 37, but it could also be other primes (5, 17, …).
+👉 We cannot conclude $p=37$.
 
 ❌ Statement (1) alone is **not sufficient**.
 
 
 
-### Statement (2): $p^2 > 200$.  
+### Statement (2): $p^2 > 200$.
 
-- Since $p$ is prime, we need $p > \sqrt{200} \approx 14.1$.  
-- So $p \geq 17$.  
-- Possible primes: 17, 19, 23, 29, 31, 37, 41, …  
+- Since $p$ is prime, we need $p > \sqrt{200} \approx 14.1$.
+- So $p \geq 17$.
+- Possible primes: 17, 19, 23, 29, 31, 37, 41, …
 
-This doesn’t pin down $p=37$.  
+This doesn’t pin down $p=37$.
 ❌ Statement (2) alone is **not sufficient**.
 
 
 
-### Combine (1) and (2):  
-From (1): $p = n^2 + 1$.  
-From (2): $p \geq 17$.  
+### Combine (1) and (2):
+From (1): $p = n^2 + 1$.
+From (2): $p \geq 17$.
 
-Check primes of the form $n^2+1$ that are ≥ 17:  
-- $n=4 \Rightarrow p=17$ (prime).  
-- $n=6 \Rightarrow p=37$ (prime).  
-- $n=10 \Rightarrow p=101$ (prime).  
-- Others possible too.  
+Check primes of the form $n^2+1$ that are ≥ 17:
+- $n=4 \Rightarrow p=17$ (prime).
+- $n=6 \Rightarrow p=37$ (prime).
+- $n=10 \Rightarrow p=101$ (prime).
+- Others possible too.
 
-So $p$ could be 17, 37, 101, …  
-👉 Still not uniquely determined as 37.  
+So $p$ could be 17, 37, 101, …
+👉 Still not uniquely determined as 37.
 
 ❌ Together, **not sufficient**.
 
 
 
-### Final Answer  
-**Statements (1) and (2) together are not sufficient.**  
-Correct GMAT choice: **E**.  
+### Final Answer
+**Statements (1) and (2) together are not sufficient.**
+Correct GMAT choice: **E**.
 
 ---
 
@@ -3930,44 +3930,44 @@ Correct GMAT choice: **E**.
 
 ### Restating the Problem
 Parcel contents:
-- 25 photographs  
-- 30 negatives  
+- 25 photographs
+- 30 negatives
 
 We want: **Total weight of all contents (in ounces).**
 
 Let:
-- Weight of each photograph = $p$  
-- Weight of each negative = $n$  
+- Weight of each photograph = $p$
+- Weight of each negative = $n$
 
 So total weight = $25p + 30n$.
 
 
 
-### Statement (1): Each photograph weighs 3 times each negative  
+### Statement (1): Each photograph weighs 3 times each negative
 $p = 3n$
 
 Then total weight = $25(3n) + 30n = 75n + 30n = 105n$.
 
-But we don’t know $n$.  
+But we don’t know $n$.
 ❌ Not sufficient.
 
 
 
-### Statement (2): Weight of 1 photograph + 2 negatives = $ \tfrac{1}{3} $ ounce  
+### Statement (2): Weight of 1 photograph + 2 negatives = $ \tfrac{1}{3} $ ounce
 $p + 2n = \tfrac{1}{3}$
 
-This is one equation with two unknowns.  
-We cannot solve for $p$ and $n$ individually.  
+This is one equation with two unknowns.
+We cannot solve for $p$ and $n$ individually.
 ❌ Not sufficient.
 
 
 
-### Combine (1) and (2)  
-From (1): $p = 3n$.  
-Plug into (2):  
+### Combine (1) and (2)
+From (1): $p = 3n$.
+Plug into (2):
 $3n + 2n = \tfrac{1}{3} \quad \Rightarrow \quad 5n = \tfrac{1}{3} \quad \Rightarrow \quad n = \tfrac{1}{15}, \quad p = \tfrac{1}{5}$
 
-Now total weight:  
+Now total weight:
 $25p + 30n = 25\left(\tfrac{1}{5}\right) + 30\left(\tfrac{1}{15}\right) = 5 + 2 = 7 \text{ ounces}$
 
 ✅ Together, sufficient.
@@ -3975,9 +3975,9 @@ $25p + 30n = 25\left(\tfrac{1}{5}\right) + 30\left(\tfrac{1}{15}\right) = 5 + 2 
 
 
 ### GMAT Answer Choice
-- (1) alone: Not sufficient  
-- (2) alone: Not sufficient  
-- Together: Sufficient  
+- (1) alone: Not sufficient
+- (2) alone: Not sufficient
+- Together: Sufficient
 
 Correct choice: **C**.
 
@@ -3986,43 +3986,85 @@ Correct choice: **C**.
 ## Q86
 
 
-### Step 1: Restate the problem  
-We want the **perimeter of the rectangle**, which is:  
+### Step 1: Restate the problem
+We want the **perimeter of the rectangle**, which is:
 $P = 2(\lambda + w)$
 
 So we need the value of $\lambda + w$.
 
 
 
-### Statement (1): $2\lambda + w = 40$  
-This equation does not directly give $\lambda + w$.  
-- Example: If $\lambda = 10$, then $w = 20$, so $\lambda + w = 30$.  
-- If $\lambda = 15$, then $w = 10$, so $\lambda + w = 25$.  
+### Statement (1): $2\lambda + w = 40$
+This equation does not directly give $\lambda + w$.
+- Example: If $\lambda = 10$, then $w = 20$, so $\lambda + w = 30$.
+- If $\lambda = 15$, then $w = 10$, so $\lambda + w = 25$.
 
-Different values possible.  
+Different values possible.
 ❌ Not sufficient.
 
 
 
-### Statement (2): $\lambda + w = 25$  
-This is exactly what we need!  
-Perimeter = $2(\lambda + w) = 2(25) = 50$.  
+### Statement (2): $\lambda + w = 25$
+This is exactly what we need!
+Perimeter = $2(\lambda + w) = 2(25) = 50$.
 
 ✅ Statement (2) alone is sufficient.
 
 
 
-### Combine (1) and (2):  
-Not necessary, since (2) alone already gives the perimeter.  
+### Combine (1) and (2):
+Not necessary, since (2) alone already gives the perimeter.
 
 
 
-### Final Answer  
-- (1) alone: Not sufficient  
-- (2) alone: Sufficient  
+### Final Answer
+- (1) alone: Not sufficient
+- (2) alone: Sufficient
 
 Correct GMAT choice: **B**.
 
+
+---
+
+
+## Q87
+
+
+### Step 1: Restate the problem
+We want the ratio $ \frac{x}{y} $.
+
+
+
+### Statement (1): $x$ is 4 more than twice $y$.
+$x = 2y + 4$
+So:
+$\frac{x}{y} = \frac{2y+4}{y} = 2 + \frac{4}{y}$
+
+This depends on the value of $y$. Without knowing $y$, the ratio is not fixed.
+❌ Not sufficient.
+
+
+
+### Statement (2): The ratio of $0.5x$ to $2y$ is $3:5$.
+$\frac{0.5x}{2y} = \frac{3}{5}$
+Simplify:
+$\frac{x}{4y} = \frac{3}{5} \quad \Rightarrow \quad \frac{x}{y} = \frac{12}{5}$
+
+This gives us the exact ratio.
+✅ Statement (2) alone is sufficient.
+
+
+
+### Combine (1) and (2):
+Not necessary, since (2) alone already gives the ratio.
+
+
+
+### Final Answer
+- (1) alone: Not sufficient
+- (2) alone: Sufficient
+
+Correct GMAT choice: **B**.
 
 ---
 
