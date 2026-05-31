@@ -3267,3 +3267,58 @@ Together, still sufficient.
 
 ---
 
+## Q73
+
+
+### Step 1: Restate the Question  
+We want the **value of $x$**, given that $x$ and $y$ are positive.
+
+
+### Statement (1):  
+$x = 3.927y$
+
+This gives a relationship between $x$ and $y$, but not a specific value.  
+Since $y$ is unknown, $x$ could be many values.  
+
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2):  
+$y = 2.279$
+
+This gives a specific value for $y$, but no relationship to $x$.  
+So we cannot determine $x$.  
+
+❌ **Statement (2) alone is not sufficient.**
+
+
+
+### Combine (1) and (2):  
+
+From (1): $x = 3.927y$.  
+From (2): $y = 2.279$.  
+
+$x = 3.927 \times 2.279$
+
+$x \approx 8.95$
+
+Unique value obtained.  
+
+✅ **Together sufficient.**
+
+
+
+### Step 2: Map to GMAT Answer Choices  
+- (1) alone: Not sufficient.  
+- (2) alone: Not sufficient.  
+- Together: Sufficient.  
+
+Correct GMAT choice: **C**.
+
+
+
+✅ **Final Answer: C**
+
+---
+
