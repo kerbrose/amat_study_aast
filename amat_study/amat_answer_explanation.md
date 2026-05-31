@@ -3322,3 +3322,42 @@ Correct GMAT choice: **C**.
 
 ---
 
+
+
+### Step 1: Restate the Question  
+We want to know: **Which one received the greater dollar increase — John or David?**
+
+
+
+### Statement (1): John’s salary increased 8 percent.  
+- This tells us the **percentage increase**, but not John’s actual salary.  
+- Without knowing his base salary, we cannot determine the dollar increase.  
+👉 **Not sufficient.**
+
+
+
+### Statement (2): David’s salary increased 5 percent.  
+- Same issue: we know the percentage, but not David’s base salary.  
+- Cannot determine the dollar increase.  
+👉 **Not sufficient.**
+
+
+
+### Combine (1) and (2):  
+- John: 8% increase.  
+- David: 5% increase.  
+- But we still don’t know their actual salaries.  
+- Example: If John’s salary = \$100, increase = \$8. If David’s salary = \$500, increase = \$25. David’s increase is larger.  
+- Or if John’s salary = \$1000, increase = \$80. David’s salary = \$200, increase = \$10. John’s increase is larger.  
+👉 Still cannot determine who received the greater dollar increase.  
+
+❌ **Together not sufficient.**
+
+
+
+### Final Answer  
+**Statements (1) and (2) together are not sufficient.**  
+Correct GMAT choice: **E**.
+
+---
+
