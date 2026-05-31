@@ -3217,3 +3217,207 @@ Correct GMAT choice: **B**.
 
 ---
 
+## Q72
+
+### Step 1: Restate the Question  
+
+We want the **length of the route (miles)** from Houghton to Callahan.  
+Let’s call the distance $D$.
+
+
+### Statement (1):  
+Traveling at 55 mph takes **1 hour less** than traveling at 50 mph.  
+
+$\frac{D}{50} - \frac{D}{55} = 1$
+
+Find $D$:
+
+$\frac{D}{50} - \frac{D}{55} = 1 \quad \Rightarrow \quad \frac{55D - 50D}{2750} = 1$
+
+$\frac{5D}{2750} = 1 \quad \Rightarrow \quad D = 550$
+
+✅ Statement (1) alone gives a unique value: $D = 550$.  
+**Sufficient.**
+
+
+### Statement (2):  
+It takes 11 hours to travel the **first half** of the route at 25 mph.  
+
+Half the route = $\frac{D}{2}$.  
+Time = Distance / Speed = $\frac{D/2}{25} = 11$.  
+
+$\frac{D}{50} = 11 \quad \Rightarrow \quad D = 550$
+
+✅ Statement (2) alone also gives a unique value: $D = 550$.  
+**Sufficient.**
+
+
+### Step 2: Combine Statements  
+Each statement alone already gives $D = 550$.  
+Together, still sufficient.  
+
+
+### Step 3: Map to GMAT Answer Choices  
+- (1) alone sufficient.  
+- (2) alone sufficient.  
+- Each alone sufficient → **Answer choice D**.
+
+
+✅ **Final Answer: D**
+
+---
+
+## Q73
+
+
+### Step 1: Restate the Question  
+We want the **value of $x$**, given that $x$ and $y$ are positive.
+
+
+### Statement (1):  
+$x = 3.927y$
+
+This gives a relationship between $x$ and $y$, but not a specific value.  
+Since $y$ is unknown, $x$ could be many values.  
+
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2):  
+$y = 2.279$
+
+This gives a specific value for $y$, but no relationship to $x$.  
+So we cannot determine $x$.  
+
+❌ **Statement (2) alone is not sufficient.**
+
+
+
+### Combine (1) and (2):  
+
+From (1): $x = 3.927y$.  
+From (2): $y = 2.279$.  
+
+$x = 3.927 \times 2.279$
+
+$x \approx 8.95$
+
+Unique value obtained.  
+
+✅ **Together sufficient.**
+
+
+
+### Step 2: Map to GMAT Answer Choices  
+- (1) alone: Not sufficient.  
+- (2) alone: Not sufficient.  
+- Together: Sufficient.  
+
+Correct GMAT choice: **C**.
+
+
+
+✅ **Final Answer: C**
+
+---
+
+## Q74
+
+### Step 1: Restate the Question  
+We want to know: **Which one received the greater dollar increase — John or David?**
+
+
+
+### Statement (1): John’s salary increased 8 percent.  
+- This tells us the **percentage increase**, but not John’s actual salary.  
+- Without knowing his base salary, we cannot determine the dollar increase.  
+👉 **Not sufficient.**
+
+
+
+### Statement (2): David’s salary increased 5 percent.  
+- Same issue: we know the percentage, but not David’s base salary.  
+- Cannot determine the dollar increase.  
+👉 **Not sufficient.**
+
+
+
+### Combine (1) and (2):  
+- John: 8% increase.  
+- David: 5% increase.  
+- But we still don’t know their actual salaries.  
+- Example: If John’s salary = \$100, increase = \$8. If David’s salary = \$500, increase = \$25. David’s increase is larger.  
+- Or if John’s salary = \$1000, increase = \$80. David’s salary = \$200, increase = \$10. John’s increase is larger.  
+👉 Still cannot determine who received the greater dollar increase.  
+
+❌ **Together not sufficient.**
+
+
+
+### Final Answer  
+**Statements (1) and (2) together are not sufficient.**  
+Correct GMAT choice: **E**.
+
+---
+
+
+## Q75
+
+
+### Step 1: Restate the Question  
+We want the **distance of the shorter route**.  
+Let’s define:  
+- Shorter route = $S$ km  
+- Longer route = $L$ km  
+
+
+
+### Statement (1):  
+Shorter route one way + longer route return = 42 km.  
+
+$S + L = 42$
+
+This gives us a relationship, but not the individual values.  
+👉 Multiple possibilities remain.  
+
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2):  
+Driving both ways by the longer route = 46 km.  
+
+$2L = 46 \quad \Rightarrow \quad L = 23$
+
+We know the longer route exactly, but not the shorter route.  
+👉 Cannot determine $S$.  
+
+❌ **Statement (2) alone is not sufficient.**
+
+
+
+### Combine (1) and (2):  
+From (2): $L = 23$.  
+Plug into (1):  
+$S + 23 = 42 \quad \Rightarrow \quad S = 19$
+
+Unique value for the shorter route.  
+
+✅ **Together sufficient.**
+
+
+
+### Step 2: Map to GMAT Answer Choices  
+- (1) alone: Not sufficient.  
+- (2) alone: Not sufficient.  
+- Together: Sufficient.  
+
+Correct GMAT choice: **C**.
+
+
+
+✅ **Final Answer: C**
+
+---
+
