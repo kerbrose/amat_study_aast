@@ -3636,3 +3636,57 @@ Correct GMAT choice: **E**.
 
 ---
 
+## Q80
+
+
+### Step 1: Restate the Question  
+We want the **running time in minutes** of a cartoon with 17,280 frames.
+
+
+### Statement (1):  
+The cartoon runs at **24 frames per second**.  
+
+$\text{Time (seconds)} = \frac{17,280}{24} = 720 \text{ seconds}$  
+
+Convert to minutes:  
+
+$720 \div 60 = 12 \text{ minutes}$  
+
+✅ Statement (1) alone gives the exact running time.  
+**Sufficient.**
+
+
+
+### Statement (2):  
+It takes 6 times as long to run the cartoon as to rewind it, and both together take 14 minutes.  
+
+Let running time = $R$, rewind time = $W$.  
+$R = 6W, \quad R + W = 14$  
+
+Substitute:  
+
+$6W + W = 14 \quad \Rightarrow \quad 7W = 14 \quad \Rightarrow \quad W = 2, \quad R = 12$  
+
+So the running time = 12 minutes.  
+
+✅ Statement (2) alone also gives the exact running time.  
+**Sufficient.**
+
+
+
+### Step 2: Combine Statements  
+Each statement alone already gives the answer. Together, still sufficient.
+
+
+
+### Step 3: Map to GMAT Answer Choices  
+- (1) alone sufficient.  
+- (2) alone sufficient.  
+- Each alone sufficient → **Answer choice D**.
+
+
+
+✅ **Final Answer: D**
+
+---
+
