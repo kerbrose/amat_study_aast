@@ -3322,7 +3322,7 @@ Correct GMAT choice: **C**.
 
 ---
 
-
+## Q74
 
 ### Step 1: Restate the Question  
 We want to know: **Which one received the greater dollar increase — John or David?**
@@ -3358,6 +3358,66 @@ We want to know: **Which one received the greater dollar increase — John or Da
 ### Final Answer  
 **Statements (1) and (2) together are not sufficient.**  
 Correct GMAT choice: **E**.
+
+---
+
+
+## Q75
+
+
+### Step 1: Restate the Question  
+We want the **distance of the shorter route**.  
+Let’s define:  
+- Shorter route = $S$ km  
+- Longer route = $L$ km  
+
+
+
+### Statement (1):  
+Shorter route one way + longer route return = 42 km.  
+
+$S + L = 42$
+
+This gives us a relationship, but not the individual values.  
+👉 Multiple possibilities remain.  
+
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2):  
+Driving both ways by the longer route = 46 km.  
+
+$2L = 46 \quad \Rightarrow \quad L = 23$
+
+We know the longer route exactly, but not the shorter route.  
+👉 Cannot determine $S$.  
+
+❌ **Statement (2) alone is not sufficient.**
+
+
+
+### Combine (1) and (2):  
+From (2): $L = 23$.  
+Plug into (1):  
+$S + 23 = 42 \quad \Rightarrow \quad S = 19$
+
+Unique value for the shorter route.  
+
+✅ **Together sufficient.**
+
+
+
+### Step 2: Map to GMAT Answer Choices  
+- (1) alone: Not sufficient.  
+- (2) alone: Not sufficient.  
+- Together: Sufficient.  
+
+Correct GMAT choice: **C**.
+
+
+
+✅ **Final Answer: C**
 
 ---
 
