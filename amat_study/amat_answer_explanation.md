@@ -3797,3 +3797,73 @@ Correct GMAT choice: **B**.
 
 ---
 
+## Q83
+
+
+
+### Step 1: Restate the Problem
+We have triangle $ \triangle PQR $ with sides:
+- $PQ = x$  
+- $QR = x+2$  
+- $PR = y$
+
+We want to know: **Which angle is the greatest?**
+
+👉 In any triangle, the largest angle is opposite the longest side.
+
+So the problem reduces to: **Which side is longest?**
+
+
+
+### Step 2: Analyze Statements
+
+#### Statement (1): $y = x+3$  
+Now the sides are:
+- $PQ = x$  
+- $QR = x+2$  
+- $PR = x+3$
+
+Clearly, $PR$ is the longest side.  
+Therefore, the largest angle is $\angle Q$ (opposite side $PR$).  
+
+✅ Statement (1) alone is sufficient.
+
+
+
+#### Statement (2): $x = 2$  
+Now the sides are:
+- $PQ = 2$  
+- $QR = 4$  
+- $PR = y$ (unknown)
+
+We don’t know $y$.  
+- If $y > 4$, then $PR$ is longest → largest angle at $Q$.  
+- If $y < 4$, then $QR$ is longest → largest angle at $P$.  
+- If $y = 4$, then two sides tie → largest angle depends on triangle type.
+
+❌ Statement (2) alone is not sufficient.
+
+
+
+### Step 3: Combine (1) and (2)  
+From (2): $x = 2$.  
+From (1): $y = x+3 = 5$.  
+
+So sides are:
+- $PQ = 2$  
+- $QR = 4$  
+- $PR = 5$
+
+Longest side = $PR = 5$.  
+Largest angle = $\angle Q$.  
+
+✅ Together, sufficient.
+
+
+Correct GMAT choice: **A** (Statement (1) alone is sufficient).
+
+
+✨ **Final Answer: A**
+
+---
+
