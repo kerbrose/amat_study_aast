@@ -4729,6 +4729,44 @@ Not necessary, since each alone already gives $x=1.5$.
 ---
 
 
+## Q100
+
+
+### Question
+Is $x < 0$?
+
+
+### Statement (1):
+$- x > 0$
+
+This inequality means $x < 0$.
+
+So directly, yes, $x$ is negative.
+👉 **Statement (1) alone is sufficient.**
+
+
+
+### Statement (2):
+$x^3 < 0$
+
+For integers, the cube of a number is negative **only if the number itself is negative**.
+So this also implies $x < 0$.
+👉 **Statement (2) alone is sufficient.**
+
+
+
+### Combine (1) and (2):
+Not necessary, since each statement alone already gives the answer.
+
+
+
+### ✅ Final Answer:
+- (1) alone → Sufficient
+- (2) alone → Sufficient
+- Correct choice: **D**
+
+---
+
 
 
 
