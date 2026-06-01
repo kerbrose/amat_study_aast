@@ -4452,3 +4452,55 @@ So Tom must be greater than 12 (since Jim is 2/3 of Tom).
 ---
 
 
+## Q95
+
+
+
+### Given:
+$5x + 3y = 17$
+
+We want the value of $x$.
+
+
+
+### Statement (1):
+> $x$ is a positive integer.
+
+This only restricts $x$ to positive integers, but there are infinitely many pairs $(x,y)$ that satisfy the equation.
+For example:
+- If $x=2$, then $5(2)+3y=17 \Rightarrow 10+3y=17 \Rightarrow y= \tfrac{7}{3}$.
+- If $x=1$, then $5+3y=17 \Rightarrow y=4$.
+
+Both are valid, so multiple possible values of $x$.
+👉 **Not sufficient.**
+
+
+
+### Statement (2):
+> $y = 4x$.
+
+Substitute into the equation:
+$5x + 3(4x) = 17 \quad \Rightarrow \quad 5x + 12x = 17 \quad \Rightarrow \quad 17x = 17$
+
+$x = 1$
+
+Unique solution.
+👉 **Sufficient.**
+
+
+
+### Combine (1) and (2):
+Not necessary, since (2) alone already gives $x=1$.
+
+
+
+### ✅ Final Answer:
+- (1) alone → Not sufficient
+- (2) alone → Sufficient
+- Correct choice: **B**
+
+---
+
+
+
+
