@@ -4549,10 +4549,67 @@ Consistent.
 👉 Together, also sufficient.
 
 
-## ✅ Correct Answer:
+### ✅ Correct Answer:
 - (1) alone → Sufficient
 - (2) alone → Not sufficient
 - **Answer: A**
 
 ---
+
+## Q97
+
+
+### Restating the Question
+We want to know: **Is $r+s$ divisible by 3?**
+
+
+
+### Statement (1):
+> $s$ is divisible by 3.
+
+So $s = 3k$.
+Then:
+
+$r+s = r+3k$
+
+This is divisible by 3 **if and only if $r$ is divisible by 3**.
+But we don’t know anything about $r$.
+👉 **Not sufficient.**
+
+
+
+### Statement (2):
+> $r$ is divisible by 3.
+
+So $r = 3m$.
+Then:
+
+$r+s = 3m+s$
+
+This is divisible by 3 **if and only if $s$ is divisible by 3**.
+But we don’t know anything about $s$.
+👉 **Not sufficient.**
+
+
+
+### Combine (1) and (2):
+If both $r$ and $s$ are divisible by 3, then:
+
+$r+s = 3m+3k = 3(m+k)$
+
+Clearly divisible by 3.
+👉 **Together sufficient.**
+
+
+
+### ✅ Final Answer:
+- (1) alone → Not sufficient
+- (2) alone → Not sufficient
+- (1) and (2) together → Sufficient
+- Correct choice: **C**
+
+---
+
+
+
 
