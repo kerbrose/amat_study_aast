@@ -4249,3 +4249,52 @@ Thus, **Statement (2) alone is SUFFICIENT.**
 ---
 
 
+## Q91
+
+
+### Given:
+- Total expenditure = **$35,000**
+- Categories: Books (B), Periodicals (P), Newspapers (N)
+- We want: **B**
+
+
+
+### Statement (1):  
+> The expenditure for newspapers was 40% greater than the expenditure for periodicals.  
+$N = 1.4P$
+
+But we don’t know how books fit in. With only this, we cannot determine $B$.  
+**(1) alone → Not sufficient.**
+
+
+
+### Statement (2):  
+> The total of the expenditure for periodicals and newspapers was 25% less than the expenditure for books.  
+$P + N = 0.75B$
+
+We also know:  
+$B + P + N = 35,000$
+
+Substitute:  
+$B + 0.75B = 35,000 \quad \Rightarrow \quad 1.75B = 35,000$  
+
+$B = 20,000$
+
+So with (2) alone, we can solve exactly.  
+**(2) alone → Sufficient.**
+
+
+
+### Combining (1) and (2):  
+Not necessary, since (2) alone already gives the answer. But if combined, we could also solve for $P$ and $N$ individually.
+
+
+
+## ✅ Final Answer:
+- **Statement (1) alone → Not sufficient**  
+- **Statement (2) alone → Sufficient**  
+- **Answer: (B)** — Statement (2) alone is sufficient to determine the expenditure for books.  
+
+---
+
+
