@@ -4071,49 +4071,49 @@ Correct GMAT choice: **B**.
 ## Q88
 
 
-### Problem Restated  
+### Problem Restated
 We want to know: **Are $x, y, z$ consecutive integers?**
 
-That means:  
+That means:
 $y = x+1, \quad z = x+2$
 
 
 
-### Statement (1): $z - x = 2$  
-This tells us the distance between $z$ and $x$ is 2.  
-So possible sets:  
-- $x=3, y=4, z=5$ → consecutive.  
-- $x=3, y=10, z=5$ → not consecutive.  
+### Statement (1): $z - x = 2$
+This tells us the distance between $z$ and $x$ is 2.
+So possible sets:
+- $x=3, y=4, z=5$ → consecutive.
+- $x=3, y=10, z=5$ → not consecutive.
 
-We don’t know if $y$ is exactly between them.  
+We don’t know if $y$ is exactly between them.
 ❌ Not sufficient.
 
 
 
-### Statement (2): $x < y < z$  
-This only tells us the order, not the spacing.  
-Example: $x=2, y=3, z=4$ → consecutive.  
-Example: $x=2, y=5, z=10$ → not consecutive.  
+### Statement (2): $x < y < z$
+This only tells us the order, not the spacing.
+Example: $x=2, y=3, z=4$ → consecutive.
+Example: $x=2, y=5, z=10$ → not consecutive.
 ❌ Not sufficient.
 
 
 
-### Combine (1) and (2):  
-From (1): $z = x+2$.  
-From (2): $x < y < z$.  
-So $y$ must be strictly between $x$ and $x+2$.  
-Since $y$ is an integer, the only possibility is:  
-$y = x+1$  
+### Combine (1) and (2):
+From (1): $z = x+2$.
+From (2): $x < y < z$.
+So $y$ must be strictly between $x$ and $x+2$.
+Since $y$ is an integer, the only possibility is:
+$y = x+1$
 
-Thus $x, y, z$ are consecutive integers.  
+Thus $x, y, z$ are consecutive integers.
 ✅ Together, sufficient.
 
 
 
-### Final GMAT Answer  
-- (1) alone: Not sufficient  
-- (2) alone: Not sufficient  
-- Together: Sufficient  
+### Final GMAT Answer
+- (1) alone: Not sufficient
+- (2) alone: Not sufficient
+- Together: Sufficient
 
 Correct choice: **C**.
 
@@ -4122,41 +4122,41 @@ Correct choice: **C**.
 ## Q89
 
 
-### Step 1: Restate the problem  
+### Step 1: Restate the problem
 We want the **value of $x$** given two statements.
 
 
 
-### Statement (1):  
+### Statement (1):
 $-(x+y) = x - y$
 
-Simplify:  
-$-x - y = x - y$  
-$- x - y - x + y = 0$  
+Simplify:
+$-x - y = x - y$
+$- x - y - x + y = 0$
 $-2x = 0 \quad \Rightarrow \quad x = 0$
 
 ✅ Statement (1) alone gives a unique value for $x$. **Sufficient.**
 
 
 
-### Statement (2):  
+### Statement (2):
 $x + y = 2$
 
-This is one equation with two unknowns.  
-For example:  
-- If $x=1, y=1$, equation holds.  
-- If $x=2, y=0$, equation also holds.  
+This is one equation with two unknowns.
+For example:
+- If $x=1, y=1$, equation holds.
+- If $x=2, y=0$, equation also holds.
 
-Multiple possible values for $x$.  
+Multiple possible values for $x$.
 ❌ Statement (2) alone is **not sufficient**.
 
 
 
-### Combine (1) and (2):  
-From (1): $x=0$.  
-Plug into (2): $0 + y = 2 \Rightarrow y=2$.  
+### Combine (1) and (2):
+From (1): $x=0$.
+Plug into (2): $0 + y = 2 \Rightarrow y=2$.
 
-Still consistent, and $x=0$.  
+Still consistent, and $x=0$.
 ✅ Together, sufficient (but (1) alone already works).
 
 
@@ -4259,41 +4259,41 @@ Thus, **Statement (2) alone is SUFFICIENT.**
 
 
 
-### Statement (1):  
-> The expenditure for newspapers was 40% greater than the expenditure for periodicals.  
+### Statement (1):
+> The expenditure for newspapers was 40% greater than the expenditure for periodicals.
 $N = 1.4P$
 
-But we don’t know how books fit in. With only this, we cannot determine $B$.  
+But we don’t know how books fit in. With only this, we cannot determine $B$.
 **(1) alone → Not sufficient.**
 
 
 
-### Statement (2):  
-> The total of the expenditure for periodicals and newspapers was 25% less than the expenditure for books.  
+### Statement (2):
+> The total of the expenditure for periodicals and newspapers was 25% less than the expenditure for books.
 $P + N = 0.75B$
 
-We also know:  
+We also know:
 $B + P + N = 35,000$
 
-Substitute:  
-$B + 0.75B = 35,000 \quad \Rightarrow \quad 1.75B = 35,000$  
+Substitute:
+$B + 0.75B = 35,000 \quad \Rightarrow \quad 1.75B = 35,000$
 
 $B = 20,000$
 
-So with (2) alone, we can solve exactly.  
+So with (2) alone, we can solve exactly.
 **(2) alone → Sufficient.**
 
 
 
-### Combining (1) and (2):  
+### Combining (1) and (2):
 Not necessary, since (2) alone already gives the answer. But if combined, we could also solve for $P$ and $N$ individually.
 
 
 
 ### ✅ Final Answer:
-- **Statement (1) alone → Not sufficient**  
-- **Statement (2) alone → Sufficient**  
-- **Answer: (B)** — Statement (2) alone is sufficient to determine the expenditure for books.  
+- **Statement (1) alone → Not sufficient**
+- **Statement (2) alone → Sufficient**
+- **Answer: (B)** — Statement (2) alone is sufficient to determine the expenditure for books.
 
 ---
 
@@ -4303,55 +4303,55 @@ Not necessary, since (2) alone already gives the answer. But if combined, we cou
 
 
 ### Problem Restatement
-We’re told ▽ is one of the four basic operations: $+$, $-$, $\times$, or $/$.  
+We’re told ▽ is one of the four basic operations: $+$, $-$, $\times$, or $/$.
 We want the value of $3 \ ▽ \ 2$.
 
 
-### Statement (1):  
+### Statement (1):
 $0 \ ▽ \ 1 = 1$
 
 Check each operation:
 
-- $0+1 = 1$ ✅ possible  
-- $0-1 = -1$ ❌  
-- $0 \times 1 = 0$ ❌  
-- $0/1 = 0$ ❌  
+- $0+1 = 1$ ✅ possible
+- $0-1 = -1$ ❌
+- $0 \times 1 = 0$ ❌
+- $0/1 = 0$ ❌
 
-So ▽ must be **addition**.  
-Then $3 \ ▽ \ 2 = 3+2 = 5$.  
+So ▽ must be **addition**.
+Then $3 \ ▽ \ 2 = 3+2 = 5$.
 **Statement (1) alone → Sufficient.**
 
 
 
-### Statement (2):  
+### Statement (2):
 $1 \ ▽ \ 0 = 1$
 
 Check each operation:
 
-- $1+0 = 1$ ✅ possible  
-- $1-0 = 1$ ✅ possible  
-- $1 \times 0 = 0$ ❌  
-- $1/0$ undefined ❌  
+- $1+0 = 1$ ✅ possible
+- $1-0 = 1$ ✅ possible
+- $1 \times 0 = 0$ ❌
+- $1/0$ undefined ❌
 
-So ▽ could be **addition OR subtraction**.  
-If addition → $3+2=5$.  
-If subtraction → $3-2=1$.  
-Two possible values.  
+So ▽ could be **addition OR subtraction**.
+If addition → $3+2=5$.
+If subtraction → $3-2=1$.
+Two possible values.
 **Statement (2) alone → Not sufficient.**
 
 
 
-### Combine (1) and (2):  
-From (1), we already know ▽ = addition. That satisfies (2) as well.  
-So together, ▽ = addition → $3+2=5$.  
+### Combine (1) and (2):
+From (1), we already know ▽ = addition. That satisfies (2) as well.
+So together, ▽ = addition → $3+2=5$.
 **Together → Sufficient.**
 
 
 
 ### ✅ Final Answer:
-- (1) alone is sufficient.  
-- (2) alone is not sufficient.  
-- Correct choice: **A**.  
+- (1) alone is sufficient.
+- (2) alone is not sufficient.
+- Correct choice: **A**.
 
 ---
 
@@ -4359,52 +4359,95 @@ So together, ▽ = addition → $3+2=5$.
 
 
 
-### Step 1: Restate the Question  
-We want the **savings** from buying 12 cans at the reduced price instead of the regular price.  
+### Step 1: Restate the Question
+We want the **savings** from buying 12 cans at the reduced price instead of the regular price.
 
 $\text{Savings} = \text{Cost at regular price} - \text{Cost at reduced price}$
 
 
 
-### Statement (1):  
-> The regular price for the 7‑ounce cans was 3 for a dollar.  
+### Statement (1):
+> The regular price for the 7‑ounce cans was 3 for a dollar.
 
-So:  
-$\text{Regular price per can} = \frac{1}{3} \approx 0.333$  
-Cost of 12 cans = $12 \times \frac{1}{3} = 4$.  
+So:
+$\text{Regular price per can} = \frac{1}{3} \approx 0.333$
+Cost of 12 cans = $12 \times \frac{1}{3} = 4$.
 
-But we don’t know the reduced price yet.  
+But we don’t know the reduced price yet.
 👉 Not sufficient.
 
 
 
-### Statement (2):  
-> The reduced price for the 7‑ounce cans was 4 for a dollar.  
+### Statement (2):
+> The reduced price for the 7‑ounce cans was 4 for a dollar.
 
-So:  
-$\text{Reduced price per can} = \frac{1}{4} = 0.25$  
-Cost of 12 cans = $12 \times 0.25 = 3$.  
+So:
+$\text{Reduced price per can} = \frac{1}{4} = 0.25$
+Cost of 12 cans = $12 \times 0.25 = 3$.
 
-But we don’t know the regular price yet.  
+But we don’t know the regular price yet.
 👉 Not sufficient.
 
 
 
-### Combine (1) and (2):  
-- Regular cost = \$4  
-- Reduced cost = \$3  
-- Savings = $4 - 3 = 1$  
+### Combine (1) and (2):
+- Regular cost = \$4
+- Reduced cost = \$3
+- Savings = $4 - 3 = 1$
 
 ✅ Together sufficient.
 
 
 
-### Step 2: Map to GMAT Answer Choices  
-- (1) alone: Not sufficient.  
-- (2) alone: Not sufficient.  
-- Together: Sufficient.  
+### Step 2: Map to GMAT Answer Choices
+- (1) alone: Not sufficient.
+- (2) alone: Not sufficient.
+- Together: Sufficient.
 
 Correct choice: **C**.
+
+---
+
+## Q94
+
+
+### Restating the Question
+We want to know: **Who caught more fish, Jim or Tom?**
+
+
+
+### Statement (1):
+> Jim caught $ \tfrac{2}{3} $ as many fish as Tom.
+
+That means:
+$J = \tfrac{2}{3}T$
+
+So Jim caught fewer fish than Tom (unless Tom = 0, then Jim = 0 too, equal).
+👉 This statement alone is **sufficient** to answer: Tom caught more (or equal if both 0).
+
+
+
+### Statement (2):
+> After Tom stopped fishing, Jim continued to fish until he caught 12 fish.
+
+This only tells us Jim’s **final total = 12**, but we don’t know Tom’s total.
+Tom could have caught more than 12, fewer than 12, or equal.
+👉 This statement alone is **not sufficient**.
+
+
+
+### Combine (1) and (2):
+From (1), we already know Jim < Tom (unless both 0).
+From (2), Jim = 12.
+So Tom must be greater than 12 (since Jim is 2/3 of Tom).
+👉 Together, we can definitively say Tom caught more.
+
+
+
+### ✅ Final Answer:
+- (1) alone → **Sufficient**
+- (2) alone → **Not sufficient**
+- Correct choice: **A**
 
 ---
 
