@@ -4502,5 +4502,57 @@ Not necessary, since (2) alone already gives $x=1$.
 ---
 
 
+## Q96
 
+
+
+### Given:
+Nan’s actual total = **\$3.75**
+Charges: first hour = $F$, each additional hour = $A$.
+
+We want the number of hours.
+
+
+
+### Statement (1):
+> First hour = \$0.75, each additional = \$0.50.
+
+So:
+$\text{Total} = 0.75 + 0.50(h-1) = 3.75$
+
+$0.50(h-1) = 3.00 \quad \Rightarrow \quad h-1=6 \quad \Rightarrow \quad h=7$
+
+Unique solution.
+👉 **Sufficient.**
+
+
+
+### Statement (2):
+> If the first hour had been \$1.00, total would have been \$4.00.
+
+So:
+$1.00 + A(h-1) = 4.00$
+
+$A(h-1) = 3.00$
+
+But here we have **two unknowns**: $A$ and $h$. Without knowing $A$, we cannot solve for $h$.
+👉 **Not sufficient.**
+
+
+
+### Combine (1) and (2):
+From (1), we know $A=0.50$. Substitute into (2):
+
+$1.00 + 0.50(h-1) = 4.00 \quad \Rightarrow \quad h-1=6 \quad \Rightarrow \quad h=7$
+
+Consistent.
+👉 Together, also sufficient.
+
+
+## ✅ Correct Answer:
+- (1) alone → Sufficient
+- (2) alone → Not sufficient
+- **Answer: A**
+
+---
 
