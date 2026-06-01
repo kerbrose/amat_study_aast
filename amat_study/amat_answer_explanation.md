@@ -4290,10 +4290,68 @@ Not necessary, since (2) alone already gives the answer. But if combined, we cou
 
 
 
-## ✅ Final Answer:
+### ✅ Final Answer:
 - **Statement (1) alone → Not sufficient**  
 - **Statement (2) alone → Sufficient**  
 - **Answer: (B)** — Statement (2) alone is sufficient to determine the expenditure for books.  
+
+---
+
+
+## Q92
+
+
+
+### Problem Restatement
+We’re told ▽ is one of the four basic operations: $+$, $-$, $\times$, or $/$.  
+We want the value of $3 \ ▽ \ 2$.
+
+
+### Statement (1):  
+$0 \ ▽ \ 1 = 1$
+
+Check each operation:
+
+- $0+1 = 1$ ✅ possible  
+- $0-1 = -1$ ❌  
+- $0 \times 1 = 0$ ❌  
+- $0/1 = 0$ ❌  
+
+So ▽ must be **addition**.  
+Then $3 \ ▽ \ 2 = 3+2 = 5$.  
+**Statement (1) alone → Sufficient.**
+
+
+
+### Statement (2):  
+$1 \ ▽ \ 0 = 1$
+
+Check each operation:
+
+- $1+0 = 1$ ✅ possible  
+- $1-0 = 1$ ✅ possible  
+- $1 \times 0 = 0$ ❌  
+- $1/0$ undefined ❌  
+
+So ▽ could be **addition OR subtraction**.  
+If addition → $3+2=5$.  
+If subtraction → $3-2=1$.  
+Two possible values.  
+**Statement (2) alone → Not sufficient.**
+
+
+
+### Combine (1) and (2):  
+From (1), we already know ▽ = addition. That satisfies (2) as well.  
+So together, ▽ = addition → $3+2=5$.  
+**Together → Sufficient.**
+
+
+
+### ✅ Final Answer:
+- (1) alone is sufficient.  
+- (2) alone is not sufficient.  
+- Correct choice: **A**.  
 
 ---
 
