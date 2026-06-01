@@ -4195,7 +4195,7 @@ $S + C_1 + C_2 + C_3 = 200,000$
 Now we can find the combined total for the remaining two younger children:
 
 
-$$C_2 + C_3 = 200,000 - 100,000 - 25,000 = 75,000$$
+$C_2 + C_3 = 200,000 - 100,000 - 25,000 = 75,000$
 
 Since we only know the sum of $C_2$ and $C_3$ but do not have any information to break down how much each individual child received, we cannot uniquely determine the youngest child's share ($C_3$).
 
@@ -4611,5 +4611,71 @@ Clearly divisible by 3.
 ---
 
 
+## Q98
+
+To find the radius of the circle with center $O$, let's break down the information given in the problem and evaluate the statements using standard GMAT Data Sufficiency logic.
+
+Let the radius of the circle be $r$. Therefore, the total length from the center $O$ to the edge of the circle at $Q$ is the radius:
+
+
+$OQ = r$
+
+Since $P$ lies on the segment $OQ$, we can write:
+
+
+$OQ = OP + PQ = r$
+
+
+
+### Evaluating Statement (1)
+
+> **(1) The ratio of $OP$ to $PQ$ is $1$ to $2$.**
+
+* This tells us that $\frac{OP}{PQ} = \frac{1}{2}$, meaning $PQ = 2 \cdot OP$.
+* Since $OP + PQ = r$, we can substitute $PQ$:
+
+$OP + 2 \cdot OP = r \implies 3 \cdot OP = r \implies OP = \frac{r}{3}$
+
+
+* While this gives us a specific fractional relationship between the segments and the radius, **it does not provide any actual numerical lengths** (e.g., in centimeters or inches).
+* Without a concrete number, we cannot calculate the exact value of $r$.
+
+Therefore, Statement (1) alone is **Not Sufficient**.
+
+
+
+### Evaluating Statement (2)
+
+> **(2) $P$ is the midpoint of chord $AB$.**
+
+* A standard geometric property states that a line from the center of a circle that bisects a chord is perpendicular to that chord. This means $\angle APO = 90^\circ$.
+* However, Statement (2) gives us absolutely **no numerical measurements** for any of the segments ($AB$, $OP$, $PQ$, etc.).
+* Knowing that $P$ is the midpoint simply tells us about the structure, but gives no scale.
+
+Therefore, Statement (2) alone is **Not Sufficient**.
+
+
+
+### Evaluating Statements (1) and (2) Together
+
+* From (1), we know the algebraic relationship between $OP$, $PQ$, and $r$.
+* From (2), we know that $OP \perp AB$ and $AP = PB$.
+* Even if we construct a right triangle $\triangle APO$ where $OA = r$ (the radius) and $OP = \frac{r}{3}$, by the Pythagorean theorem:
+
+$AP^2 + OP^2 = OA^2 \implies AP^2 + \left(\frac{r}{3}\right)^2 = r^2$
+
+
+* This simplifies to $AP^2 = \frac{8}{9}r^2$, meaning we still only have relationships and ratios, but **no definitive numerical values** to anchor the size of the circle. The circle could have a radius of 3, 30, or 300, and both statements would still hold true.
+
+Therefore, Statements (1) and (2) together are **Not Sufficient**.
+
+
+
+### Conclusion
+
+**Correct Answer: E** (Statements 1 and 2 together are not sufficient).
+
+
+---
 
 
