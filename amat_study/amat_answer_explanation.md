@@ -4671,11 +4671,64 @@ Therefore, Statements (1) and (2) together are **Not Sufficient**.
 
 
 
-### Conclusion
+### ✅Conclusion
 
 **Correct Answer: E** (Statements 1 and 2 together are not sufficient).
 
 
 ---
+
+
+## Q99
+
+
+### Setup
+We have a 4‑liter solution:
+$x \ (\text{vinegar}) + y \ (\text{water}) = 4$
+We want the value of $x$.
+
+
+
+### Statement (1):
+$\frac{x}{4} = \frac{3}{8}$
+So:
+
+$x = \frac{3}{8} \times 4 = \frac{12}{8} = 1.5$
+
+Unique value for $x$.
+👉 **Sufficient.**
+
+
+
+### Statement (2):
+$\frac{y}{4} = \frac{5}{8}$
+
+So:
+
+$y = \frac{5}{8} \times 4 = \frac{20}{8} = 2.5$
+
+Then:
+
+$x = 4 - y = 4 - 2.5 = 1.5$
+
+Unique value for $x$.
+👉 **Sufficient.**
+
+
+
+### Combine (1) and (2):
+Not necessary, since each alone already gives $x=1.5$.
+
+
+
+### ✅ Final Answer:
+- (1) alone → Sufficient
+- (2) alone → Sufficient
+- Correct choice: **D**
+
+---
+
+
+
 
 
