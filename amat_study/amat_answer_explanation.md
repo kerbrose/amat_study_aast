@@ -4355,4 +4355,57 @@ So together, ▽ = addition → $3+2=5$.
 
 ---
 
+## Q93
+
+
+
+### Step 1: Restate the Question  
+We want the **savings** from buying 12 cans at the reduced price instead of the regular price.  
+
+$\text{Savings} = \text{Cost at regular price} - \text{Cost at reduced price}$
+
+
+
+### Statement (1):  
+> The regular price for the 7‑ounce cans was 3 for a dollar.  
+
+So:  
+$\text{Regular price per can} = \frac{1}{3} \approx 0.333$  
+Cost of 12 cans = $12 \times \frac{1}{3} = 4$.  
+
+But we don’t know the reduced price yet.  
+👉 Not sufficient.
+
+
+
+### Statement (2):  
+> The reduced price for the 7‑ounce cans was 4 for a dollar.  
+
+So:  
+$\text{Reduced price per can} = \frac{1}{4} = 0.25$  
+Cost of 12 cans = $12 \times 0.25 = 3$.  
+
+But we don’t know the regular price yet.  
+👉 Not sufficient.
+
+
+
+### Combine (1) and (2):  
+- Regular cost = \$4  
+- Reduced cost = \$3  
+- Savings = $4 - 3 = 1$  
+
+✅ Together sufficient.
+
+
+
+### Step 2: Map to GMAT Answer Choices  
+- (1) alone: Not sufficient.  
+- (2) alone: Not sufficient.  
+- Together: Sufficient.  
+
+Correct choice: **C**.
+
+---
+
 
