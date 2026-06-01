@@ -4071,49 +4071,49 @@ Correct GMAT choice: **B**.
 ## Q88
 
 
-### Problem Restated  
+### Problem Restated
 We want to know: **Are $x, y, z$ consecutive integers?**
 
-That means:  
+That means:
 $y = x+1, \quad z = x+2$
 
 
 
-### Statement (1): $z - x = 2$  
-This tells us the distance between $z$ and $x$ is 2.  
-So possible sets:  
-- $x=3, y=4, z=5$ → consecutive.  
-- $x=3, y=10, z=5$ → not consecutive.  
+### Statement (1): $z - x = 2$
+This tells us the distance between $z$ and $x$ is 2.
+So possible sets:
+- $x=3, y=4, z=5$ → consecutive.
+- $x=3, y=10, z=5$ → not consecutive.
 
-We don’t know if $y$ is exactly between them.  
+We don’t know if $y$ is exactly between them.
 ❌ Not sufficient.
 
 
 
-### Statement (2): $x < y < z$  
-This only tells us the order, not the spacing.  
-Example: $x=2, y=3, z=4$ → consecutive.  
-Example: $x=2, y=5, z=10$ → not consecutive.  
+### Statement (2): $x < y < z$
+This only tells us the order, not the spacing.
+Example: $x=2, y=3, z=4$ → consecutive.
+Example: $x=2, y=5, z=10$ → not consecutive.
 ❌ Not sufficient.
 
 
 
-### Combine (1) and (2):  
-From (1): $z = x+2$.  
-From (2): $x < y < z$.  
-So $y$ must be strictly between $x$ and $x+2$.  
-Since $y$ is an integer, the only possibility is:  
-$y = x+1$  
+### Combine (1) and (2):
+From (1): $z = x+2$.
+From (2): $x < y < z$.
+So $y$ must be strictly between $x$ and $x+2$.
+Since $y$ is an integer, the only possibility is:
+$y = x+1$
 
-Thus $x, y, z$ are consecutive integers.  
+Thus $x, y, z$ are consecutive integers.
 ✅ Together, sufficient.
 
 
 
-### Final GMAT Answer  
-- (1) alone: Not sufficient  
-- (2) alone: Not sufficient  
-- Together: Sufficient  
+### Final GMAT Answer
+- (1) alone: Not sufficient
+- (2) alone: Not sufficient
+- Together: Sufficient
 
 Correct choice: **C**.
 
@@ -4122,41 +4122,41 @@ Correct choice: **C**.
 ## Q89
 
 
-### Step 1: Restate the problem  
+### Step 1: Restate the problem
 We want the **value of $x$** given two statements.
 
 
 
-### Statement (1):  
+### Statement (1):
 $-(x+y) = x - y$
 
-Simplify:  
-$-x - y = x - y$  
-$- x - y - x + y = 0$  
+Simplify:
+$-x - y = x - y$
+$- x - y - x + y = 0$
 $-2x = 0 \quad \Rightarrow \quad x = 0$
 
 ✅ Statement (1) alone gives a unique value for $x$. **Sufficient.**
 
 
 
-### Statement (2):  
+### Statement (2):
 $x + y = 2$
 
-This is one equation with two unknowns.  
-For example:  
-- If $x=1, y=1$, equation holds.  
-- If $x=2, y=0$, equation also holds.  
+This is one equation with two unknowns.
+For example:
+- If $x=1, y=1$, equation holds.
+- If $x=2, y=0$, equation also holds.
 
-Multiple possible values for $x$.  
+Multiple possible values for $x$.
 ❌ Statement (2) alone is **not sufficient**.
 
 
 
-### Combine (1) and (2):  
-From (1): $x=0$.  
-Plug into (2): $0 + y = 2 \Rightarrow y=2$.  
+### Combine (1) and (2):
+From (1): $x=0$.
+Plug into (2): $0 + y = 2 \Rightarrow y=2$.
 
-Still consistent, and $x=0$.  
+Still consistent, and $x=0$.
 ✅ Together, sufficient (but (1) alone already works).
 
 
@@ -4195,7 +4195,7 @@ $S + C_1 + C_2 + C_3 = 200,000$
 Now we can find the combined total for the remaining two younger children:
 
 
-$$C_2 + C_3 = 200,000 - 100,000 - 25,000 = 75,000$$
+$C_2 + C_3 = 200,000 - 100,000 - 25,000 = 75,000$
 
 Since we only know the sum of $C_2$ and $C_3$ but do not have any information to break down how much each individual child received, we cannot uniquely determine the youngest child's share ($C_3$).
 
@@ -4247,5 +4247,526 @@ Thus, **Statement (2) alone is SUFFICIENT.**
 **Correct Answer:** **B** (Statement 2 alone is sufficient, but statement 1 alone is not sufficient)
 
 ---
+
+
+## Q91
+
+
+### Given:
+- Total expenditure = **$35,000**
+- Categories: Books (B), Periodicals (P), Newspapers (N)
+- We want: **B**
+
+
+
+### Statement (1):
+> The expenditure for newspapers was 40% greater than the expenditure for periodicals.
+$N = 1.4P$
+
+But we don’t know how books fit in. With only this, we cannot determine $B$.
+**(1) alone → Not sufficient.**
+
+
+
+### Statement (2):
+> The total of the expenditure for periodicals and newspapers was 25% less than the expenditure for books.
+$P + N = 0.75B$
+
+We also know:
+$B + P + N = 35,000$
+
+Substitute:
+$B + 0.75B = 35,000 \quad \Rightarrow \quad 1.75B = 35,000$
+
+$B = 20,000$
+
+So with (2) alone, we can solve exactly.
+**(2) alone → Sufficient.**
+
+
+
+### Combining (1) and (2):
+Not necessary, since (2) alone already gives the answer. But if combined, we could also solve for $P$ and $N$ individually.
+
+
+
+### ✅ Final Answer:
+- **Statement (1) alone → Not sufficient**
+- **Statement (2) alone → Sufficient**
+- **Answer: (B)** — Statement (2) alone is sufficient to determine the expenditure for books.
+
+---
+
+
+## Q92
+
+
+
+### Problem Restatement
+We’re told ▽ is one of the four basic operations: $+$, $-$, $\times$, or $/$.
+We want the value of $3 \ ▽ \ 2$.
+
+
+### Statement (1):
+$0 \ ▽ \ 1 = 1$
+
+Check each operation:
+
+- $0+1 = 1$ ✅ possible
+- $0-1 = -1$ ❌
+- $0 \times 1 = 0$ ❌
+- $0/1 = 0$ ❌
+
+So ▽ must be **addition**.
+Then $3 \ ▽ \ 2 = 3+2 = 5$.
+**Statement (1) alone → Sufficient.**
+
+
+
+### Statement (2):
+$1 \ ▽ \ 0 = 1$
+
+Check each operation:
+
+- $1+0 = 1$ ✅ possible
+- $1-0 = 1$ ✅ possible
+- $1 \times 0 = 0$ ❌
+- $1/0$ undefined ❌
+
+So ▽ could be **addition OR subtraction**.
+If addition → $3+2=5$.
+If subtraction → $3-2=1$.
+Two possible values.
+**Statement (2) alone → Not sufficient.**
+
+
+
+### Combine (1) and (2):
+From (1), we already know ▽ = addition. That satisfies (2) as well.
+So together, ▽ = addition → $3+2=5$.
+**Together → Sufficient.**
+
+
+
+### ✅ Final Answer:
+- (1) alone is sufficient.
+- (2) alone is not sufficient.
+- Correct choice: **A**.
+
+---
+
+## Q93
+
+
+
+### Step 1: Restate the Question
+We want the **savings** from buying 12 cans at the reduced price instead of the regular price.
+
+$\text{Savings} = \text{Cost at regular price} - \text{Cost at reduced price}$
+
+
+
+### Statement (1):
+> The regular price for the 7‑ounce cans was 3 for a dollar.
+
+So:
+$\text{Regular price per can} = \frac{1}{3} \approx 0.333$
+Cost of 12 cans = $12 \times \frac{1}{3} = 4$.
+
+But we don’t know the reduced price yet.
+👉 Not sufficient.
+
+
+
+### Statement (2):
+> The reduced price for the 7‑ounce cans was 4 for a dollar.
+
+So:
+$\text{Reduced price per can} = \frac{1}{4} = 0.25$
+Cost of 12 cans = $12 \times 0.25 = 3$.
+
+But we don’t know the regular price yet.
+👉 Not sufficient.
+
+
+
+### Combine (1) and (2):
+- Regular cost = \$4
+- Reduced cost = \$3
+- Savings = $4 - 3 = 1$
+
+✅ Together sufficient.
+
+
+
+### Step 2: Map to GMAT Answer Choices
+- (1) alone: Not sufficient.
+- (2) alone: Not sufficient.
+- Together: Sufficient.
+
+Correct choice: **C**.
+
+---
+
+## Q94
+
+
+### Restating the Question
+We want to know: **Who caught more fish, Jim or Tom?**
+
+
+
+### Statement (1):
+> Jim caught $ \tfrac{2}{3} $ as many fish as Tom.
+
+That means:
+$J = \tfrac{2}{3}T$
+
+So Jim caught fewer fish than Tom (unless Tom = 0, then Jim = 0 too, equal).
+👉 This statement alone is **sufficient** to answer: Tom caught more (or equal if both 0).
+
+
+
+### Statement (2):
+> After Tom stopped fishing, Jim continued to fish until he caught 12 fish.
+
+This only tells us Jim’s **final total = 12**, but we don’t know Tom’s total.
+Tom could have caught more than 12, fewer than 12, or equal.
+👉 This statement alone is **not sufficient**.
+
+
+
+### Combine (1) and (2):
+From (1), we already know Jim < Tom (unless both 0).
+From (2), Jim = 12.
+So Tom must be greater than 12 (since Jim is 2/3 of Tom).
+👉 Together, we can definitively say Tom caught more.
+
+
+
+### ✅ Final Answer:
+- (1) alone → **Sufficient**
+- (2) alone → **Not sufficient**
+- Correct choice: **A**
+
+---
+
+
+## Q95
+
+
+
+### Given:
+$5x + 3y = 17$
+
+We want the value of $x$.
+
+
+
+### Statement (1):
+> $x$ is a positive integer.
+
+This only restricts $x$ to positive integers, but there are infinitely many pairs $(x,y)$ that satisfy the equation.
+For example:
+- If $x=2$, then $5(2)+3y=17 \Rightarrow 10+3y=17 \Rightarrow y= \tfrac{7}{3}$.
+- If $x=1$, then $5+3y=17 \Rightarrow y=4$.
+
+Both are valid, so multiple possible values of $x$.
+👉 **Not sufficient.**
+
+
+
+### Statement (2):
+> $y = 4x$.
+
+Substitute into the equation:
+$5x + 3(4x) = 17 \quad \Rightarrow \quad 5x + 12x = 17 \quad \Rightarrow \quad 17x = 17$
+
+$x = 1$
+
+Unique solution.
+👉 **Sufficient.**
+
+
+
+### Combine (1) and (2):
+Not necessary, since (2) alone already gives $x=1$.
+
+
+
+### ✅ Final Answer:
+- (1) alone → Not sufficient
+- (2) alone → Sufficient
+- Correct choice: **B**
+
+---
+
+
+## Q96
+
+
+
+### Given:
+Nan’s actual total = **\$3.75**
+Charges: first hour = $F$, each additional hour = $A$.
+
+We want the number of hours.
+
+
+
+### Statement (1):
+> First hour = \$0.75, each additional = \$0.50.
+
+So:
+$\text{Total} = 0.75 + 0.50(h-1) = 3.75$
+
+$0.50(h-1) = 3.00 \quad \Rightarrow \quad h-1=6 \quad \Rightarrow \quad h=7$
+
+Unique solution.
+👉 **Sufficient.**
+
+
+
+### Statement (2):
+> If the first hour had been \$1.00, total would have been \$4.00.
+
+So:
+$1.00 + A(h-1) = 4.00$
+
+$A(h-1) = 3.00$
+
+But here we have **two unknowns**: $A$ and $h$. Without knowing $A$, we cannot solve for $h$.
+👉 **Not sufficient.**
+
+
+
+### Combine (1) and (2):
+From (1), we know $A=0.50$. Substitute into (2):
+
+$1.00 + 0.50(h-1) = 4.00 \quad \Rightarrow \quad h-1=6 \quad \Rightarrow \quad h=7$
+
+Consistent.
+👉 Together, also sufficient.
+
+
+### ✅ Correct Answer:
+- (1) alone → Sufficient
+- (2) alone → Not sufficient
+- **Answer: A**
+
+---
+
+## Q97
+
+
+### Restating the Question
+We want to know: **Is $r+s$ divisible by 3?**
+
+
+
+### Statement (1):
+> $s$ is divisible by 3.
+
+So $s = 3k$.
+Then:
+
+$r+s = r+3k$
+
+This is divisible by 3 **if and only if $r$ is divisible by 3**.
+But we don’t know anything about $r$.
+👉 **Not sufficient.**
+
+
+
+### Statement (2):
+> $r$ is divisible by 3.
+
+So $r = 3m$.
+Then:
+
+$r+s = 3m+s$
+
+This is divisible by 3 **if and only if $s$ is divisible by 3**.
+But we don’t know anything about $s$.
+👉 **Not sufficient.**
+
+
+
+### Combine (1) and (2):
+If both $r$ and $s$ are divisible by 3, then:
+
+$r+s = 3m+3k = 3(m+k)$
+
+Clearly divisible by 3.
+👉 **Together sufficient.**
+
+
+
+### ✅ Final Answer:
+- (1) alone → Not sufficient
+- (2) alone → Not sufficient
+- (1) and (2) together → Sufficient
+- Correct choice: **C**
+
+---
+
+
+## Q98
+
+To find the radius of the circle with center $O$, let's break down the information given in the problem and evaluate the statements using standard GMAT Data Sufficiency logic.
+
+Let the radius of the circle be $r$. Therefore, the total length from the center $O$ to the edge of the circle at $Q$ is the radius:
+
+
+$OQ = r$
+
+Since $P$ lies on the segment $OQ$, we can write:
+
+
+$OQ = OP + PQ = r$
+
+
+
+### Evaluating Statement (1)
+
+> **(1) The ratio of $OP$ to $PQ$ is $1$ to $2$.**
+
+* This tells us that $\frac{OP}{PQ} = \frac{1}{2}$, meaning $PQ = 2 \cdot OP$.
+* Since $OP + PQ = r$, we can substitute $PQ$:
+
+$OP + 2 \cdot OP = r \implies 3 \cdot OP = r \implies OP = \frac{r}{3}$
+
+
+* While this gives us a specific fractional relationship between the segments and the radius, **it does not provide any actual numerical lengths** (e.g., in centimeters or inches).
+* Without a concrete number, we cannot calculate the exact value of $r$.
+
+Therefore, Statement (1) alone is **Not Sufficient**.
+
+
+
+### Evaluating Statement (2)
+
+> **(2) $P$ is the midpoint of chord $AB$.**
+
+* A standard geometric property states that a line from the center of a circle that bisects a chord is perpendicular to that chord. This means $\angle APO = 90^\circ$.
+* However, Statement (2) gives us absolutely **no numerical measurements** for any of the segments ($AB$, $OP$, $PQ$, etc.).
+* Knowing that $P$ is the midpoint simply tells us about the structure, but gives no scale.
+
+Therefore, Statement (2) alone is **Not Sufficient**.
+
+
+
+### Evaluating Statements (1) and (2) Together
+
+* From (1), we know the algebraic relationship between $OP$, $PQ$, and $r$.
+* From (2), we know that $OP \perp AB$ and $AP = PB$.
+* Even if we construct a right triangle $\triangle APO$ where $OA = r$ (the radius) and $OP = \frac{r}{3}$, by the Pythagorean theorem:
+
+$AP^2 + OP^2 = OA^2 \implies AP^2 + \left(\frac{r}{3}\right)^2 = r^2$
+
+
+* This simplifies to $AP^2 = \frac{8}{9}r^2$, meaning we still only have relationships and ratios, but **no definitive numerical values** to anchor the size of the circle. The circle could have a radius of 3, 30, or 300, and both statements would still hold true.
+
+Therefore, Statements (1) and (2) together are **Not Sufficient**.
+
+
+
+### ✅Conclusion
+
+**Correct Answer: E** (Statements 1 and 2 together are not sufficient).
+
+
+---
+
+
+## Q99
+
+
+### Setup
+We have a 4‑liter solution:
+$x \ (\text{vinegar}) + y \ (\text{water}) = 4$
+We want the value of $x$.
+
+
+
+### Statement (1):
+$\frac{x}{4} = \frac{3}{8}$
+So:
+
+$x = \frac{3}{8} \times 4 = \frac{12}{8} = 1.5$
+
+Unique value for $x$.
+👉 **Sufficient.**
+
+
+
+### Statement (2):
+$\frac{y}{4} = \frac{5}{8}$
+
+So:
+
+$y = \frac{5}{8} \times 4 = \frac{20}{8} = 2.5$
+
+Then:
+
+$x = 4 - y = 4 - 2.5 = 1.5$
+
+Unique value for $x$.
+👉 **Sufficient.**
+
+
+
+### Combine (1) and (2):
+Not necessary, since each alone already gives $x=1.5$.
+
+
+
+### ✅ Final Answer:
+- (1) alone → Sufficient
+- (2) alone → Sufficient
+- Correct choice: **D**
+
+---
+
+
+## Q100
+
+
+### Question
+Is $x < 0$?
+
+
+### Statement (1):
+$- x > 0$
+
+This inequality means $x < 0$.
+
+So directly, yes, $x$ is negative.
+👉 **Statement (1) alone is sufficient.**
+
+
+
+### Statement (2):
+$x^3 < 0$
+
+For integers, the cube of a number is negative **only if the number itself is negative**.
+So this also implies $x < 0$.
+👉 **Statement (2) alone is sufficient.**
+
+
+
+### Combine (1) and (2):
+Not necessary, since each statement alone already gives the answer.
+
+
+
+### ✅ Final Answer:
+- (1) alone → Sufficient
+- (2) alone → Sufficient
+- Correct choice: **D**
+
+---
+
+
 
 
