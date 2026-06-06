@@ -5235,3 +5235,62 @@ Correct GMAT choice: **C**
 
 ---
 
+## 110
+
+
+
+### Step 1: Restate the Problem
+We have:
+
+$d = 0.2h6$
+
+where $h$ is the hundredths digit.
+We want the value of $d$, **rounded to the nearest tenth**.
+
+So essentially:
+- If $h = 0$, $d = 0.206$.
+- If $h = 1$, $d = 0.216$.
+- … up to $h = 9$, $d = 0.296$.
+We need to know whether rounding gives 0.2 or 0.3.
+
+
+
+### Statement (1):
+$d < \tfrac{1}{4} = 0.25$.
+
+So $d$ must be less than 0.25.
+That means $h = 0, 1, 2, 3, 4$.
+Corresponding decimals: 0.206, 0.216, 0.226, 0.236, 0.246.
+All of these round to **0.2**.
+
+✅ **Statement (1) alone is sufficient.**
+
+
+
+### Statement (2):
+$h < 5$.
+
+So $h = 0, 1, 2, 3, 4$.
+Same set of decimals: 0.206, 0.216, 0.226, 0.236, 0.246.
+All round to **0.2**.
+
+✅ **Statement (2) alone is sufficient.**
+
+
+
+### Combine (1) and (2):
+Not necessary, since each statement alone already gives sufficiency.
+
+
+
+### Final Answer
+- (1) alone: Sufficient
+- (2) alone: Sufficient
+- Together: Not needed
+
+Correct GMAT choice: **D**
+
+---
+
+
+
