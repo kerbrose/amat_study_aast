@@ -5464,3 +5464,41 @@ The average of the integers in list S is **12 greater** than the average of the 
 
 ---
 
+## Q2
+
+
+### Step 1: Understand $f(m)$
+By definition:
+
+$f(m) = 2 \times 4 \times 6 \times \dots \times m$
+
+for even $m$.
+
+So:
+
+$f(24) = 2 \times 4 \times 6 \times \dots \times 24$
+
+
+
+### Step 2: Factorize the structure
+Notice each term is even, so we can factor out 2:
+
+$f(24) = 2 \times 4 \times 6 \times \dots \times 24 = 2^{12} \times (1 \times 2 \times 3 \times \dots \times 12)$
+
+That is:
+
+$f(24) = 2^{12} \cdot 12!$
+
+
+
+### Step 3: Greatest prime factor
+The prime factors of $f(24)$ are the prime factors of $12!$ plus the factor 2.
+The largest prime less than or equal to 12 is **11**.
+
+So the greatest prime factor of $f(24)$ is **11**.
+
+
+
+✅ **Final Answer:** The greatest prime factor of $f(24)$ is **11**.
+
+---
