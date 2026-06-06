@@ -5068,3 +5068,63 @@ Correct GMAT choice: **A**
 
 ---
 
+## Q107
+
+
+### Step 1: Restate the Question  
+We want the **closing price of stock X on May 1, 1960**.  
+We know:  
+- From May 1, 1960 → May 1, 1975, the price **doubled**.  
+So if the 1960 price = $P$, then the 1975 price = $2P$.
+
+
+
+### Statement (1):  
+From May 1, 1975 → May 1, 1984, the price doubled.  
+So the 1984 price = $2 \times (1975 \text{ price}) = 2 \times (2P) = 4P$.  
+
+But this only relates 1960, 1975, and 1984 prices. We still don’t know the actual dollar value of $P$.  
+
+❌ **Not sufficient.**
+
+
+
+### Statement (2):  
+From May 1, 1975 → May 1, 1984, the price increased by \$4.50.  
+So:  
+
+$1984 \text{ price} = 1975 \text{ price} + 4.50 = 2P + 4.50$
+
+This gives a relationship, but without knowing the 1984 price or another anchor, we cannot solve for $P$.  
+
+❌ **Not sufficient.**
+
+
+
+### Combine (1) and (2):  
+From (1): 1984 price = $4P$.  
+From (2): 1984 price = $2P + 4.50$.  
+
+Set equal:  
+
+$4P = 2P + 4.50$  
+
+$2P = 4.50$  
+
+$P = 2.25$
+
+So the 1960 price = **\$2.25**.  
+
+✅ **Together sufficient.**
+
+
+
+### Final Answer  
+- (1) alone: Not sufficient  
+- (2) alone: Not sufficient  
+- Together: Sufficient  
+
+Correct GMAT choice: **C**
+
+---
+
