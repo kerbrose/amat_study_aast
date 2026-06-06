@@ -5293,4 +5293,65 @@ Correct GMAT choice: **D**
 ---
 
 
+## Q111
+
+
+
+
+### Step 1: Restate the Question
+We want the value of:
+
+$x^2 - y^2$
+
+Recall the identity:
+$x^2 - y^2 = (x-y)(x+y)$
+
+So if we can determine both $x-y$ and $x+y$, we can find the exact value.
+
+
+
+### Statement (1):
+
+$x - y = y + 2$
+
+Simplify:
+$x - y = y + 2 \quad \Rightarrow \quad x = 2y + 2$
+
+But this only gives a relationship between $x$ and $y$.
+We don’t know their actual values, so we cannot compute $x^2 - y^2$.
+
+❌ **Not sufficient.**
+
+
+
+### Statement (2):
+
+$x - y = \frac{1}{x+y}$
+
+Multiply both sides:
+$(x-y)(x+y) = 1$
+
+But recall:
+$(x-y)(x+y) = x^2 - y^2$
+
+So directly:
+$x^2 - y^2 = 1$
+
+✅ **Statement (2) alone is sufficient.**
+
+
+
+### Combine (1) and (2):
+Not necessary, since (2) alone already gives the exact value.
+
+
+
+### Final Answer
+- (1) alone: Not sufficient
+- (2) alone: Sufficient
+- Together: Not needed
+
+Correct GMAT choice: **B**
+
+---
 
