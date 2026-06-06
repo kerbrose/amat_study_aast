@@ -4769,4 +4769,42 @@ Not necessary, since each statement alone already gives the answer.
 
 
 
+## Q101
+
+
+### Statement (1):  
+Of all single-family homes in City X, 90 percent were occupied at the end of last year.  
+
+- This gives us the **overall occupancy rate** for the entire city, but not specifically for the 230 homes built last year.  
+- The 90% could apply unevenly across older homes vs. newly built homes.  
+- **Insufficient.**
+
+
+
+### Statement (2):  
+A total of 7,200 single-family homes in City X were occupied at the end of last year.  
+
+- This gives us the **absolute number of occupied homes**, but again, it’s for the entire city.  
+- We don’t know how many total homes exist in City X, nor how many of the 230 new homes are included in that 7,200.  
+- **Insufficient.**
+
+
+
+### Combining (1) and (2):  
+- From (1), we know **90% of all homes were occupied**.  
+- From (2), we know **7,200 homes were occupied**.  
+- Together, we can calculate the **total number of homes in City X**:  
+  $\text{Total homes} = \frac{7200}{0.9} = 8000$  
+- So, City X has 8,000 homes in total, 7,200 of which are occupied.  
+- But we still don’t know how many of the **230 newly built homes** are among the occupied ones. The distribution could vary.  
+- **Still insufficient.**
+
+
+
+✅ **Final Answer:**  
+**(E) Statements (1) and (2) together are not sufficient.**
+
+---
+
+
 
