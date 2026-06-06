@@ -4770,36 +4770,36 @@ Not necessary, since each statement alone already gives the answer.
 ## Q101
 
 
-### Statement (1):  
-Of all single-family homes in City X, 90 percent were occupied at the end of last year.  
+### Statement (1):
+Of all single-family homes in City X, 90 percent were occupied at the end of last year.
 
-- This gives us the **overall occupancy rate** for the entire city, but not specifically for the 230 homes built last year.  
-- The 90% could apply unevenly across older homes vs. newly built homes.  
+- This gives us the **overall occupancy rate** for the entire city, but not specifically for the 230 homes built last year.
+- The 90% could apply unevenly across older homes vs. newly built homes.
 - **Insufficient.**
 
 
 
-### Statement (2):  
-A total of 7,200 single-family homes in City X were occupied at the end of last year.  
+### Statement (2):
+A total of 7,200 single-family homes in City X were occupied at the end of last year.
 
-- This gives us the **absolute number of occupied homes**, but again, it’s for the entire city.  
-- We don’t know how many total homes exist in City X, nor how many of the 230 new homes are included in that 7,200.  
+- This gives us the **absolute number of occupied homes**, but again, it’s for the entire city.
+- We don’t know how many total homes exist in City X, nor how many of the 230 new homes are included in that 7,200.
 - **Insufficient.**
 
 
 
-### Combining (1) and (2):  
-- From (1), we know **90% of all homes were occupied**.  
-- From (2), we know **7,200 homes were occupied**.  
-- Together, we can calculate the **total number of homes in City X**:  
-  $\text{Total homes} = \frac{7200}{0.9} = 8000$  
-- So, City X has 8,000 homes in total, 7,200 of which are occupied.  
-- But we still don’t know how many of the **230 newly built homes** are among the occupied ones. The distribution could vary.  
+### Combining (1) and (2):
+- From (1), we know **90% of all homes were occupied**.
+- From (2), we know **7,200 homes were occupied**.
+- Together, we can calculate the **total number of homes in City X**:
+$\text{Total homes} = \frac{7200}{0.9} = 8000$
+- So, City X has 8,000 homes in total, 7,200 of which are occupied.
+- But we still don’t know how many of the **230 newly built homes** are among the occupied ones. The distribution could vary.
 - **Still insufficient.**
 
 
 
-✅ **Final Answer:**  
+✅ **Final Answer:**
 **(E) Statements (1) and (2) together are not sufficient.**
 
 ---
@@ -4809,54 +4809,91 @@ A total of 7,200 single-family homes in City X were occupied at the end of last 
 ## Q102
 
 
-### Step 1: Restate the Question  
-We want to know if  
+### Step 1: Restate the Question
+We want to know if
 $j \cdot k \cdot m \cdot n = 1$
 
 
-### Statement (1):  
+### Statement (1):
 $\frac{jk}{mn} = 1$
 
-This tells us:  
+This tells us:
 $jk = mn$
 
-But does that guarantee $jkmn = 1$?  
-- Example: If $jk = mn = 2$, then $jkmn = 4$, not 1.  
-- Example: If $jk = mn = \tfrac{1}{2}$, then $jkmn = \tfrac{1}{4}$.  
+But does that guarantee $jkmn = 1$?
+- Example: If $jk = mn = 2$, then $jkmn = 4$, not 1.
+- Example: If $jk = mn = \tfrac{1}{2}$, then $jkmn = \tfrac{1}{4}$.
 
-So we cannot conclude $jkmn = 1$.  
+So we cannot conclude $jkmn = 1$.
 
 ❌ **Statement (1) alone is not sufficient.**
 
 
 
-### Statement (2):  
+### Statement (2):
 $j = \frac{1}{k}, \quad m = \frac{1}{n}$
 
-So:  
-$j \cdot k = \frac{1}{k} \cdot k = 1$  
+So:
+$j \cdot k = \frac{1}{k} \cdot k = 1$
 
 $m \cdot n = \frac{1}{n} \cdot n = 1$
 
-Therefore:  
+Therefore:
 $jkmn = (j \cdot k)(m \cdot n) = 1 \cdot 1 = 1$
 
 ✅ **Statement (2) alone is sufficient.**
 
 
 
-### Combine (1) and (2):  
+### Combine (1) and (2):
 Not necessary, since (2) alone already gives the answer.
 
 
 
-### Final Answer  
-- (1) alone: Not sufficient  
-- (2) alone: Sufficient  
+### Final Answer
+- (1) alone: Not sufficient
+- (2) alone: Sufficient
 
 Correct GMAT choice: **B**
 
 ---
 
 
+## Q103
+
+
+
+### Statement (1):
+60% of the children have brown hair.
+
+$0.6 \times 100 = 60 \text{ children with brown hair}$
+
+But we don’t know how many of those 60 are boys vs. girls.
+
+❌ **Not sufficient.**
+
+
+### Statement (2):
+There are 40 boys in the group.
+So: 40 boys + 60 girls = 100 children.
+But we don’t know how many of those boys have brown hair.
+
+❌ **Not sufficient.**
+
+
+
+### Combine (1) and (2):
+From (1): 60 children have brown hair.
+From (2): 40 boys, 60 girls.
+But we still don’t know how many of the 60 brown-haired children are boys. Could be anywhere from 0 to 40.
+
+❌ **Still not sufficient.**
+
+
+
+### Final Answer
+Both statements together are **not sufficient**.
+Correct GMAT choice: **E**
+
+---
 
