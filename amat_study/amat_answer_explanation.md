@@ -4767,8 +4767,6 @@ Not necessary, since each statement alone already gives the answer.
 
 ---
 
-
-
 ## Q101
 
 
@@ -4803,6 +4801,60 @@ A total of 7,200 single-family homes in City X were occupied at the end of last 
 
 ✅ **Final Answer:**  
 **(E) Statements (1) and (2) together are not sufficient.**
+
+---
+
+
+
+## Q102
+
+
+### Step 1: Restate the Question  
+We want to know if  
+$j \cdot k \cdot m \cdot n = 1$
+
+
+### Statement (1):  
+$\frac{jk}{mn} = 1$
+
+This tells us:  
+$jk = mn$
+
+But does that guarantee $jkmn = 1$?  
+- Example: If $jk = mn = 2$, then $jkmn = 4$, not 1.  
+- Example: If $jk = mn = \tfrac{1}{2}$, then $jkmn = \tfrac{1}{4}$.  
+
+So we cannot conclude $jkmn = 1$.  
+
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2):  
+$j = \frac{1}{k}, \quad m = \frac{1}{n}$
+
+So:  
+$j \cdot k = \frac{1}{k} \cdot k = 1$  
+
+$m \cdot n = \frac{1}{n} \cdot n = 1$
+
+Therefore:  
+$jkmn = (j \cdot k)(m \cdot n) = 1 \cdot 1 = 1$
+
+✅ **Statement (2) alone is sufficient.**
+
+
+
+### Combine (1) and (2):  
+Not necessary, since (2) alone already gives the answer.
+
+
+
+### Final Answer  
+- (1) alone: Not sufficient  
+- (2) alone: Sufficient  
+
+Correct GMAT choice: **B**
 
 ---
 
