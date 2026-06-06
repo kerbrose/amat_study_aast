@@ -5008,5 +5008,63 @@ Correct GMAT choice: **E** (Statements (1) and (2) together are not sufficient).
 
 ---
 
+## Q106
 
+
+### Step 1: Restate the problem
+We want the value of:
+
+$\left(\frac{x^p}{x^q}\right)^4$
+
+Simplify inside:
+
+$\frac{x^p}{x^q} = x^{p-q}$
+
+So the expression becomes:
+
+$(x^{p-q})^4 = x^{4(p-q)}$
+
+We need to know the exact value of this.
+
+
+
+### Statement (1):
+$p = q$.
+
+Then:
+
+$x^{4(p-q)} = x^{4(0)} = x^0 = 1$
+
+So the value is **1**, regardless of $x$.
+
+✅ **Statement (1) alone is sufficient.**
+
+
+
+### Statement (2):
+$x = 3$.
+
+Then:
+
+$(x^{p-q})^4 = (3^{p-q})^4 = 3^{4(p-q)}$
+
+But without knowing $p-q$, we cannot determine the exact value. Could be $3^0 = 1$, $3^4 = 81$, $3^{-4} = 1/81$, etc.
+
+❌ **Statement (2) alone is not sufficient.**
+
+
+
+### Combine (1) and (2):
+Not necessary, since (1) alone already gives the value.
+
+
+
+### Final Answer
+- (1) alone: Sufficient
+- (2) alone: Not sufficient
+- Together: Not needed
+
+Correct GMAT choice: **A**
+
+---
 
