@@ -5181,3 +5181,57 @@ Correct GMAT choice: **D**
 
 ---
 
+## Q109
+
+
+
+### Step 1: Restate the Question
+We want the exact value of $Q$, where $Q$ is an integer between 10 and 100.
+
+
+
+### Statement (1):
+- One digit is 3 more than the other.
+- The sum of the digits is 9.
+
+Let the digits be $a$ and $b$.
+
+$a + b = 9, \quad |a - b| = 3$
+
+Possible pairs:
+- $a = 6, b = 3 \Rightarrow Q = 63$
+- $a = 3, b = 6 \Rightarrow Q = 36$
+
+So $Q$ could be **36 or 63**.
+
+❌ **Not sufficient.**
+
+
+
+### Statement (2):
+$Q < 50$.
+
+This only tells us the number is less than 50, but doesn’t narrow it down to a single value.
+
+❌ **Not sufficient.**
+
+
+
+### Combine (1) and (2):
+From (1): $Q = 36$ or $63$.
+From (2): $Q < 50$.
+So only $Q = 36$ fits.
+
+✅ **Together sufficient.**
+
+
+
+### Final Answer
+- (1) alone: Not sufficient
+- (2) alone: Not sufficient
+- Together: Sufficient
+
+Correct GMAT choice: **C**
+
+---
+
