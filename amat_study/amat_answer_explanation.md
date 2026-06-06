@@ -4767,6 +4767,591 @@ Not necessary, since each statement alone already gives the answer.
 
 ---
 
+## Q101
 
 
+### Statement (1):
+Of all single-family homes in City X, 90 percent were occupied at the end of last year.
+
+- This gives us the **overall occupancy rate** for the entire city, but not specifically for the 230 homes built last year.
+- The 90% could apply unevenly across older homes vs. newly built homes.
+- **Insufficient.**
+
+
+
+### Statement (2):
+A total of 7,200 single-family homes in City X were occupied at the end of last year.
+
+- This gives us the **absolute number of occupied homes**, but again, it’s for the entire city.
+- We don’t know how many total homes exist in City X, nor how many of the 230 new homes are included in that 7,200.
+- **Insufficient.**
+
+
+
+### Combining (1) and (2):
+- From (1), we know **90% of all homes were occupied**.
+- From (2), we know **7,200 homes were occupied**.
+- Together, we can calculate the **total number of homes in City X**:
+$\text{Total homes} = \frac{7200}{0.9} = 8000$
+- So, City X has 8,000 homes in total, 7,200 of which are occupied.
+- But we still don’t know how many of the **230 newly built homes** are among the occupied ones. The distribution could vary.
+- **Still insufficient.**
+
+
+
+✅ **Final Answer:**
+**(E) Statements (1) and (2) together are not sufficient.**
+
+---
+
+
+
+## Q102
+
+
+### Step 1: Restate the Question
+We want to know if
+$j \cdot k \cdot m \cdot n = 1$
+
+
+### Statement (1):
+$\frac{jk}{mn} = 1$
+
+This tells us:
+$jk = mn$
+
+But does that guarantee $jkmn = 1$?
+- Example: If $jk = mn = 2$, then $jkmn = 4$, not 1.
+- Example: If $jk = mn = \tfrac{1}{2}$, then $jkmn = \tfrac{1}{4}$.
+
+So we cannot conclude $jkmn = 1$.
+
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2):
+$j = \frac{1}{k}, \quad m = \frac{1}{n}$
+
+So:
+$j \cdot k = \frac{1}{k} \cdot k = 1$
+
+$m \cdot n = \frac{1}{n} \cdot n = 1$
+
+Therefore:
+$jkmn = (j \cdot k)(m \cdot n) = 1 \cdot 1 = 1$
+
+✅ **Statement (2) alone is sufficient.**
+
+
+
+### Combine (1) and (2):
+Not necessary, since (2) alone already gives the answer.
+
+
+
+### Final Answer
+- (1) alone: Not sufficient
+- (2) alone: Sufficient
+
+Correct GMAT choice: **B**
+
+---
+
+
+## Q103
+
+
+
+### Statement (1):
+60% of the children have brown hair.
+
+$0.6 \times 100 = 60 \text{ children with brown hair}$
+
+But we don’t know how many of those 60 are boys vs. girls.
+
+❌ **Not sufficient.**
+
+
+### Statement (2):
+There are 40 boys in the group.
+So: 40 boys + 60 girls = 100 children.
+But we don’t know how many of those boys have brown hair.
+
+❌ **Not sufficient.**
+
+
+
+### Combine (1) and (2):
+From (1): 60 children have brown hair.
+From (2): 40 boys, 60 girls.
+But we still don’t know how many of the 60 brown-haired children are boys. Could be anywhere from 0 to 40.
+
+❌ **Still not sufficient.**
+
+
+
+### Final Answer
+Both statements together are **not sufficient**.
+Correct GMAT choice: **E**
+
+---
+
+## Q104
+
+
+### Step 1: Restate the Question
+We want to know if:
+
+$\text{Perimeter of square S} > \text{Perimeter of equilateral triangle T}?$
+
+- Perimeter of square $S = 4s$, where $s$ = side of square.
+- Perimeter of triangle $T = 3t$, where $t$ = side of triangle.
+
+So the question is:
+$4s > 3t \; ?$
+
+
+
+### Statement (1):
+The ratio of the length of a side of $S$ to the length of a side of $T$ is $4:5$.
+
+$\frac{s}{t} = \frac{4}{5} \quad \Rightarrow \quad s = \frac{4}{5}t$
+
+Now compare perimeters:
+$\frac{P_S}{P_T} = \frac{4s}{3t} = \frac{4 \cdot \tfrac{4}{5}t}{3t} = \frac{16}{15}$
+
+So:
+
+$P_S > P_T$
+
+✅ Statement (1) alone is sufficient.
+
+
+
+### Statement (2):
+The sum of the lengths of a side of $S$ and a side of $T$ is 18.
+
+$s + t = 18$
+
+But this doesn’t tell us the ratio between $s$ and $t$.
+- Example: If $s = 9, t = 9$, then $P_S = 36$, $P_T = 27$, so $P_S > P_T$.
+- Example: If $s = 5, t = 13$, then $P_S = 20$, $P_T = 39$, so $P_S < P_T$.
+
+Different outcomes possible.
+
+❌ Statement (2) alone is not sufficient.
+
+
+### Combine (1) and (2):
+Not necessary, since (1) alone already gives sufficiency.
+
+
+
+### Final Answer
+- (1) alone: Sufficient
+- (2) alone: Not sufficient
+- Together: Not needed
+
+Correct GMAT choice: **A**
+
+---
+
+## Q105
+
+
+### Question Restated
+We want to determine the value of $p$, given $p \cdot q = 24$ and both $p, q$ are positive integers.
+
+
+
+### Statement (1):
+
+$\frac{q}{6} \text{ is an integer.}$
+
+So $q$ is a multiple of 6. Possible values: $q = 6, 12, 24$.
+- If $q = 6 \Rightarrow p = 24/6 = 4$.
+- If $q = 12 \Rightarrow p = 24/12 = 2$.
+- If $q = 24 \Rightarrow p = 24/24 = 1$.
+
+Multiple possible values for $p$.
+
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2):
+$\frac{p}{2} \text{ is an integer.}$
+
+So $p$ is even. Possible values: $p = 2, 4, 6, 8, 12, 24$.
+Each corresponds to some integer $q$.
+But we don’t know which one specifically.
+
+❌ **Statement (2) alone is not sufficient.**
+
+
+
+### Combine (1) and (2):
+From (1): $q$ is a multiple of 6 → possible $q = 6, 12, 24$.
+Corresponding $p = 4, 2, 1$.
+From (2): $p$ must be even.
+So only $p = 4$ or $p = 2$ remain possible.
+
+Still more than one value.
+
+❌ **Together not sufficient.**
+
+
+
+### Final Answer
+Correct GMAT choice: **E** (Statements (1) and (2) together are not sufficient).
+
+---
+
+## Q106
+
+
+### Step 1: Restate the problem
+We want the value of:
+
+$\left(\frac{x^p}{x^q}\right)^4$
+
+Simplify inside:
+
+$\frac{x^p}{x^q} = x^{p-q}$
+
+So the expression becomes:
+
+$(x^{p-q})^4 = x^{4(p-q)}$
+
+We need to know the exact value of this.
+
+
+
+### Statement (1):
+$p = q$.
+
+Then:
+
+$x^{4(p-q)} = x^{4(0)} = x^0 = 1$
+
+So the value is **1**, regardless of $x$.
+
+✅ **Statement (1) alone is sufficient.**
+
+
+
+### Statement (2):
+$x = 3$.
+
+Then:
+
+$(x^{p-q})^4 = (3^{p-q})^4 = 3^{4(p-q)}$
+
+But without knowing $p-q$, we cannot determine the exact value. Could be $3^0 = 1$, $3^4 = 81$, $3^{-4} = 1/81$, etc.
+
+❌ **Statement (2) alone is not sufficient.**
+
+
+
+### Combine (1) and (2):
+Not necessary, since (1) alone already gives the value.
+
+
+
+### Final Answer
+- (1) alone: Sufficient
+- (2) alone: Not sufficient
+- Together: Not needed
+
+Correct GMAT choice: **A**
+
+---
+
+## Q107
+
+
+### Step 1: Restate the Question
+We want the **closing price of stock X on May 1, 1960**.
+We know:
+- From May 1, 1960 → May 1, 1975, the price **doubled**.
+So if the 1960 price = $P$, then the 1975 price = $2P$.
+
+
+
+### Statement (1):
+From May 1, 1975 → May 1, 1984, the price doubled.
+So the 1984 price = $2 \times (1975 \text{ price}) = 2 \times (2P) = 4P$.
+
+But this only relates 1960, 1975, and 1984 prices. We still don’t know the actual dollar value of $P$.
+
+❌ **Not sufficient.**
+
+
+
+### Statement (2):
+From May 1, 1975 → May 1, 1984, the price increased by \$4.50.
+So:
+
+$1984 \text{ price} = 1975 \text{ price} + 4.50 = 2P + 4.50$
+
+This gives a relationship, but without knowing the 1984 price or another anchor, we cannot solve for $P$.
+
+❌ **Not sufficient.**
+
+
+
+### Combine (1) and (2):
+From (1): 1984 price = $4P$.
+From (2): 1984 price = $2P + 4.50$.
+
+Set equal:
+
+$4P = 2P + 4.50$
+
+$2P = 4.50$
+
+$P = 2.25$
+
+So the 1960 price = **\$2.25**.
+
+✅ **Together sufficient.**
+
+
+
+### Final Answer
+- (1) alone: Not sufficient
+- (2) alone: Not sufficient
+- Together: Sufficient
+
+Correct GMAT choice: **C**
+
+---
+
+## Q108
+
+
+
+### Step 1: Restate the Question
+We want to know if $\sqrt{d}$ is an integer, given $d$ is a positive integer.
+That means: is $d$ a **perfect square**?
+
+
+### Statement (1):
+$d$ is the square of an integer.
+
+So $d = k^2$ for some integer $k$.
+Then:
+
+$\sqrt{d} = \sqrt{k^2} = k$
+which is an integer.
+
+✅ **Statement (1) alone is sufficient.**
+
+
+
+### Statement (2):
+$\sqrt{d}$ is the square of an integer.
+
+So $\sqrt{d} = m^2$ for some integer $m$.
+Then:
+
+$d = (\sqrt{d})^2 = (m^2)^2 = m^4$
+and
+
+$\sqrt{d} = m^2$
+
+which is clearly an integer.
+
+✅ **Statement (2) alone is sufficient.**
+
+
+
+### Combine (1) and (2):
+Not necessary, since each statement alone already guarantees sufficiency.
+
+
+
+### Final Answer
+- (1) alone: Sufficient
+- (2) alone: Sufficient
+- Together: Not needed
+
+Correct GMAT choice: **D**
+
+---
+
+## Q109
+
+
+
+### Step 1: Restate the Question
+We want the exact value of $Q$, where $Q$ is an integer between 10 and 100.
+
+
+
+### Statement (1):
+- One digit is 3 more than the other.
+- The sum of the digits is 9.
+
+Let the digits be $a$ and $b$.
+
+$a + b = 9, \quad |a - b| = 3$
+
+Possible pairs:
+- $a = 6, b = 3 \Rightarrow Q = 63$
+- $a = 3, b = 6 \Rightarrow Q = 36$
+
+So $Q$ could be **36 or 63**.
+
+❌ **Not sufficient.**
+
+
+
+### Statement (2):
+$Q < 50$.
+
+This only tells us the number is less than 50, but doesn’t narrow it down to a single value.
+
+❌ **Not sufficient.**
+
+
+
+### Combine (1) and (2):
+From (1): $Q = 36$ or $63$.
+From (2): $Q < 50$.
+So only $Q = 36$ fits.
+
+✅ **Together sufficient.**
+
+
+
+### Final Answer
+- (1) alone: Not sufficient
+- (2) alone: Not sufficient
+- Together: Sufficient
+
+Correct GMAT choice: **C**
+
+---
+
+## 110
+
+
+
+### Step 1: Restate the Problem
+We have:
+
+$d = 0.2h6$
+
+where $h$ is the hundredths digit.
+We want the value of $d$, **rounded to the nearest tenth**.
+
+So essentially:
+- If $h = 0$, $d = 0.206$.
+- If $h = 1$, $d = 0.216$.
+- … up to $h = 9$, $d = 0.296$.
+We need to know whether rounding gives 0.2 or 0.3.
+
+
+
+### Statement (1):
+$d < \tfrac{1}{4} = 0.25$.
+
+So $d$ must be less than 0.25.
+That means $h = 0, 1, 2, 3, 4$.
+Corresponding decimals: 0.206, 0.216, 0.226, 0.236, 0.246.
+All of these round to **0.2**.
+
+✅ **Statement (1) alone is sufficient.**
+
+
+
+### Statement (2):
+$h < 5$.
+
+So $h = 0, 1, 2, 3, 4$.
+Same set of decimals: 0.206, 0.216, 0.226, 0.236, 0.246.
+All round to **0.2**.
+
+✅ **Statement (2) alone is sufficient.**
+
+
+
+### Combine (1) and (2):
+Not necessary, since each statement alone already gives sufficiency.
+
+
+
+### Final Answer
+- (1) alone: Sufficient
+- (2) alone: Sufficient
+- Together: Not needed
+
+Correct GMAT choice: **D**
+
+---
+
+
+## Q111
+
+
+
+
+### Step 1: Restate the Question
+We want the value of:
+
+$x^2 - y^2$
+
+Recall the identity:
+$x^2 - y^2 = (x-y)(x+y)$
+
+So if we can determine both $x-y$ and $x+y$, we can find the exact value.
+
+
+
+### Statement (1):
+
+$x - y = y + 2$
+
+Simplify:
+$x - y = y + 2 \quad \Rightarrow \quad x = 2y + 2$
+
+But this only gives a relationship between $x$ and $y$.
+We don’t know their actual values, so we cannot compute $x^2 - y^2$.
+
+❌ **Not sufficient.**
+
+
+
+### Statement (2):
+
+$x - y = \frac{1}{x+y}$
+
+Multiply both sides:
+$(x-y)(x+y) = 1$
+
+But recall:
+$(x-y)(x+y) = x^2 - y^2$
+
+So directly:
+$x^2 - y^2 = 1$
+
+✅ **Statement (2) alone is sufficient.**
+
+
+
+### Combine (1) and (2):
+Not necessary, since (2) alone already gives the exact value.
+
+
+
+### Final Answer
+- (1) alone: Not sufficient
+- (2) alone: Sufficient
+- Together: Not needed
+
+Correct GMAT choice: **B**
+
+---
 
