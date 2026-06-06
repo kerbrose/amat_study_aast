@@ -5071,60 +5071,113 @@ Correct GMAT choice: **A**
 ## Q107
 
 
-### Step 1: Restate the Question  
-We want the **closing price of stock X on May 1, 1960**.  
-We know:  
-- From May 1, 1960 → May 1, 1975, the price **doubled**.  
+### Step 1: Restate the Question
+We want the **closing price of stock X on May 1, 1960**.
+We know:
+- From May 1, 1960 → May 1, 1975, the price **doubled**.
 So if the 1960 price = $P$, then the 1975 price = $2P$.
 
 
 
-### Statement (1):  
-From May 1, 1975 → May 1, 1984, the price doubled.  
-So the 1984 price = $2 \times (1975 \text{ price}) = 2 \times (2P) = 4P$.  
+### Statement (1):
+From May 1, 1975 → May 1, 1984, the price doubled.
+So the 1984 price = $2 \times (1975 \text{ price}) = 2 \times (2P) = 4P$.
 
-But this only relates 1960, 1975, and 1984 prices. We still don’t know the actual dollar value of $P$.  
+But this only relates 1960, 1975, and 1984 prices. We still don’t know the actual dollar value of $P$.
 
 ❌ **Not sufficient.**
 
 
 
-### Statement (2):  
-From May 1, 1975 → May 1, 1984, the price increased by \$4.50.  
-So:  
+### Statement (2):
+From May 1, 1975 → May 1, 1984, the price increased by \$4.50.
+So:
 
 $1984 \text{ price} = 1975 \text{ price} + 4.50 = 2P + 4.50$
 
-This gives a relationship, but without knowing the 1984 price or another anchor, we cannot solve for $P$.  
+This gives a relationship, but without knowing the 1984 price or another anchor, we cannot solve for $P$.
 
 ❌ **Not sufficient.**
 
 
 
-### Combine (1) and (2):  
-From (1): 1984 price = $4P$.  
-From (2): 1984 price = $2P + 4.50$.  
+### Combine (1) and (2):
+From (1): 1984 price = $4P$.
+From (2): 1984 price = $2P + 4.50$.
 
-Set equal:  
+Set equal:
 
-$4P = 2P + 4.50$  
+$4P = 2P + 4.50$
 
-$2P = 4.50$  
+$2P = 4.50$
 
 $P = 2.25$
 
-So the 1960 price = **\$2.25**.  
+So the 1960 price = **\$2.25**.
 
 ✅ **Together sufficient.**
 
 
 
-### Final Answer  
-- (1) alone: Not sufficient  
-- (2) alone: Not sufficient  
-- Together: Sufficient  
+### Final Answer
+- (1) alone: Not sufficient
+- (2) alone: Not sufficient
+- Together: Sufficient
 
 Correct GMAT choice: **C**
+
+---
+
+## Q108
+
+
+
+### Step 1: Restate the Question
+We want to know if $\sqrt{d}$ is an integer, given $d$ is a positive integer.
+That means: is $d$ a **perfect square**?
+
+
+### Statement (1):
+$d$ is the square of an integer.
+
+So $d = k^2$ for some integer $k$.
+Then:
+
+$\sqrt{d} = \sqrt{k^2} = k$
+which is an integer.
+
+✅ **Statement (1) alone is sufficient.**
+
+
+
+### Statement (2):
+$\sqrt{d}$ is the square of an integer.
+
+So $\sqrt{d} = m^2$ for some integer $m$.
+Then:
+
+$d = (\sqrt{d})^2 = (m^2)^2 = m^4$
+and
+
+$\sqrt{d} = m^2$
+
+which is clearly an integer.
+
+✅ **Statement (2) alone is sufficient.**
+
+
+
+### Combine (1) and (2):
+Not necessary, since each statement alone already guarantees sufficiency.
+
+
+
+### Final Answer
+- (1) alone: Sufficient
+- (2) alone: Sufficient
+- Together: Not needed
+
+Correct GMAT choice: **D**
 
 ---
 
