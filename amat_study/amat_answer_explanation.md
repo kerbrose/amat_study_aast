@@ -4900,28 +4900,28 @@ Correct GMAT choice: **E**
 ## Q104
 
 
-### Step 1: Restate the Question  
-We want to know if:  
+### Step 1: Restate the Question
+We want to know if:
 
 $\text{Perimeter of square S} > \text{Perimeter of equilateral triangle T}?$
 
-- Perimeter of square $S = 4s$, where $s$ = side of square.  
-- Perimeter of triangle $T = 3t$, where $t$ = side of triangle.  
+- Perimeter of square $S = 4s$, where $s$ = side of square.
+- Perimeter of triangle $T = 3t$, where $t$ = side of triangle.
 
-So the question is:  
+So the question is:
 $4s > 3t \; ?$
 
 
 
-### Statement (1):  
-The ratio of the length of a side of $S$ to the length of a side of $T$ is $4:5$.  
+### Statement (1):
+The ratio of the length of a side of $S$ to the length of a side of $T$ is $4:5$.
 
 $\frac{s}{t} = \frac{4}{5} \quad \Rightarrow \quad s = \frac{4}{5}t$
 
-Now compare perimeters:  
+Now compare perimeters:
 $\frac{P_S}{P_T} = \frac{4s}{3t} = \frac{4 \cdot \tfrac{4}{5}t}{3t} = \frac{16}{15}$
 
-So:  
+So:
 
 $P_S > P_T$
 
@@ -4929,31 +4929,84 @@ $P_S > P_T$
 
 
 
-### Statement (2):  
-The sum of the lengths of a side of $S$ and a side of $T$ is 18.  
+### Statement (2):
+The sum of the lengths of a side of $S$ and a side of $T$ is 18.
 
 $s + t = 18$
 
-But this doesn’t tell us the ratio between $s$ and $t$.  
-- Example: If $s = 9, t = 9$, then $P_S = 36$, $P_T = 27$, so $P_S > P_T$.  
-- Example: If $s = 5, t = 13$, then $P_S = 20$, $P_T = 39$, so $P_S < P_T$.  
+But this doesn’t tell us the ratio between $s$ and $t$.
+- Example: If $s = 9, t = 9$, then $P_S = 36$, $P_T = 27$, so $P_S > P_T$.
+- Example: If $s = 5, t = 13$, then $P_S = 20$, $P_T = 39$, so $P_S < P_T$.
 
-Different outcomes possible.  
+Different outcomes possible.
 
 ❌ Statement (2) alone is not sufficient.
 
 
-### Combine (1) and (2):  
+### Combine (1) and (2):
 Not necessary, since (1) alone already gives sufficiency.
 
 
 
-### Final Answer  
-- (1) alone: Sufficient  
-- (2) alone: Not sufficient  
-- Together: Not needed  
+### Final Answer
+- (1) alone: Sufficient
+- (2) alone: Not sufficient
+- Together: Not needed
 
 Correct GMAT choice: **A**
 
 ---
+
+## Q105
+
+
+### Question Restated
+We want to determine the value of $p$, given $p \cdot q = 24$ and both $p, q$ are positive integers.
+
+
+
+### Statement (1):
+
+$\frac{q}{6} \text{ is an integer.}$
+
+So $q$ is a multiple of 6. Possible values: $q = 6, 12, 24$.
+- If $q = 6 \Rightarrow p = 24/6 = 4$.
+- If $q = 12 \Rightarrow p = 24/12 = 2$.
+- If $q = 24 \Rightarrow p = 24/24 = 1$.
+
+Multiple possible values for $p$.
+
+❌ **Statement (1) alone is not sufficient.**
+
+
+
+### Statement (2):
+$\frac{p}{2} \text{ is an integer.}$
+
+So $p$ is even. Possible values: $p = 2, 4, 6, 8, 12, 24$.
+Each corresponds to some integer $q$.
+But we don’t know which one specifically.
+
+❌ **Statement (2) alone is not sufficient.**
+
+
+
+### Combine (1) and (2):
+From (1): $q$ is a multiple of 6 → possible $q = 6, 12, 24$.
+Corresponding $p = 4, 2, 1$.
+From (2): $p$ must be even.
+So only $p = 4$ or $p = 2$ remain possible.
+
+Still more than one value.
+
+❌ **Together not sufficient.**
+
+
+
+### Final Answer
+Correct GMAT choice: **E** (Statements (1) and (2) together are not sufficient).
+
+---
+
+
 
