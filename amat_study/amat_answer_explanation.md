@@ -4897,3 +4897,63 @@ Correct GMAT choice: **E**
 
 ---
 
+## Q104
+
+
+### Step 1: Restate the Question  
+We want to know if:  
+
+$\text{Perimeter of square S} > \text{Perimeter of equilateral triangle T}?$
+
+- Perimeter of square $S = 4s$, where $s$ = side of square.  
+- Perimeter of triangle $T = 3t$, where $t$ = side of triangle.  
+
+So the question is:  
+$4s > 3t \; ?$
+
+
+
+### Statement (1):  
+The ratio of the length of a side of $S$ to the length of a side of $T$ is $4:5$.  
+
+$\frac{s}{t} = \frac{4}{5} \quad \Rightarrow \quad s = \frac{4}{5}t$
+
+Now compare perimeters:  
+$\frac{P_S}{P_T} = \frac{4s}{3t} = \frac{4 \cdot \tfrac{4}{5}t}{3t} = \frac{16}{15}$
+
+So:  
+
+$P_S > P_T$
+
+✅ Statement (1) alone is sufficient.
+
+
+
+### Statement (2):  
+The sum of the lengths of a side of $S$ and a side of $T$ is 18.  
+
+$s + t = 18$
+
+But this doesn’t tell us the ratio between $s$ and $t$.  
+- Example: If $s = 9, t = 9$, then $P_S = 36$, $P_T = 27$, so $P_S > P_T$.  
+- Example: If $s = 5, t = 13$, then $P_S = 20$, $P_T = 39$, so $P_S < P_T$.  
+
+Different outcomes possible.  
+
+❌ Statement (2) alone is not sufficient.
+
+
+### Combine (1) and (2):  
+Not necessary, since (1) alone already gives sufficiency.
+
+
+
+### Final Answer  
+- (1) alone: Sufficient  
+- (2) alone: Not sufficient  
+- Together: Not needed  
+
+Correct GMAT choice: **A**
+
+---
+
