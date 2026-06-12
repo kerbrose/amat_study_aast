@@ -311,7 +311,51 @@ $13$
 
 ---
 
+## Q120PS8
 
+
+### Step 1: Write the five numbers
+They are:
+1. $ j $
+2. $ j + 5 $
+3. $ 2j - 1 $
+4. $ 4j - 2 $
+5. $ 5j - 1 $
+
+---
+
+### Step 2: Compute their sum
+
+$j + (j+5) + (2j-1) + (4j-2) + (5j-1)$
+
+Combine terms:
+
+$= (j + j + 2j + 4j + 5j) + (5 - 1 - 2 - 1)$
+
+$= 13j + 1$
+
+
+
+### Step 3: Average condition
+The average is 8:
+
+$\frac{13j + 1}{5} = 8$
+
+Multiply both sides by 5:
+
+$13j + 1 = 40$
+
+$13j = 39$
+
+$j = 3$
+
+
+
+✅ **Final Answer:**
+
+$j = 3$
+
+---
 
 
 
