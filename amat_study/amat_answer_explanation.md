@@ -5423,7 +5423,7 @@ Correct GMAT choice: **B**
 # Problem Solving
 
 
-## Q1
+## Q113PS1
 
 ### Step 1: Define the lists
 - **List S**: 10 consecutive odd integers.
@@ -5464,7 +5464,7 @@ The average of the integers in list S is **12 greater** than the average of the 
 
 ---
 
-## Q2
+## Q114PS2
 
 
 ### Step 1: Understand $f(m)$
