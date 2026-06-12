@@ -394,3 +394,55 @@ Compare with Bob and Ellen: Cary is larger for all positive $E$.
 
 ---
 
+## Q122PS10
+
+To find the area of the triangular region $BCD$, we can break the problem down into two steps using the Pythagorean theorem and the area formula for a right triangle.
+
+
+### Step 1: Find the length of the shared side $BD$
+
+First, look at the bottom right triangle, $\triangle ABD$. It is a right triangle with legs $AB = 4$ and $AD = 4$.
+
+Using the Pythagorean theorem ($a^2 + b^2 = c^2$):
+
+
+$BD^2 = AB^2 + AD^2$
+
+$BD^2 = 4^2 + 4^2$
+
+$BD^2 = 16 + 16 = 32$
+
+$BD = \sqrt{32} = 4\sqrt{2}$
+
+
+### Step 2: Calculate the area of $\triangle BCD$
+
+Now look at the top triangle, $\triangle BCD$. The square symbol at vertex $B$ indicates that $\angle CBD$ is a right angle ($90^\circ$). This means $\triangle BCD$ is also a right triangle, where the two legs are $BC$ and $BD$.
+
+We are given:
+
+* Base ($BC$) = $4$
+* Height ($BD$) = $4\sqrt{2}$
+
+The formula for the area of a triangle is:
+
+
+$$\text{Area} = \frac{1}{2} \times \text{base} \times \text{height}$$
+
+Substituting our values:
+
+
+$$\text{Area} = \frac{1}{2} \times 4 \times 4\sqrt{2}$$
+
+$$\text{Area} = 2 \times 4\sqrt{2} = 8\sqrt{2}$$
+
+
+
+### Final Answer
+
+The area of the triangular region $BCD$ is **$8\sqrt{2}$** (or approximately **$11.31$** if you need a decimal).
+
+---
+
+
+
