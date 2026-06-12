@@ -357,5 +357,40 @@ $j = 3$
 
 ---
 
+## Q121PS9
 
+
+
+### Step 1: Define Ellen’s sales  
+Let Ellen = $E$.
+
+
+
+### Step 2: Express others in terms of $E$  
+- Andy = $2E$  
+- Bob = $E + 3$  
+- Cary = $2 \times \text{Bob} = 2(E+3) = 2E + 6$  
+- Dora = Bob + Ellen = $(E+3) + E = 2E + 3$
+
+
+
+### Step 3: Compare who sold the most  
+We now have:  
+- Andy = $2E$  
+- Bob = $E + 3$  
+- Cary = $2E + 6$  
+- Dora = $2E + 3$  
+- Ellen = $E$
+
+Clearly, Cary’s sales = $2E + 6$.  
+Compare with Andy = $2E$: Cary is always 6 more.  
+Compare with Dora = $2E + 3$: Cary is 3 more.  
+Compare with Bob and Ellen: Cary is larger for all positive $E$.
+
+
+
+✅ **Final Answer:**  
+**Cary sold the most properties that month.**
+
+---
 
