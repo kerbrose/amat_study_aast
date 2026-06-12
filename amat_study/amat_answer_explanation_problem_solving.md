@@ -80,3 +80,53 @@ So the greatest prime factor of $f(24)$ is **11**.
 ✅ **Final Answer:** The greatest prime factor of $f(24)$ is **11**.
 
 ---
+
+## Q115PS3
+
+
+
+### Step 1: Compute $a$
+$a = 1 + \frac{1}{4} + \frac{1}{16} + \frac{1}{64}$
+
+Find a common denominator of 64:
+
+$a = \frac{64}{64} + \frac{16}{64} + \frac{4}{64} + \frac{1}{64} = \frac{85}{64}$
+
+So:
+
+$a = \frac{85}{64}$
+
+
+
+### Step 2: Compute $b$
+
+$b = 1 + \frac{a}{4}$
+
+Substitute $a = \frac{85}{64}$:
+
+$b = 1 + \frac{85}{256}$
+
+Convert 1 to denominator 256:
+
+$b = \frac{256}{256} + \frac{85}{256} = \frac{341}{256}$
+
+
+### Step 3: Compute $a - b$
+
+$a - b = \frac{85}{64} - \frac{341}{256}$
+
+Convert $\frac{85}{64}$ to denominator 256:
+
+$\frac{85}{64} = \frac{340}{256}$
+
+So:
+
+$a - b = \frac{340}{256} - \frac{341}{256} = \frac{-1}{256}$
+
+
+
+✅ **Final Answer:**
+
+$a - b = -\frac{1}{256}$
+
+---
