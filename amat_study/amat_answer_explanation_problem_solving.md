@@ -427,14 +427,14 @@ We are given:
 The formula for the area of a triangle is:
 
 
-$$\text{Area} = \frac{1}{2} \times \text{base} \times \text{height}$$
+$\text{Area} = \frac{1}{2} \times \text{base} \times \text{height}$
 
 Substituting our values:
 
 
-$$\text{Area} = \frac{1}{2} \times 4 \times 4\sqrt{2}$$
+$\text{Area} = \frac{1}{2} \times 4 \times 4\sqrt{2}$
 
-$$\text{Area} = 2 \times 4\sqrt{2} = 8\sqrt{2}$$
+$\text{Area} = 2 \times 4\sqrt{2} = 8\sqrt{2}$
 
 
 
