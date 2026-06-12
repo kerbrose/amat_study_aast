@@ -130,3 +130,421 @@ $a - b = \frac{340}{256} - \frac{341}{256} = \frac{-1}{256}$
 $a - b = -\frac{1}{256}$
 
 ---
+
+## Q116PS4
+
+Let’s solve this step by step:
+
+
+### Step 1: Current stock
+The grocer has **400 pounds** of coffee.
+20% is decaffeinated:
+
+$0.20 \times 400 = 80 \text{ pounds decaf}$
+
+So:
+- Decaf = 80
+- Regular = 320
+
+
+
+### Step 2: New purchase
+The grocer buys **100 pounds** more.
+60% is decaffeinated:
+
+$0.60 \times 100 = 60 \text{ pounds decaf}$
+
+So:
+- Decaf = 60
+- Regular = 40
+
+
+
+### Step 3: Combine totals
+Total stock = $400 + 100 = 500$ pounds.
+Total decaf = $80 + 60 = 140$ pounds.
+
+
+
+### Step 4: Percent decaf
+
+$\frac{140}{500} \times 100 = 28\%$
+
+
+
+✅ **Final Answer:**
+The grocer’s stock is **28% decaffeinated coffee**.
+
+---
+
+
+
+## Q117PS5
+
+
+
+### Step 1: Represent shares
+Let the common unit be $x$.
+- Q’s share = $2x$
+- R’s share = $5x$
+- S’s share = $8x$
+
+Total profit = $2x + 5x + 8x = 15x$.
+
+
+
+### Step 2: Use Q’s actual share
+Q’s share = $4,000.
+So:
+
+$2x = 4000 \quad \Rightarrow \quad x = 2000$
+
+
+
+### Step 3: Find total profit
+
+$15x = 15 \times 2000 = 30{,}000$
+
+
+
+✅ **Final Answer:**
+The total profit of the business partners was **$30,000**.
+
+---
+
+
+## Q118PS6
+
+
+### Step 1: Define variables
+Let the number of rooms at Hotel H = $h$.
+Then the number of rooms at Hotel G = $2h - 10$.
+
+
+### Step 2: Use total rooms
+We’re told:
+
+$h + (2h - 10) = 425$
+
+Simplify:
+
+$3h - 10 = 425$
+
+$3h = 435$
+
+$h = 145$
+
+
+
+### Step 3: Find Hotel G’s rooms
+
+$G = 2h - 10 = 2(145) - 10 = 290 - 10 = 280$
+
+
+
+✅ **Final Answer:**
+Hotel G has **280 rooms**.
+
+---
+
+
+## Q119PS7
+
+
+### Step 1: Recall the definition
+
+$m \, \Theta \, v$ = remainder when $m$ is divided by $v$.
+
+
+
+### Step 2: Compute $98 \, \Theta \, 33$
+Divide 98 by 33:
+
+$33 \times 2 = 66, \quad 98 - 66 = 32$
+So:
+
+$98 \, \Theta \, 33 = 32$
+
+
+
+### Step 3: Compute $(98 \, \Theta \, 33) \, \Theta \, 17$
+That is $32 \, \Theta \, 17$.
+Divide 32 by 17:
+
+$32 - 17 = 15$
+So:
+
+$32 \, \Theta \, 17 = 15$
+
+
+
+### Step 4: Compute $33 \, \Theta \, 17$
+Divide 33 by 17:
+
+$33 - 17 = 16$
+So:
+
+$33 \, \Theta \, 17 = 16$
+
+
+
+### Step 5: Compute $98 \, \Theta \, (33 \, \Theta \, 17)$
+That is $98 \, \Theta \, 16$.
+Divide 98 by 16:
+
+$16 \times 6 = 96, \quad 98 - 96 = 2$
+
+So:
+
+$98 \, \Theta \, 16 = 2$
+
+
+
+### Step 6: Put it all together
+
+$((98 \, \Theta \, 33) \, \Theta \, 17) - (98 \, \Theta \, (33 \, \Theta \, 17)) = 15 - 2 = 13$
+
+
+
+✅ **Final Answer:**
+$13$
+
+---
+
+## Q120PS8
+
+
+### Step 1: Write the five numbers
+They are:
+1. $ j $
+2. $ j + 5 $
+3. $ 2j - 1 $
+4. $ 4j - 2 $
+5. $ 5j - 1 $
+
+---
+
+### Step 2: Compute their sum
+
+$j + (j+5) + (2j-1) + (4j-2) + (5j-1)$
+
+Combine terms:
+
+$= (j + j + 2j + 4j + 5j) + (5 - 1 - 2 - 1)$
+
+$= 13j + 1$
+
+
+
+### Step 3: Average condition
+The average is 8:
+
+$\frac{13j + 1}{5} = 8$
+
+Multiply both sides by 5:
+
+$13j + 1 = 40$
+
+$13j = 39$
+
+$j = 3$
+
+
+
+✅ **Final Answer:**
+
+$j = 3$
+
+---
+
+## Q121PS9
+
+
+
+### Step 1: Define Ellen’s sales
+Let Ellen = $E$.
+
+
+
+### Step 2: Express others in terms of $E$
+- Andy = $2E$
+- Bob = $E + 3$
+- Cary = $2 \times \text{Bob} = 2(E+3) = 2E + 6$
+- Dora = Bob + Ellen = $(E+3) + E = 2E + 3$
+
+
+
+### Step 3: Compare who sold the most
+We now have:
+- Andy = $2E$
+- Bob = $E + 3$
+- Cary = $2E + 6$
+- Dora = $2E + 3$
+- Ellen = $E$
+
+Clearly, Cary’s sales = $2E + 6$.
+Compare with Andy = $2E$: Cary is always 6 more.
+Compare with Dora = $2E + 3$: Cary is 3 more.
+Compare with Bob and Ellen: Cary is larger for all positive $E$.
+
+
+
+✅ **Final Answer:**
+**Cary sold the most properties that month.**
+
+---
+
+## Q122PS10
+
+To find the area of the triangular region $BCD$, we can break the problem down into two steps using the Pythagorean theorem and the area formula for a right triangle.
+
+
+### Step 1: Find the length of the shared side $BD$
+
+First, look at the bottom right triangle, $\triangle ABD$. It is a right triangle with legs $AB = 4$ and $AD = 4$.
+
+Using the Pythagorean theorem ($a^2 + b^2 = c^2$):
+
+
+$BD^2 = AB^2 + AD^2$
+
+$BD^2 = 4^2 + 4^2$
+
+$BD^2 = 16 + 16 = 32$
+
+$BD = \sqrt{32} = 4\sqrt{2}$
+
+
+### Step 2: Calculate the area of $\triangle BCD$
+
+Now look at the top triangle, $\triangle BCD$. The square symbol at vertex $B$ indicates that $\angle CBD$ is a right angle ($90^\circ$). This means $\triangle BCD$ is also a right triangle, where the two legs are $BC$ and $BD$.
+
+We are given:
+
+* Base ($BC$) = $4$
+* Height ($BD$) = $4\sqrt{2}$
+
+The formula for the area of a triangle is:
+
+
+$\text{Area} = \frac{1}{2} \times \text{base} \times \text{height}$
+
+Substituting our values:
+
+
+$\text{Area} = \frac{1}{2} \times 4 \times 4\sqrt{2}$
+
+$\text{Area} = 2 \times 4\sqrt{2} = 8\sqrt{2}$
+
+
+
+### Final Answer
+
+The area of the triangular region $BCD$ is **$8\sqrt{2}$** (or approximately **$11.31$** if you need a decimal).
+
+---
+
+
+
+## Q123PS11
+
+
+
+### Step 1: Playground area
+Playground dimensions: $16 \, \text{m} \times 12 \, \text{m}$.
+
+$\text{Area} = 16 \times 12 = 192 \, \text{m}^2$
+
+
+
+### Step 2: Garden dimensions
+Garden width = 6 m.
+Garden area must equal playground area = $192 \, \text{m}^2$.
+
+So length of garden =
+
+$\frac{\text{Area}}{\text{Width}} = \frac{192}{6} = 32 \, \text{m}$
+
+
+
+### Step 3: Perimeter of garden
+Perimeter formula:
+
+$P = 2(\text{Length} + \text{Width})$
+
+$P = 2(32 + 6) = 2 \times 38 = 76 \, \text{m}$
+
+
+
+✅ **Final Answer:**
+The perimeter of the rectangular garden is **76 meters**.
+
+---
+
+
+## Q124PS12
+
+
+### Step 1: Convert bridge length to miles
+Bridge length = 4,024 ft.
+Since $1 \, \text{mile} = 5,280 \, \text{ft}$:
+
+$\text{Length in miles} = \frac{4024}{5280} \approx 0.762 \, \text{miles}$
+
+
+
+### Step 2: Time to cross at 20 mph
+Time (hours) = $\frac{\text{distance}}{\text{speed}} = \frac{0.762}{20} \approx 0.0381 \, \text{hours}$.
+
+
+
+### Step 3: Convert hours to minutes
+
+$0.0381 \times 60 \approx 2.29 \, \text{minutes}$
+
+
+
+✅ **Final Answer:**
+It takes approximately **2.3 minutes** to cross the bridge at 20 mph.
+
+---
+
+
+## Q125PS13
+
+
+### Step 1: Cost structure
+- First hour = \$12
+- Each additional hour = \$3
+
+
+### Step 2: Total paid
+Becky paid \$27.
+
+So after the first hour (\$12), the remaining cost is:
+
+$27 - 12 = 15$
+
+
+
+### Step 3: Additional hours
+Each additional hour costs \$3, so:
+
+$\frac{15}{3} = 5 \text{ hours}$
+
+
+
+### Step 4: Total hours rented
+
+$1 \text{ (first hour)} + 5 \text{ (additional)} = 6 \text{ hours}$
+
+
+
+✅ **Final Answer:**
+Becky rented the tool for **6 hours**.
+
+---
+
+
+
+
