@@ -9,7 +9,9 @@ tree = html.fromstring(content)
 
 question_number = 159
 # Iterate over all question divs
-questions = tree.xpath('//*[contains(@class, "question")]')
+# questions = tree.xpath('//*[contains(@class, "question")]')
+questions = tree.xpath('//*[contains(@class, "problem-solving previous-exam")]')
+
 print(len(questions))
 for div in questions:
     # Extract the base number from the div id
