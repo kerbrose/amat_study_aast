@@ -130,3 +130,52 @@ $a - b = \frac{340}{256} - \frac{341}{256} = \frac{-1}{256}$
 $a - b = -\frac{1}{256}$
 
 ---
+
+## Q116PS4
+
+Let’s solve this step by step:
+
+
+### Step 1: Current stock
+The grocer has **400 pounds** of coffee.  
+20% is decaffeinated:
+
+$0.20 \times 400 = 80 \text{ pounds decaf}$
+
+So:  
+- Decaf = 80  
+- Regular = 320  
+
+
+
+### Step 2: New purchase
+The grocer buys **100 pounds** more.  
+60% is decaffeinated:
+
+$0.60 \times 100 = 60 \text{ pounds decaf}$
+
+So:  
+- Decaf = 60  
+- Regular = 40  
+
+
+
+### Step 3: Combine totals
+Total stock = $400 + 100 = 500$ pounds.  
+Total decaf = $80 + 60 = 140$ pounds.  
+
+
+
+### Step 4: Percent decaf
+
+$\frac{140}{500} \times 100 = 28\%$
+
+
+
+✅ **Final Answer:**
+The grocer’s stock is **28% decaffeinated coffee**.  
+
+---
+
+
+
