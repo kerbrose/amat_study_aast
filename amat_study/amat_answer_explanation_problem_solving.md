@@ -446,3 +446,39 @@ The area of the triangular region $BCD$ is **$8\sqrt{2}$** (or approximately **$
 
 
 
+## Q123PS11
+
+
+
+### Step 1: Playground area  
+Playground dimensions: \(16 \, \text{m} \times 12 \, \text{m}\).  
+
+$\text{Area} = 16 \times 12 = 192 \, \text{m}^2$
+
+
+
+### Step 2: Garden dimensions  
+Garden width = 6 m.  
+Garden area must equal playground area = \(192 \, \text{m}^2\).  
+
+So length of garden =  
+
+$\frac{\text{Area}}{\text{Width}} = \frac{192}{6} = 32 \, \text{m}$
+
+
+
+### Step 3: Perimeter of garden  
+Perimeter formula:  
+
+$P = 2(\text{Length} + \text{Width})$
+
+$P = 2(32 + 6) = 2 \times 38 = 76 \, \text{m}$
+
+
+
+✅ **Final Answer:**  
+The perimeter of the rectangular garden is **76 meters**.  
+
+---
+
+
