@@ -179,3 +179,38 @@ The grocer’s stock is **28% decaffeinated coffee**.
 
 
 
+## Q117PS5
+
+
+
+### Step 1: Represent shares
+Let the common unit be $x$.  
+- Q’s share = $2x$  
+- R’s share = $5x$  
+- S’s share = $8x$  
+
+Total profit = $2x + 5x + 8x = 15x$.
+
+
+
+### Step 2: Use Q’s actual share
+Q’s share = $4,000.  
+So:
+
+$2x = 4000 \quad \Rightarrow \quad x = 2000$
+
+
+
+### Step 3: Find total profit
+
+$15x = 15 \times 2000 = 30{,}000$
+
+
+
+✅ **Final Answer:**
+The total profit of the business partners was **$30,000**.  
+
+---
+
+
+## 
