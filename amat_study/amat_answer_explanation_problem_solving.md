@@ -248,3 +248,70 @@ Hotel G has **280 rooms**.
 ---
 
 
+## Q119PS7
+
+
+### Step 1: Recall the definition
+
+$m \, \Theta \, v$ = remainder when $m$ is divided by $v$.
+
+
+
+### Step 2: Compute $98 \, \Theta \, 33$
+Divide 98 by 33:
+
+$33 \times 2 = 66, \quad 98 - 66 = 32$
+So:
+
+$98 \, \Theta \, 33 = 32$
+
+
+
+### Step 3: Compute $(98 \, \Theta \, 33) \, \Theta \, 17$
+That is $32 \, \Theta \, 17$.
+Divide 32 by 17:
+
+$32 - 17 = 15$
+So:
+
+$32 \, \Theta \, 17 = 15$
+
+
+
+### Step 4: Compute $33 \, \Theta \, 17$
+Divide 33 by 17:
+
+$33 - 17 = 16$
+So:
+
+$33 \, \Theta \, 17 = 16$
+
+
+
+### Step 5: Compute $98 \, \Theta \, (33 \, \Theta \, 17)$
+That is $98 \, \Theta \, 16$.
+Divide 98 by 16:
+
+$16 \times 6 = 96, \quad 98 - 96 = 2$
+
+So:
+
+$98 \, \Theta \, 16 = 2$
+
+
+
+### Step 6: Put it all together
+
+$((98 \, \Theta \, 33) \, \Theta \, 17) - (98 \, \Theta \, (33 \, \Theta \, 17)) = 15 - 2 = 13$
+
+
+
+✅ **Final Answer:**
+$13$
+
+---
+
+
+
+
+
