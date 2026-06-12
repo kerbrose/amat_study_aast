@@ -137,32 +137,32 @@ Let’s solve this step by step:
 
 
 ### Step 1: Current stock
-The grocer has **400 pounds** of coffee.  
+The grocer has **400 pounds** of coffee.
 20% is decaffeinated:
 
 $0.20 \times 400 = 80 \text{ pounds decaf}$
 
-So:  
-- Decaf = 80  
-- Regular = 320  
+So:
+- Decaf = 80
+- Regular = 320
 
 
 
 ### Step 2: New purchase
-The grocer buys **100 pounds** more.  
+The grocer buys **100 pounds** more.
 60% is decaffeinated:
 
 $0.60 \times 100 = 60 \text{ pounds decaf}$
 
-So:  
-- Decaf = 60  
-- Regular = 40  
+So:
+- Decaf = 60
+- Regular = 40
 
 
 
 ### Step 3: Combine totals
-Total stock = $400 + 100 = 500$ pounds.  
-Total decaf = $80 + 60 = 140$ pounds.  
+Total stock = $400 + 100 = 500$ pounds.
+Total decaf = $80 + 60 = 140$ pounds.
 
 
 
@@ -173,7 +173,7 @@ $\frac{140}{500} \times 100 = 28\%$
 
 
 ✅ **Final Answer:**
-The grocer’s stock is **28% decaffeinated coffee**.  
+The grocer’s stock is **28% decaffeinated coffee**.
 
 ---
 
@@ -184,17 +184,17 @@ The grocer’s stock is **28% decaffeinated coffee**.
 
 
 ### Step 1: Represent shares
-Let the common unit be $x$.  
-- Q’s share = $2x$  
-- R’s share = $5x$  
-- S’s share = $8x$  
+Let the common unit be $x$.
+- Q’s share = $2x$
+- R’s share = $5x$
+- S’s share = $8x$
 
 Total profit = $2x + 5x + 8x = 15x$.
 
 
 
 ### Step 2: Use Q’s actual share
-Q’s share = $4,000.  
+Q’s share = $4,000.
 So:
 
 $2x = 4000 \quad \Rightarrow \quad x = 2000$
@@ -208,9 +208,43 @@ $15x = 15 \times 2000 = 30{,}000$
 
 
 ✅ **Final Answer:**
-The total profit of the business partners was **$30,000**.  
+The total profit of the business partners was **$30,000**.
 
 ---
 
 
-## 
+## Q118PS6
+
+
+### Step 1: Define variables
+Let the number of rooms at Hotel H = $h$.
+Then the number of rooms at Hotel G = $2h - 10$.
+
+
+### Step 2: Use total rooms
+We’re told:
+
+$h + (2h - 10) = 425$
+
+Simplify:
+
+$3h - 10 = 425$
+
+$3h = 435$
+
+$h = 145$
+
+
+
+### Step 3: Find Hotel G’s rooms
+
+$G = 2h - 10 = 2(145) - 10 = 290 - 10 = 280$
+
+
+
+✅ **Final Answer:**
+Hotel G has **280 rooms**.
+
+---
+
+
