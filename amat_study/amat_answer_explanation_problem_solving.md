@@ -361,35 +361,35 @@ $j = 3$
 
 
 
-### Step 1: Define Ellen’s sales  
+### Step 1: Define Ellen’s sales
 Let Ellen = $E$.
 
 
 
-### Step 2: Express others in terms of $E$  
-- Andy = $2E$  
-- Bob = $E + 3$  
-- Cary = $2 \times \text{Bob} = 2(E+3) = 2E + 6$  
+### Step 2: Express others in terms of $E$
+- Andy = $2E$
+- Bob = $E + 3$
+- Cary = $2 \times \text{Bob} = 2(E+3) = 2E + 6$
 - Dora = Bob + Ellen = $(E+3) + E = 2E + 3$
 
 
 
-### Step 3: Compare who sold the most  
-We now have:  
-- Andy = $2E$  
-- Bob = $E + 3$  
-- Cary = $2E + 6$  
-- Dora = $2E + 3$  
+### Step 3: Compare who sold the most
+We now have:
+- Andy = $2E$
+- Bob = $E + 3$
+- Cary = $2E + 6$
+- Dora = $2E + 3$
 - Ellen = $E$
 
-Clearly, Cary’s sales = $2E + 6$.  
-Compare with Andy = $2E$: Cary is always 6 more.  
-Compare with Dora = $2E + 3$: Cary is 3 more.  
+Clearly, Cary’s sales = $2E + 6$.
+Compare with Andy = $2E$: Cary is always 6 more.
+Compare with Dora = $2E + 3$: Cary is 3 more.
 Compare with Bob and Ellen: Cary is larger for all positive $E$.
 
 
 
-✅ **Final Answer:**  
+✅ **Final Answer:**
 **Cary sold the most properties that month.**
 
 ---
@@ -450,25 +450,25 @@ The area of the triangular region $BCD$ is **$8\sqrt{2}$** (or approximately **$
 
 
 
-### Step 1: Playground area  
-Playground dimensions: $16 \, \text{m} \times 12 \, \text{m}$.  
+### Step 1: Playground area
+Playground dimensions: $16 \, \text{m} \times 12 \, \text{m}$.
 
 $\text{Area} = 16 \times 12 = 192 \, \text{m}^2$
 
 
 
-### Step 2: Garden dimensions  
-Garden width = 6 m.  
-Garden area must equal playground area = $192 \, \text{m}^2$.  
+### Step 2: Garden dimensions
+Garden width = 6 m.
+Garden area must equal playground area = $192 \, \text{m}^2$.
 
-So length of garden =  
+So length of garden =
 
 $\frac{\text{Area}}{\text{Width}} = \frac{192}{6} = 32 \, \text{m}$
 
 
 
-### Step 3: Perimeter of garden  
-Perimeter formula:  
+### Step 3: Perimeter of garden
+Perimeter formula:
 
 $P = 2(\text{Length} + \text{Width})$
 
@@ -476,8 +476,8 @@ $P = 2(32 + 6) = 2 \times 38 = 76 \, \text{m}$
 
 
 
-✅ **Final Answer:**  
-The perimeter of the rectangular garden is **76 meters**.  
+✅ **Final Answer:**
+The perimeter of the rectangular garden is **76 meters**.
 
 ---
 
@@ -485,28 +485,66 @@ The perimeter of the rectangular garden is **76 meters**.
 ## Q124PS12
 
 
-### Step 1: Convert bridge length to miles  
-Bridge length = 4,024 ft.  
+### Step 1: Convert bridge length to miles
+Bridge length = 4,024 ft.
 Since $1 \, \text{mile} = 5,280 \, \text{ft}$:
 
 $\text{Length in miles} = \frac{4024}{5280} \approx 0.762 \, \text{miles}$
 
 
 
-### Step 2: Time to cross at 20 mph  
+### Step 2: Time to cross at 20 mph
 Time (hours) = $\frac{\text{distance}}{\text{speed}} = \frac{0.762}{20} \approx 0.0381 \, \text{hours}$.
 
 
 
-### Step 3: Convert hours to minutes  
+### Step 3: Convert hours to minutes
 
 $0.0381 \times 60 \approx 2.29 \, \text{minutes}$
 
 
 
-✅ **Final Answer:**  
-It takes approximately **2.3 minutes** to cross the bridge at 20 mph.  
+✅ **Final Answer:**
+It takes approximately **2.3 minutes** to cross the bridge at 20 mph.
 
 ---
+
+
+## Q125PS13
+
+
+### Step 1: Cost structure
+- First hour = \$12
+- Each additional hour = \$3
+
+
+### Step 2: Total paid
+Becky paid \$27.
+
+So after the first hour (\$12), the remaining cost is:
+
+$27 - 12 = 15$
+
+
+
+### Step 3: Additional hours
+Each additional hour costs \$3, so:
+
+$\frac{15}{3} = 5 \text{ hours}$
+
+
+
+### Step 4: Total hours rented
+
+$1 \text{ (first hour)} + 5 \text{ (additional)} = 6 \text{ hours}$
+
+
+
+✅ **Final Answer:**
+Becky rented the tool for **6 hours**.
+
+---
+
+
 
 
