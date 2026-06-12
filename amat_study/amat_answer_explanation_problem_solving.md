@@ -451,7 +451,7 @@ The area of the triangular region $BCD$ is **$8\sqrt{2}$** (or approximately **$
 
 
 ### Step 1: Playground area  
-Playground dimensions: \(16 \, \text{m} \times 12 \, \text{m}\).  
+Playground dimensions: $16 \, \text{m} \times 12 \, \text{m}$.  
 
 $\text{Area} = 16 \times 12 = 192 \, \text{m}^2$
 
@@ -459,7 +459,7 @@ $\text{Area} = 16 \times 12 = 192 \, \text{m}^2$
 
 ### Step 2: Garden dimensions  
 Garden width = 6 m.  
-Garden area must equal playground area = \(192 \, \text{m}^2\).  
+Garden area must equal playground area = $192 \, \text{m}^2$.  
 
 So length of garden =  
 
@@ -478,6 +478,34 @@ $P = 2(32 + 6) = 2 \times 38 = 76 \, \text{m}$
 
 ✅ **Final Answer:**  
 The perimeter of the rectangular garden is **76 meters**.  
+
+---
+
+
+## Q124PS12
+
+
+### Step 1: Convert bridge length to miles  
+Bridge length = 4,024 ft.  
+Since $1 \, \text{mile} = 5,280 \, \text{ft}$:
+
+$\text{Length in miles} = \frac{4024}{5280} \approx 0.762 \, \text{miles}$
+
+
+
+### Step 2: Time to cross at 20 mph  
+Time (hours) = $\frac{\text{distance}}{\text{speed}} = \frac{0.762}{20} \approx 0.0381 \, \text{hours}$.
+
+
+
+### Step 3: Convert hours to minutes  
+
+$0.0381 \times 60 \approx 2.29 \, \text{minutes}$
+
+
+
+✅ **Final Answer:**  
+It takes approximately **2.3 minutes** to cross the bridge at 20 mph.  
 
 ---
 
