@@ -906,3 +906,26 @@ The total tax Jill paid was **4.4%** of her spending, excluding taxes.
 ---
 
 
+## Q135PS23
+
+
+
+### Step 1: Identify the change
+Opening price = \$8
+Closing price = \$9
+Increase = $9 - 8 = 1$
+
+
+
+### Step 2: Percent increase formula
+
+$\text{Percent Increase} = \frac{\text{Increase}}{\text{Original Price}} \times 100\%$
+
+$= \frac{1}{8} \times 100\% = 12.5\%$
+
+
+
+✅ **Final Answer:**
+The percent increase in the price per share of stock K was **12.5%**.
+
+---
