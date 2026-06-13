@@ -545,6 +545,78 @@ Becky rented the tool for **6 hours**.
 
 ---
 
+## Q126PS14
 
+
+
+### Step 1: Define ages today
+- Rose = $R$
+- Sam = $S$
+- Tina = $T$
+
+We’re told:
+1. $R = 2S$
+2. $S = T - 3$ (Sam is 3 years younger than Tina)
+
+---
+
+### Step 2: Ages in 4 years
+- Rose = $R + 4$
+- Sam = $S + 4$
+- Tina = $T + 4$
+
+---
+
+### Step 3: Check each statement
+
+**I. Rose is twice as old as Sam.**
+In 4 years:
+
+$R + 4 \stackrel{?}{=} 2(S + 4)$
+
+But originally $R = 2S$. Substituting:
+
+$2S + 4 \stackrel{?}{=} 2S + 8$
+
+This is false (left side is 4 less).
+So **Statement I is not necessarily true**.
+
+
+
+**II. Sam is 3 years younger than Tina.**
+In 4 years:
+
+$(S + 4) = (T + 4) - 3$
+
+Simplify:
+
+$S = T - 3$
+
+Which is exactly the original relationship.
+So **Statement II must be true**.
+
+
+
+**III. Rose is older than Tina.**
+We need to compare $R$ and $T$.
+We know $R = 2S$ and $T = S + 3$.
+So:
+
+$R - T = 2S - (S + 3) = S - 3$
+
+- If $S > 3$, then $R > T$.
+- If $S = 3$, then $R = T$.
+- If $S < 3$, then $R < T$.
+
+Since $S$ is a positive integer, this depends on Sam’s age. It is **not guaranteed**.
+So **Statement III is not necessarily true**.
+
+
+
+### ✅ Final Answer
+The only statement that **must** be true in 4 years is:
+**II. Sam is 3 years younger than Tina.**
+
+---
 
 
