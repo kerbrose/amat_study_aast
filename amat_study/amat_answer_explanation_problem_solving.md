@@ -968,3 +968,38 @@ Company C ordered **20 plants**.
 
 ---
 
+## Q137PS25
+
+We’re given the custom operation:
+
+$s \ast t = (s - 1)(t + 1)$
+
+
+
+### Step 1: Substitute $s = -2$
+
+$(-2) \ast x = (-2 - 1)(x + 1) = (-3)(x + 1)$
+
+
+
+### Step 2: Set equal to $-12$
+
+$(-3)(x + 1) = -12$
+
+
+
+### Step 3: Solve for $x$
+
+$x + 1 = \frac{-12}{-3} = 4$
+
+$x = 4 - 1 = 3$
+
+
+
+✅ **Final Answer:**
+
+$x = 3$
+
+---
+
+
