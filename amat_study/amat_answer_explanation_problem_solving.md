@@ -1132,3 +1132,124 @@ The area of the floor is **180 square feet**.
 
 ---
 
+## Q141PS29
+
+
+### fast answer
+
+Volume of the tank is $30×20×10 = 6000m^3$.
+
+Tap 1 fills in 60 hours, so $100m^3$ per hour.
+
+Tap 2 fills in 90 hours, so $\frac{200}{3}m^3$ per hour.
+
+Combined inflow rate is $\frac{500}{3}m^3$ per hour.
+
+If there were no holes, it would take $100 + \frac{200}{3} = \frac{500}{3} \approx 166.67\text{ m}^3/\text{hour}$
+
+$\frac{6000}{166.67} = 36 \text{hours}$. Which liminates the first answer A.
+
+There are four holes, one at a height of $2m$, one at a height of $4m$, one at a height of $6m$, an one at a height of $8m$.
+
+From here, there are two ways to approach the rest of the question. The first way is to understand how test-writers design questions, use some logic, test the other extreme (we already tested no holes, so we need to test what happens if all four holes impact the net inflow the entire time), eliminate four answer choices, get the right answer quickly, and move on. The second way is to get bogged down in the actual math to prove the one right answer. I strongly prefer the first way. You do whatever is best for you. 😉
+
+Short solution : -
+
+Maximum rate of filling tank (without any hole) = 6000/60 + 6000/90 = 100 + 200/3 = 500/3 m3 /hr
+Minimum time taken to fill the tank (without any hole) = 6000/(500/3) = 36 hours
+
+Minimum rate of filling tank (with all 4 holes) = 6000/60 + 6000/90 - 40 = 100 + 200/3 - 40 = 380/3 m3 /hr
+Maximum time taken to fill the tank (with all 4 holes) = 6000/(380/3) = 47.36 hours
+
+Only option B 42 lies between the 2 extremes
+
+### typical answer
+
+To find out how long it will take to fill the tank completely, we need to calculate the volume of the tank, the net rate at which water is entering, and how the outflows through the holes affect the filling process at different heights.
+
+### Step 1: Calculate the Total Volume of the Tank
+
+The dimensions of the base are $30\text{ m} \times 20\text{ m}$ and the height is $10\text{ m}$.
+
+* **Total Volume** = $\text{Length} \times \text{Width} \times \text{Height} = 30 \times 20 \times 10 = 6,000\text{ m}^3$
+* **Volume per meter of height** = $30 \times 20 \times 1 = 600\text{ m}^3$
+* This means every 2-meter vertical section of the tank has a volume of:
+
+$600\text{ m}^3/\text{m} \times 2\text{ m} = 1,200\text{ m}^3$
+
+
+
+### Step 2: Determine the Inflow Rate from the Taps
+
+* **Tap 1 rate** = $\frac{6000\text{ m}^3}{60\text{ hours}} = 100\text{ m}^3/\text{hour}$
+* **Tap 2 rate** = $\frac{6000\text{ m}^3}{90\text{ hours}} = \frac{200}{3}\text{ m}^3/\text{hour}$
+* **Total Inflow Rate ($R_{\text{in}}$)** = $100 + \frac{200}{3} = \frac{500}{3} \approx 166.67\text{ m}^3/\text{hour}$
+
+
+
+### Step 3: Analyze the Outflow Holes
+
+Holes are located every 2 meters along the height ($2\text{ m}$, $4\text{ m}$, $6\text{ m}$, and $8\text{ m}$). A hole only leaks water once the water level reaches or rises past it. Each hole leaks at a rate of $10\text{ m}^3/\text{hour}$.
+
+We can break the filling process into 2-meter height intervals:
+
+#### 1. From 0 meters to 2 meters (Volume = $1,200\text{ m}^3$)
+
+* **Active holes:** 0 (The first hole is at 2m, so no leakage occurs yet).
+* **Net Rate:** $\frac{500}{3}\text{ m}^3/\text{hour}$
+* **Time taken ($t_1$):** 
+$t_1 = \frac{1200}{\frac{500}{3}} = \frac{3600}{500} = 7.2\text{ hours}$
+
+
+
+#### 2. From 2 meters to 4 meters (Volume = $1,200\text{ m}^3$)
+
+* **Active holes:** 1 (The hole at 2m is leaking).
+* **Total Outflow:** $1 \times 10 = 10\text{ m}^3/\text{hour}$
+* **Net Rate:** $\frac{500}{3} - 10 = \frac{470}{3}\text{ m}^3/\text{hour}$
+* **Time taken ($t_2$):** 
+$t_2 = \frac{1200}{\frac{470}{3}} = \frac{3600}{470} \approx 7.66\text{ hours}$
+
+
+
+#### 3. From 4 meters to 6 meters (Volume = $1,200\text{ m}^3$)
+
+* **Active holes:** 2 (Holes at 2m and 4m are leaking).
+* **Total Outflow:** $2 \times 10 = 20\text{ m}^3/\text{hour}$
+* **Net Rate:** $\frac{500}{3} - 20 = \frac{440}{3}\text{ m}^3/\text{hour}$
+* **Time taken ($t_3$):** 
+$t_3 = \frac{1200}{\frac{440}{3}} = \frac{3600}{440} \approx 8.18\text{ hours}$
+
+
+
+#### 4. From 6 meters to 8 meters (Volume = $1,200\text{ m}^3$)
+
+* **Active holes:** 3 (Holes at 2m, 4m, and 6m are leaking).
+* **Total Outflow:** $3 \times 10 = 30\text{ m}^3/\text{hour}$
+* **Net Rate:** $\frac{500}{3} - 30 = \frac{410}{3}\text{ m}^3/\text{hour}$
+* **Time taken ($t_4$):** 
+$t_4 = \frac{1200}{\frac{410}{3}} = \frac{3600}{410} \approx 8.78\text{ hours}$
+
+
+
+#### 5. From 8 meters to 10 meters (Volume = $1,200\text{ m}^3$)
+
+* **Active holes:** 4 (Holes at 2m, 4m, 6m, and 8m are leaking).
+* **Total Outflow:** $4 \times 10 = 40\text{ m}^3/\text{hour}$
+* **Net Rate:** $\frac{500}{3} - 40 = \frac{380}{3}\text{ m}^3/\text{hour}$
+* **Time taken ($t_5$):** 
+$t_5 = \frac{1200}{\frac{380}{3}} = \frac{3600}{380} \approx 9.47\text{ hours}$
+
+
+
+### Step 4: Calculate Total Time
+
+To find the total time required to fill the tank completely, sum up the times taken for each interval:
+
+$\text{Total Time} = t_1 + t_2 + t_3 + t_4 + t_5$
+
+$\text{Total Time} = 7.20 + 7.66 + 8.18 + 8.78 + 9.47 = 41.29\text{ hours}$
+
+It will take approximately **41.3 hours** (or about 41 hours and 17 minutes) to fill the tank completely.
+
+---
