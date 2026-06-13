@@ -874,6 +874,35 @@ $-2x - y^2 = 1$
 
 ---
 
+## Q134PS22
 
+
+### Step 1: Break down spending (excluding tax)
+Let Jill’s total spending (before tax) = **100 units** (for simplicity).
+- Clothing = 50
+- Food = 20
+- Other items = 30
+
+
+### Step 2: Apply tax rates
+- Clothing tax = $50 \times 0.04 = 2$
+- Food tax = $20 \times 0 = 0$
+- Other items tax = $30 \times 0.08 = 2.4$
+
+Total tax = $2 + 0 + 2.4 = 4.4$
+
+
+
+### Step 3: Express as percent of total spending
+
+$\frac{4.4}{100} \times 100\% = 4.4\%$
+
+
+
+✅ **Final Answer:**
+The total tax Jill paid was **4.4%** of her spending, excluding taxes.
+**Correct choice: (C)**
+
+---
 
 
