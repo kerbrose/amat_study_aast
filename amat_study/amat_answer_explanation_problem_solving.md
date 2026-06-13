@@ -929,3 +929,42 @@ $= \frac{1}{8} \times 100\% = 12.5\%$
 The percent increase in the price per share of stock K was **12.5%**.
 
 ---
+
+## Q136PS24
+
+### Step 1: Represent the total cost
+Total cost = (cost of plants) + (tax on plants) + (shipping).
+
+- Cost per plant = \$3.00
+- Sales tax = 5% of plant cost
+- Shipping = \$6.95 (flat fee)
+- Total cost = \$69.95
+
+Let number of plants = $n$.
+
+
+### Step 2: Write the equation
+Plant cost = $3n$.
+Tax = $0.05 \times 3n = 0.15n$.
+Shipping = 6.95.
+
+So:
+
+$3n + 0.15n + 6.95 = 69.95$
+
+$3.15n + 6.95 = 69.95$
+
+
+### Step 3: Solve for $n$
+
+$3.15n = 69.95 - 6.95 = 63$
+
+$n = \frac{63}{3.15} = 20$
+
+
+
+✅ **Final Answer:**
+Company C ordered **20 plants**.
+
+---
+
