@@ -837,4 +837,43 @@ The integer with prime sum greater than 35 is:
 ---
 
 
+## Q133PS21
+
+
+We’re given:
+
+$x = -\tfrac{5}{8}, \quad y = -\tfrac{1}{2}$
+
+Expression:
+
+$-2x - y^2$
+
+
+
+### Step 1: Compute $-2x$
+
+$-2x = -2 \times \left(-\tfrac{5}{8}\right) = \tfrac{10}{8} = \tfrac{5}{4}$
+
+
+
+### Step 2: Compute $y^2$
+
+$y^2 = \left(-\tfrac{1}{2}\right)^2 = \tfrac{1}{4}$
+
+
+
+### Step 3: Put it together
+
+$-2x - y^2 = \tfrac{5}{4} - \tfrac{1}{4} = \tfrac{4}{4} = 1$
+
+
+
+✅ **Final Answer:**
+
+$-2x - y^2 = 1$
+
+---
+
+
+
 
