@@ -744,3 +744,38 @@ Mario’s age $x$ years ago was **$40 - x$**.
 ---
 
 
+## Q131PS19
+
+
+
+### Step 1: Revenue
+They produced **500 trucks**, each sold for **\$10**:
+
+$\text{Revenue} = 500 \times 10 = 5{,}000$
+
+
+
+### Step 2: Production costs
+- First 100 trucks cost \$5 each:
+
+$100 \times 5 = 500$
+
+- Remaining 400 trucks cost \$3.50 each:
+
+$400 \times 3.50 = 1{,}400$
+
+Total cost = \(500 + 1{,}400 = 1{,}900\).
+
+
+### Step 3: Gross profit
+
+$\text{Gross Profit} = \text{Revenue} - \text{Cost} = 5{,}000 - 1{,}900 = 3{,}100$
+
+
+
+✅ **Final Answer:**
+Company C’s gross profit is **\$3,100**.
+
+---
+
+
