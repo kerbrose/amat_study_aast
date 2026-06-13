@@ -764,7 +764,7 @@ $100 \times 5 = 500$
 
 $400 \times 3.50 = 1{,}400$
 
-Total cost = \(500 + 1{,}400 = 1{,}900\).
+Total cost = $500 + 1{,}400 = 1{,}900$.
 
 
 ### Step 3: Gross profit
@@ -777,5 +777,64 @@ $\text{Gross Profit} = \text{Revenue} - \text{Cost} = 5{,}000 - 1{,}900 = 3{,}10
 Company C’s gross profit is **\$3,100**.
 
 ---
+
+## Q132PS20
+
+### Definition
+The **prime sum** of $n$ = sum of all prime factors of $n$, **with repetitions**.
+
+
+### Option (A) 440
+Factorize:
+
+$440 = 2 \times 2 \times 2 \times 5 \times 11$
+
+Prime sum = $2 + 2 + 2 + 5 + 11 = 22$
+👉 Less than 35.
+
+
+### Option (B) 512
+Factorize:
+
+$512 = 2^9$
+
+Prime sum = $2 + 2 + \dots + 2$ (9 times) = $18$
+👉 Less than 35.
+
+
+### Option (C) 620
+Factorize:
+
+$620 = 2 \times 2 \times 5 \times 31$
+
+Prime sum = $2 + 2 + 5 + 31 = 40$
+👉 Greater than 35 ✅
+
+
+### Option (D) 700
+Factorize:
+
+$700 = 2 \times 2 \times 5 \times 5 \times 7$
+
+Prime sum = $2 + 2 + 5 + 5 + 7 = 21$
+👉 Less than 35.
+
+
+
+### Option (E) 750
+Factorize:
+
+$750 = 2 \times 3 \times 5 \times 5 \times 5$
+
+Prime sum = $2 + 3 + 5 + 5 + 5 = 20$
+👉 Less than 35.
+
+
+### ✅ Final Answer
+The integer with prime sum greater than 35 is:
+**(C) 620**
+
+---
+
 
 
