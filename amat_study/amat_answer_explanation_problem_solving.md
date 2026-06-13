@@ -650,5 +650,45 @@ The shaded region is **$\frac{1}{6}$** of the circular region.
 
 ---
 
+## Q128PS16
+
+
+
+### Step 1: Define the profit equation
+Profit = Revenue – (Fixed Costs + Variable Costs).
+
+- Fixed costs = \$130,000
+- Variable cost per item = \$8
+- Selling price per item = \$15
+- Desired profit = \$150,000
+
+
+
+### Step 2: Express in terms of number of items $x$
+Revenue = $15x$
+Total cost = $130{,}000 + 8x$
+Profit = $15x - (130{,}000 + 8x)$
+
+Simplify:
+
+$\text{Profit} = 15x - 130{,}000 - 8x = 7x - 130{,}000$
+
+
+
+### Step 3: Set profit equal to target
+
+$7x - 130{,}000 = 150{,}000$
+
+$7x = 280{,}000$
+
+$x = 40{,}000$
+
+
+
+✅ **Final Answer:**
+The manufacturer must produce and sell **40,000 items** to earn an annual profit of \$150,000.
+
+---
+
 
 
