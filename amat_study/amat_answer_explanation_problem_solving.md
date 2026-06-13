@@ -690,5 +690,35 @@ The manufacturer must produce and sell **40,000 items** to earn an annual profit
 
 ---
 
+## Q129PS17
 
+### Step 1: Work rate of the machines  
+If **4 machines** take **30 hours** to complete the order, then the total work (the order) can be expressed in **machine‑hours**:
+
+$\text{Work} = 4 \times 30 = 120 \text{ machine‑hours}$
+
+So the order requires **120 machine‑hours** of work.
+
+
+
+### Step 2: Time with 5 machines  
+With **5 machines** working together, the time needed is:
+
+$\text{Time} = \frac{\text{Work}}{\text{Machines}} = \frac{120}{5} = 24 \text{ hours}$
+
+
+
+### Step 3: Difference in time  
+Originally: 30 hours.  
+With 5 machines: 24 hours.  
+Difference:
+
+$30 - 24 = 6 \text{ hours}$
+
+
+
+✅ **Final Answer:**  
+It takes **6 fewer hours** when all five machines operate simultaneously.  
+
+---
 
