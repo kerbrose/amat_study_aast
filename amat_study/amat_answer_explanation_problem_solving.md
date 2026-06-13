@@ -1253,3 +1253,70 @@ $\text{Total Time} = 7.20 + 7.66 + 8.18 + 8.78 + 9.47 = 41.29\text{ hours}$
 It will take approximately **41.3 hours** (or about 41 hours and 17 minutes) to fill the tank completely.
 
 ---
+
+## Q142PS30
+
+
+### Step 1: Define rates
+Let the rates of pipes be in **tank/hour**.
+
+- Pipe B = $b$
+- Pipe C = 25% less than B → $c = 0.75b$
+- Pipe A = $a$
+
+### Step 2: Relation between A+B and C
+“A and B together take one third the time taken by C alone.”
+That means:
+
+$\frac{1}{a+b} = \frac{1}{3} \cdot \frac{1}{c}$
+So:
+
+$a+b = 3c$
+
+### Step 3: Combined rate of all three
+All three together fill in 15 hours → rate = $\tfrac{1}{15}$.
+So:
+
+$a+b+c = \frac{1}{15}$
+
+
+
+### Step 4: Substitute relations
+From Step 2: $a+b = 3c$.
+So:
+
+$a+b+c = 3c + c = 4c$
+
+$4c = \frac{1}{15} \quad \Rightarrow \quad c = \frac{1}{60}$
+
+### Step 5: Find B and A
+- $c = \tfrac{1}{60}$
+- Since $c = 0.75b$:
+
+$b = \frac{c}{0.75} = \frac{1/60}{3/4} = \frac{1}{60} \cdot \frac{4}{3} = \frac{4}{180} = \frac{2}{90} = \frac{1}{45}$
+
+- From $a+b = 3c$:
+
+$a+b = 3 \cdot \frac{1}{60} = \frac{1}{20}$
+
+So:
+
+$a = \frac{1}{20} - \frac{1}{45}$
+
+
+
+### Step 6: Simplify $a$
+
+$a = \frac{9}{180} - \frac{4}{180} = \frac{5}{180} = \frac{1}{36}$
+
+
+### Step 7: Time for A alone
+
+$\text{Time} = \frac{1}{a} = 36 \, \text{hours}$
+
+
+
+✅ **Final Answer:**
+Pipe A alone takes **36 hours** to fill the tank completely.
+
+---
