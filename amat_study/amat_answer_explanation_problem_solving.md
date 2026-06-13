@@ -644,7 +644,7 @@ A complete circle contains a total of **$360^\circ$**.
 
 To find what fraction of the entire circle is shaded, divide the shaded angle by the total degrees in a circle:
 
-$$\text{Shaded Fraction} = \frac{60^\circ}{360^\circ} = \frac{1}{6}$$
+$\text{Shaded Fraction} = \frac{60^\circ}{360^\circ} = \frac{1}{6}$
 
 The shaded region is **$\frac{1}{6}$** of the circular region.
 
@@ -1036,5 +1036,71 @@ The mean is **0.5 greater** than the median.
 
 ---
 
+## Q139PS27
 
 
+To solve for $k$, 
+
+The given equation is:
+
+
+$(12^x)(4^{2x+1}) = (2^k)(3^2)$
+
+Since $x$ and $k$ are integers, we can solve this problem by breaking all the bases down into their prime factors ($2$ and $3$) and equating the exponents.
+
+### Step 1: Simplify the Left-Hand Side (LHS)
+
+* **Rewrite $12^x$:**
+
+$12 = 3 \times 2^2 \implies 12^x = (3 \times 2^2)^x = 3^x \times 2^{2x}$
+
+
+* **Rewrite $4^{2x+1}$:**
+
+$4 = 2^2 \implies 4^{2x+1} = (2^2)^{2x+1} = 2^{2(2x+1)} = 2^{4x+2}$
+
+
+* **Combine the terms on the LHS:**
+
+$(12^x)(4^{2x+1}) = (3^x \times 2^{2x}) \times (2^{4x+2})$
+
+
+$= 3^x \times 2^{2x + 4x + 2}$
+
+
+$= 3^x \times 2^{6x+2}$
+
+
+
+### Step 2: Equate LHS to the Right-Hand Side (RHS)
+
+Now, substitute the simplified LHS back into the equation:
+
+
+$3^x \times 2^{6x+2} = 3^2 \times 2^k$
+
+By the property of unique prime factorization, we can separately equate the exponents of the corresponding bases ($3$ and $2$):
+
+1. **For Base 3:**
+
+$x = 2$
+
+
+2. **For Base 2:**
+
+$6x + 2 = k$
+
+
+
+### Step 3: Solve for $k$
+
+Substitute $x = 2$ into the base 2 exponent equation:
+
+
+$k = 6(2) + 2$
+
+$k = 12 + 2 = 14$
+
+The value of $k$ is **$14$**.
+
+---
