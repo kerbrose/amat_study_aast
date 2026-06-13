@@ -1002,4 +1002,39 @@ $x = 3$
 
 ---
 
+## Q138PS26
+
+
+### Step 1: Arrange the set in order
+
+$S = \{0, 2, 4, 5, 8, 11\}$
+
+
+### Step 2: Find the median
+There are 6 numbers (even count).
+Median = average of the 3rd and 4th numbers.
+
+$\text{Median} = \frac{4 + 5}{2} = 4.5$
+
+
+
+### Step 3: Find the mean
+
+$\text{Mean} = \frac{0 + 2 + 4 + 5 + 8 + 11}{6}$
+
+$= \frac{30}{6} = 5$
+
+
+### Step 4: Compare mean and median
+
+$\text{Mean} - \text{Median} = 5 - 4.5 = 0.5$
+
+
+
+✅ **Final Answer:**
+The mean is **0.5 greater** than the median.
+
+---
+
+
 
