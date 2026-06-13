@@ -1104,3 +1104,31 @@ $k = 12 + 2 = 14$
 The value of $k$ is **$14$**.
 
 ---
+
+## Q140PS28
+
+### Step 1: Rug area
+Rug dimensions = $9 \, \text{ft} \times 12 \, \text{ft}$
+
+$\text{Rug Area} = 9 \times 12 = 108 \, \text{ft}^2$
+
+
+
+### Step 2: Relationship to floor area
+We’re told the rug covers **60% of the floor area**.
+So:
+
+$0.60 \times \text{Floor Area} = 108$
+
+
+
+### Step 3: Solve for floor area
+
+$\text{Floor Area} = \frac{108}{0.60} = 180 \, \text{ft}^2$
+
+
+✅ **Final Answer:**
+The area of the floor is **180 square feet**.
+
+---
+
