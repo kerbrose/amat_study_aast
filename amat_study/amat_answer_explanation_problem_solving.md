@@ -620,3 +620,35 @@ The only statement that **must** be true in 4 years is:
 ---
 
 
+## Q127PS15
+
+To find the fraction of the circular region that is shaded, we need to determine the total central angle of the shaded regions.
+
+### 1. Analyze the Angles at Center $O$
+
+* The circle's center is $O$, where two straight lines intersect to form two pairs of vertical angles.
+* Vertical angles are equal. Therefore, the unshaded angle opposite the $150^\circ$ angle is also **$150^\circ$**.
+
+### 2. Calculate the Shaded Central Angles
+
+A complete circle contains a total of **$360^\circ$**.
+
+* **Total unshaded central angle:** $150^\circ + 150^\circ = 300^\circ$
+* **Total shaded central angle:** $360^\circ - 300^\circ = 60^\circ$
+
+*(Alternatively, because the two shaded sectors are vertical angles, each individual shaded sector has an angle of $30^\circ$, combining for $60^\circ$.)*
+
+
+
+### 3. Determine the Fraction
+
+To find what fraction of the entire circle is shaded, divide the shaded angle by the total degrees in a circle:
+
+$$\text{Shaded Fraction} = \frac{60^\circ}{360^\circ} = \frac{1}{6}$$
+
+The shaded region is **$\frac{1}{6}$** of the circular region.
+
+---
+
+
+
