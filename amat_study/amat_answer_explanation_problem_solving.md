@@ -1376,3 +1376,34 @@ The average distance is closest to **$5.9 \times 10^9$ km**.
 **Correct choice: (B)**
 
 ---
+
+## Q145PS33
+
+
+### Step 1: Truck’s head start
+The truck leaves first at 40 mph.
+In 1 hour, it covers:
+
+$40 \, \text{miles}$
+
+So when the car starts, the truck is already 40 miles ahead.
+
+
+### Step 2: Relative speed
+Car speed = 60 mph
+Truck speed = 40 mph
+Relative speed = $60 - 40 = 20 \, \text{mph}$
+
+
+
+### Step 3: Time to catch up
+
+$\text{Time} = \frac{\text{Distance ahead}}{\text{Relative speed}} = \frac{40}{20} = 2 \, \text{hours}$
+
+
+
+✅ **Final Answer:**
+The car will reach the truck **2 hours after leaving the city**.
+
+---
+
