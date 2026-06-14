@@ -1669,3 +1669,25 @@ The positive difference between the averages is **0**.
 
 ---
 
+## Q152PS40
+
+We’re told that **97% of revenues are domestic** and the remaining **3% = \$450,000** is foreign.
+
+### Step 1: Express total revenues
+Let total revenues = $T$.
+
+Foreign revenues = $0.03T$.
+
+### Step 2: Solve for $T$
+
+$0.03T = 450{,}000$
+
+$T = \frac{450{,}000}{0.03} = 15{,}000{,}000$
+
+
+
+✅ **Final Answer:**
+The company’s total revenues last year were **\$15,000,000**.
+
+---
+
