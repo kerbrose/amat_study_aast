@@ -1441,3 +1441,26 @@ The expression is approximately **3**.
 
 ---
 
+## Q147PS35
+
+We want the fraction equal to the decimal $0.0625$.
+
+
+### Step 1: Recognize the decimal
+
+$0.0625 = \frac{625}{10000}$
+
+
+### Step 2: Simplify the fraction
+Divide numerator and denominator by 625:
+
+$\frac{625}{10000} = \frac{1}{16}$
+
+
+
+✅ **Final Answer:**
+The decimal $0.0625$ is equal to the fraction **$\tfrac{1}{16}$**.
+
+---
+
+
