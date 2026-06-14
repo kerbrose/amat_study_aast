@@ -1620,3 +1620,52 @@ Pump Z alone would take **12 hours** to pump out the entire tank.
 
 ---
 
+## Q151PS39
+
+### Step 1: Define the set
+Set $N$ consists of an **odd number of consecutive integers starting with 1**.
+So if $N$ has $2m+1$ elements, it looks like:
+
+$\{1, 2, 3, \dots, 2m+1\}$
+
+### Step 2: Separate odd and even integers
+- Odd integers: $1, 3, 5, \dots, 2m+1$
+- Even integers: $2, 4, 6, \dots, 2m$
+
+
+
+### Step 3: Averages of odd and even parts
+- **Average of odd integers:**
+The odd numbers form an arithmetic sequence from 1 to $2m+1$.
+Average = midpoint =
+
+$\frac{1 + (2m+1)}{2} = \frac{2m+2}{2} = m+1$
+
+- **Average of even integers:**
+The even numbers form an arithmetic sequence from 2 to $2m$.
+Average = midpoint =
+
+$\frac{2 + 2m}{2} = m+1$
+
+### Step 4: Difference
+
+$\text{Difference} = (m+1) - (m+1) = 0$
+
+
+### Example Verification
+
+Let's test this with a small odd number of consecutive integers, such as $k=5$ so $N=\{1,2,3,4,5\}$:
+
+Odd integers: $\{1,3,5\}$ ⟹ $\text{Average}=\frac{1+3+5}{3}​=\frac{9}{3}​=3$
+
+Even integers: $\{2,4\}$ ⟹ $\text{Average} = \frac{2+4}{2}​=\frac{6}{2}​=3$
+
+Difference: $∣3−3∣=0$
+
+The positive difference between the average of the odd integers and the average of the even integers in set N is always 0.
+
+✅ **Final Answer:**
+The positive difference between the averages is **0**.
+
+---
+
