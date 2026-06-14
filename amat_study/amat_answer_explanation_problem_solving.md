@@ -1827,23 +1827,55 @@ The only expression that **must be even** is:
 ## Q157PS45
 
 
-### Step 1: Tax on the first \$500  
+### Step 1: Tax on the first \$500
 $0.08 \times 500 = 40$
 
-### Step 2: Tax on the excess over \$500  
-Total value = \$720  
-Excess = $720 - 500 = 220$  
+### Step 2: Tax on the excess over \$500
+Total value = \$720
+Excess = $720 - 500 = 220$
 
 $0.15 \times 220 = 33$
 
 
 
-### Step 3: Total tax  
+### Step 3: Total tax
 $40 + 33 = 73$
 
 
-✅ **Final Answer:**  
-The tourist must pay **\$73** in tax.  
+✅ **Final Answer:**
+The tourist must pay **\$73** in tax.
+
+---
+
+## Q158PS46
+
+We’re told the sequence satisfies
+
+$a_n = a_{n-1} + 5 \quad \text{for } 2 \leq n \leq 5$
+
+and that $a_5 = 31$.
+
+
+
+### Step 1: Express terms in terms of $a_1$
+- $a_2 = a_1 + 5$
+- $a_3 = a_2 + 5 = a_1 + 10$
+- $a_4 = a_3 + 5 = a_1 + 15$
+- $a_5 = a_4 + 5 = a_1 + 20$
+
+
+### Step 2: Use given condition
+$a_5 = a_1 + 20 = 31$
+
+
+### Step 3: Solve for $a_1$
+$a_1 = 31 - 20 = 11$
+
+
+
+✅ **Final Answer:**
+$a_1 = 11$
+Correct choice: **(C)**
 
 ---
 
