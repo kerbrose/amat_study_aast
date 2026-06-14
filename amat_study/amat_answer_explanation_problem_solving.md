@@ -1320,3 +1320,32 @@ $\text{Time} = \frac{1}{a} = 36 \, \text{hours}$
 Pipe A alone takes **36 hours** to fill the tank completely.
 
 ---
+
+## Q143PS31
+
+
+### Step 1: Write the average formula  
+
+$\text{Average} = \frac{x + y + z}{3}$
+
+
+
+### Step 2: Substitute the relation  
+Since $x + y = 8z$:  
+
+$\text{Average} = \frac{8z + z}{3} = \frac{9z}{3}$
+
+
+
+### Step 3: Simplify  
+
+$\text{Average} = 3z$
+
+
+
+✅ **Final Answer:**  
+The average of $x, y, z$ in terms of $z$ is **$3z$**.  
+
+---
+
+
