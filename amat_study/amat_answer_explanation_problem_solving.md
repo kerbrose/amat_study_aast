@@ -1552,3 +1552,71 @@ $\frac{1}{1/3} = 3 \, \text{hours}$
 Three Type A machines working together will complete the order in **3 hours**.
 
 ---
+
+## Q150PS38
+
+
+### Step 1: Define the total work
+Let the **total water in the tank = 1 unit**.
+
+
+### Step 2: Pump X’s rate
+Pump X pumped out $ \tfrac{1}{4} $ of the tank in 2 hours.
+
+$\text{Rate of X} = \frac{1/4}{2} = \frac{1}{8} \, \text{tank/hour}$
+
+
+
+### Step 3: Remaining water
+After X worked alone, $ \tfrac{3}{4} $ of the tank remained.
+
+### Step 4: Joint work of X, Y, Z
+They pumped out the remaining $ \tfrac{3}{4} $ in 3 hours.
+
+$\text{Rate of (X+Y+Z)} = \frac{3/4}{3} = \frac{1}{4} \, \text{tank/hour}$
+
+So:
+
+$x + y + z = \frac{1}{4}$
+
+where $x = \tfrac{1}{8}$.
+
+
+
+### Step 5: Pump Y’s rate
+We’re told Y alone would take 18 hours to pump out the **remaining $ \tfrac{3}{4} $**.
+So:
+
+$y = \frac{3/4}{18} = \frac{1}{24} \, \text{tank/hour}$
+
+
+
+### Step 6: Solve for Z’s rate
+
+$x + y + z = \frac{1}{4}$
+
+$\frac{1}{8} + \frac{1}{24} + z = \frac{1}{4}$
+
+Find common denominator (24):
+
+$\frac{3}{24} + \frac{1}{24} + z = \frac{6}{24}$
+
+$\frac{4}{24} + z = \frac{6}{24}$
+
+$z = \frac{2}{24} = \frac{1}{12}$
+
+
+
+### Step 7: Time for Z alone
+Rate of Z = $\tfrac{1}{12}$ tank/hour.
+So time = reciprocal =
+
+$12 \, \text{hours}$
+
+
+
+✅ **Final Answer:**
+Pump Z alone would take **12 hours** to pump out the entire tank.
+
+---
+
