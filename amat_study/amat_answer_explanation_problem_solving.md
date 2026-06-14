@@ -1691,3 +1691,37 @@ The company’s total revenues last year were **\$15,000,000**.
 
 ---
 
+## Q153PS41
+
+
+### Step 1: Write the equation
+$F = \frac{9}{5}C + 32$
+
+Set $F = C$:
+
+$C = \frac{9}{5}C + 32$
+
+### Step 2: Solve for $C$
+Multiply through by 5:
+
+$5C = 9C + 160$
+
+$5C - 9C = 160$
+
+$-4C = 160$
+
+$C = -40$
+
+
+### Step 3: Verify
+At $C = -40$:
+
+$F = \frac{9}{5}(-40) + 32 = -72 + 32 = -40$
+
+Yes, $F = C$.
+
+
+✅ **Final Answer:**
+The temperature at which Fahrenheit equals Celsius is **$-40^\circ$**.
+
+---
