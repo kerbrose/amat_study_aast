@@ -1463,4 +1463,34 @@ The decimal $0.0625$ is equal to the fraction **$\tfrac{1}{16}$**.
 
 ---
 
+## Q148PS36
+
+We’re told the bacteria population **doubles every 10 minutes**, starting with $10^4$.
+
+
+
+### Step 1: Count the doubling intervals
+1 hour = 60 minutes
+
+$\frac{60}{10} = 6 \quad \text{doublings}$
+
+
+
+### Step 2: Apply exponential growth
+
+$N = N_0 \cdot 2^6$
+
+$= 2^6 \cdot 10^4$
+
+
+### Step 3: Simplify
+
+$= 64 \times 10^4 = 6.4 \times 10^5$
+
+
+
+✅ **Final Answer:**
+The number of bacteria after 1 hour is **$6.4 \times 10^5$**.
+
+---
 
