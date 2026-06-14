@@ -1320,3 +1320,408 @@ $\text{Time} = \frac{1}{a} = 36 \, \text{hours}$
 Pipe A alone takes **36 hours** to fill the tank completely.
 
 ---
+
+## Q143PS31
+
+
+### Step 1: Write the average formula
+
+$\text{Average} = \frac{x + y + z}{3}$
+
+
+
+### Step 2: Substitute the relation
+Since $x + y = 8z$:
+
+$\text{Average} = \frac{8z + z}{3} = \frac{9z}{3}$
+
+
+
+### Step 3: Simplify
+
+$\text{Average} = 3z$
+
+
+
+✅ **Final Answer:**
+The average of $x, y, z$ in terms of $z$ is **$3z$**.
+
+---
+
+## Q144PS32
+
+
+### Step 1: Given values
+- Distance = $2.3 \times 10^{14}$ inches
+- Conversion: $1 \, \text{km} \approx 3.9 \times 10^4$ inches
+
+
+### Step 2: Perform conversion
+
+$\text{Distance in km} = \frac{2.3 \times 10^{14}}{3.9 \times 10^4}$
+
+
+### Step 3: Simplify
+
+$= \frac{2.3}{3.9} \times 10^{14-4}$
+
+$= 0.59 \times 10^{10}$
+
+$= 5.9 \times 10^9 \, \text{km}$
+
+
+
+✅ **Final Answer:**
+The average distance is closest to **$5.9 \times 10^9$ km**.
+**Correct choice: (B)**
+
+---
+
+## Q145PS33
+
+
+### Step 1: Truck’s head start
+The truck leaves first at 40 mph.
+In 1 hour, it covers:
+
+$40 \, \text{miles}$
+
+So when the car starts, the truck is already 40 miles ahead.
+
+
+### Step 2: Relative speed
+Car speed = 60 mph
+Truck speed = 40 mph
+Relative speed = $60 - 40 = 20 \, \text{mph}$
+
+
+
+### Step 3: Time to catch up
+
+$\text{Time} = \frac{\text{Distance ahead}}{\text{Relative speed}} = \frac{40}{20} = 2 \, \text{hours}$
+
+
+
+✅ **Final Answer:**
+The car will reach the truck **2 hours after leaving the city**.
+
+---
+
+## Q146PS34
+
+
+$\frac{61.24 \cdot (0.998)^2}{\sqrt{403}}$
+
+
+### Step 1: Approximate $(0.998)^2$
+
+$(0.998)^2 \approx 0.996$
+
+
+### Step 2: Multiply numerator
+
+$61.24 \times 0.996 \approx 61.0$
+
+
+
+### Step 3: Approximate denominator
+
+$\sqrt{403} \approx 20.07 \quad (\text{since } 20^2 = 400)$
+
+
+### Step 4: Divide
+
+$\frac{61.0}{20.07} \approx 3.04$
+
+
+
+✅ **Final Answer:**
+The expression is approximately **3**.
+**Correct choice: (B)**
+
+---
+
+## Q147PS35
+
+We want the fraction equal to the decimal $0.0625$.
+
+
+### Step 1: Recognize the decimal
+
+$0.0625 = \frac{625}{10000}$
+
+
+### Step 2: Simplify the fraction
+Divide numerator and denominator by 625:
+
+$\frac{625}{10000} = \frac{1}{16}$
+
+
+
+✅ **Final Answer:**
+The decimal $0.0625$ is equal to the fraction **$\tfrac{1}{16}$**.
+
+---
+
+## Q148PS36
+
+We’re told the bacteria population **doubles every 10 minutes**, starting with $10^4$.
+
+
+
+### Step 1: Count the doubling intervals
+1 hour = 60 minutes
+
+$\frac{60}{10} = 6 \quad \text{doublings}$
+
+
+
+### Step 2: Apply exponential growth
+
+$N = N_0 \cdot 2^6$
+
+$= 2^6 \cdot 10^4$
+
+
+### Step 3: Simplify
+
+$= 64 \times 10^4 = 6.4 \times 10^5$
+
+
+
+✅ **Final Answer:**
+The number of bacteria after 1 hour is **$6.4 \times 10^5$**.
+
+---
+
+## Q149PS37
+
+### Step 1: Define rates
+Let the work rates (in **orders/hour**) be:
+- Type A machine = $a$
+- Type B machine = $b$
+
+
+
+### Step 2: Translate conditions
+- One A + two B finish in 6 hours → rate = $\tfrac{1}{6}$.
+
+$a + 2b = \frac{1}{6}$
+
+- Two A + one B finish in 4 hours → rate = $\tfrac{1}{4}$.
+
+$2a + b = \frac{1}{4}$
+
+
+### Step 3: Solve system of equations
+Equation (1): $a + 2b = \tfrac{1}{6}$
+
+Equation (2): $2a + b = \tfrac{1}{4}$
+
+Multiply (1) by 2:
+
+$2a + 4b = \frac{1}{3}$
+
+Subtract (2):
+
+$(2a+4b) - (2a+b) = \frac{1}{3} - \frac{1}{4}$
+
+$3b = \frac{4}{12} - \frac{3}{12} = \frac{1}{12}$
+
+$b = \frac{1}{36}$
+
+Now substitute into (2):
+
+$2a + \frac{1}{36} = \frac{1}{4}$
+
+$2a = \frac{1}{4} - \frac{1}{36} = \frac{9}{36} - \frac{1}{36} = \frac{8}{36} = \frac{2}{9}$
+
+$a = \frac{1}{9}$
+
+
+### Step 4: Time for 3 Type A machines
+Rate of 3 A = $3a = 3 \cdot \tfrac{1}{9} = \tfrac{1}{3}$.
+
+So time = reciprocal =
+
+$\frac{1}{1/3} = 3 \, \text{hours}$
+
+
+
+✅ **Final Answer:**
+Three Type A machines working together will complete the order in **3 hours**.
+
+---
+
+## Q150PS38
+
+
+### Step 1: Define the total work
+Let the **total water in the tank = 1 unit**.
+
+
+### Step 2: Pump X’s rate
+Pump X pumped out $ \tfrac{1}{4} $ of the tank in 2 hours.
+
+$\text{Rate of X} = \frac{1/4}{2} = \frac{1}{8} \, \text{tank/hour}$
+
+
+
+### Step 3: Remaining water
+After X worked alone, $ \tfrac{3}{4} $ of the tank remained.
+
+### Step 4: Joint work of X, Y, Z
+They pumped out the remaining $ \tfrac{3}{4} $ in 3 hours.
+
+$\text{Rate of (X+Y+Z)} = \frac{3/4}{3} = \frac{1}{4} \, \text{tank/hour}$
+
+So:
+
+$x + y + z = \frac{1}{4}$
+
+where $x = \tfrac{1}{8}$.
+
+
+
+### Step 5: Pump Y’s rate
+We’re told Y alone would take 18 hours to pump out the **remaining $ \tfrac{3}{4} $**.
+So:
+
+$y = \frac{3/4}{18} = \frac{1}{24} \, \text{tank/hour}$
+
+
+
+### Step 6: Solve for Z’s rate
+
+$x + y + z = \frac{1}{4}$
+
+$\frac{1}{8} + \frac{1}{24} + z = \frac{1}{4}$
+
+Find common denominator (24):
+
+$\frac{3}{24} + \frac{1}{24} + z = \frac{6}{24}$
+
+$\frac{4}{24} + z = \frac{6}{24}$
+
+$z = \frac{2}{24} = \frac{1}{12}$
+
+
+
+### Step 7: Time for Z alone
+Rate of Z = $\tfrac{1}{12}$ tank/hour.
+So time = reciprocal =
+
+$12 \, \text{hours}$
+
+
+
+✅ **Final Answer:**
+Pump Z alone would take **12 hours** to pump out the entire tank.
+
+---
+
+## Q151PS39
+
+### Step 1: Define the set
+Set $N$ consists of an **odd number of consecutive integers starting with 1**.
+So if $N$ has $2m+1$ elements, it looks like:
+
+$\{1, 2, 3, \dots, 2m+1\}$
+
+### Step 2: Separate odd and even integers
+- Odd integers: $1, 3, 5, \dots, 2m+1$
+- Even integers: $2, 4, 6, \dots, 2m$
+
+
+
+### Step 3: Averages of odd and even parts
+- **Average of odd integers:**
+The odd numbers form an arithmetic sequence from 1 to $2m+1$.
+Average = midpoint =
+
+$\frac{1 + (2m+1)}{2} = \frac{2m+2}{2} = m+1$
+
+- **Average of even integers:**
+The even numbers form an arithmetic sequence from 2 to $2m$.
+Average = midpoint =
+
+$\frac{2 + 2m}{2} = m+1$
+
+### Step 4: Difference
+
+$\text{Difference} = (m+1) - (m+1) = 0$
+
+
+### Example Verification
+
+Let's test this with a small odd number of consecutive integers, such as $k=5$ so $N=\{1,2,3,4,5\}$:
+
+Odd integers: $\{1,3,5\}$ ⟹ $\text{Average}=\frac{1+3+5}{3}​=\frac{9}{3}​=3$
+
+Even integers: $\{2,4\}$ ⟹ $\text{Average} = \frac{2+4}{2}​=\frac{6}{2}​=3$
+
+Difference: $∣3−3∣=0$
+
+The positive difference between the average of the odd integers and the average of the even integers in set N is always 0.
+
+✅ **Final Answer:**
+The positive difference between the averages is **0**.
+
+---
+
+## Q152PS40
+
+We’re told that **97% of revenues are domestic** and the remaining **3% = \$450,000** is foreign.
+
+### Step 1: Express total revenues
+Let total revenues = $T$.
+
+Foreign revenues = $0.03T$.
+
+### Step 2: Solve for $T$
+
+$0.03T = 450{,}000$
+
+$T = \frac{450{,}000}{0.03} = 15{,}000{,}000$
+
+
+
+✅ **Final Answer:**
+The company’s total revenues last year were **\$15,000,000**.
+
+---
+
+## Q153PS41
+
+
+### Step 1: Write the equation
+$F = \frac{9}{5}C + 32$
+
+Set $F = C$:
+
+$C = \frac{9}{5}C + 32$
+
+### Step 2: Solve for $C$
+Multiply through by 5:
+
+$5C = 9C + 160$
+
+$5C - 9C = 160$
+
+$-4C = 160$
+
+$C = -40$
+
+
+### Step 3: Verify
+At $C = -40$:
+
+$F = \frac{9}{5}(-40) + 32 = -72 + 32 = -40$
+
+Yes, $F = C$.
+
+
+✅ **Final Answer:**
+The temperature at which Fahrenheit equals Celsius is **$-40^\circ$**.
+
+---
