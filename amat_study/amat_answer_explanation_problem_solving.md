@@ -1407,3 +1407,37 @@ The car will reach the truck **2 hours after leaving the city**.
 
 ---
 
+## Q146PS34
+
+
+$\frac{61.24 \cdot (0.998)^2}{\sqrt{403}}$
+
+
+### Step 1: Approximate $(0.998)^2$
+
+$(0.998)^2 \approx 0.996$
+
+
+### Step 2: Multiply numerator
+
+$61.24 \times 0.996 \approx 61.0$
+
+
+
+### Step 3: Approximate denominator
+
+$\sqrt{403} \approx 20.07 \quad (\text{since } 20^2 = 400)$
+
+
+### Step 4: Divide
+
+$\frac{61.0}{20.07} \approx 3.04$
+
+
+
+✅ **Final Answer:**
+The expression is approximately **3**.
+**Correct choice: (B)**
+
+---
+
