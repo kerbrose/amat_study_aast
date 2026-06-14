@@ -1749,3 +1749,39 @@ $300 + 362 = 662$
 Craig’s total commissions for that week were **\$662**.
 
 ---
+
+## Q155PS43
+
+### Step 1: Define rates
+Each printer’s rate (jobs/hour):
+- Printer X: $ \tfrac{1}{12} $
+- Printer Y: $ \tfrac{1}{15} $
+- Printer Z: $ \tfrac{1}{18} $
+
+
+### Step 2: Combined rate of Y and Z
+$\frac{1}{15} + \frac{1}{18}$
+
+Find common denominator (90):
+
+$\frac{6}{90} + \frac{5}{90} = \frac{11}{90}$
+
+So Y+Z rate = $ \tfrac{11}{90} $.
+
+
+
+### Step 3: Time for Y+Z together
+$\text{Time} = \frac{1}{11/90} = \frac{90}{11} \approx 8.18 \, \text{hours}$
+
+### Step 4: Time for X alone
+$\text{Time} = \frac{1}{1/12} = 12 \, \text{hours}$
+
+### Step 5: Ratio
+$\frac{\text{Time of X}}{\text{Time of Y+Z}} = \frac{12}{90/11} = \frac{12 \cdot 11}{90} = \frac{132}{90} = \frac{22}{15}$
+
+
+✅ **Final Answer:**
+The ratio is **22:15**.
+
+---
+
