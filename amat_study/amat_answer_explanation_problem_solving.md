@@ -1324,28 +1324,55 @@ Pipe A alone takes **36 hours** to fill the tank completely.
 ## Q143PS31
 
 
-### Step 1: Write the average formula  
+### Step 1: Write the average formula
 
 $\text{Average} = \frac{x + y + z}{3}$
 
 
 
-### Step 2: Substitute the relation  
-Since $x + y = 8z$:  
+### Step 2: Substitute the relation
+Since $x + y = 8z$:
 
 $\text{Average} = \frac{8z + z}{3} = \frac{9z}{3}$
 
 
 
-### Step 3: Simplify  
+### Step 3: Simplify
 
 $\text{Average} = 3z$
 
 
 
-✅ **Final Answer:**  
-The average of $x, y, z$ in terms of $z$ is **$3z$**.  
+✅ **Final Answer:**
+The average of $x, y, z$ in terms of $z$ is **$3z$**.
 
 ---
 
+## Q144PS32
 
+
+### Step 1: Given values
+- Distance = $2.3 \times 10^{14}$ inches
+- Conversion: $1 \, \text{km} \approx 3.9 \times 10^4$ inches
+
+
+### Step 2: Perform conversion
+
+$\text{Distance in km} = \frac{2.3 \times 10^{14}}{3.9 \times 10^4}$
+
+
+### Step 3: Simplify
+
+$= \frac{2.3}{3.9} \times 10^{14-4}$
+
+$= 0.59 \times 10^{10}$
+
+$= 5.9 \times 10^9 \, \text{km}$
+
+
+
+✅ **Final Answer:**
+The average distance is closest to **$5.9 \times 10^9$ km**.
+**Correct choice: (B)**
+
+---
