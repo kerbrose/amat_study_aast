@@ -1725,3 +1725,27 @@ Yes, $F = C$.
 The temperature at which Fahrenheit equals Celsius is **$-40^\circ$**.
 
 ---
+
+## Q154PS42
+
+### Step 1: Commission structure
+For each appliance:
+- Fixed commission = \$50
+- Plus 10% of selling price
+
+### Step 2: Fixed commission for 6 appliances
+$6 \times 50 = 300$
+
+### Step 3: Percentage commission
+Total selling prices = \$3,620
+
+10% of that = $0.10 \times 3620 = 362$
+
+
+### Step 4: Total commission
+$300 + 362 = 662$
+
+✅ **Final Answer:**
+Craig’s total commissions for that week were **\$662**.
+
+---
