@@ -1494,3 +1494,61 @@ The number of bacteria after 1 hour is **$6.4 \times 10^5$**.
 
 ---
 
+## Q149PS37
+
+### Step 1: Define rates
+Let the work rates (in **orders/hour**) be:
+- Type A machine = $a$
+- Type B machine = $b$
+
+
+
+### Step 2: Translate conditions
+- One A + two B finish in 6 hours → rate = $\tfrac{1}{6}$.
+
+$a + 2b = \frac{1}{6}$
+
+- Two A + one B finish in 4 hours → rate = $\tfrac{1}{4}$.
+
+$2a + b = \frac{1}{4}$
+
+
+### Step 3: Solve system of equations
+Equation (1): $a + 2b = \tfrac{1}{6}$
+
+Equation (2): $2a + b = \tfrac{1}{4}$
+
+Multiply (1) by 2:
+
+$2a + 4b = \frac{1}{3}$
+
+Subtract (2):
+
+$(2a+4b) - (2a+b) = \frac{1}{3} - \frac{1}{4}$
+
+$3b = \frac{4}{12} - \frac{3}{12} = \frac{1}{12}$
+
+$b = \frac{1}{36}$
+
+Now substitute into (2):
+
+$2a + \frac{1}{36} = \frac{1}{4}$
+
+$2a = \frac{1}{4} - \frac{1}{36} = \frac{9}{36} - \frac{1}{36} = \frac{8}{36} = \frac{2}{9}$
+
+$a = \frac{1}{9}$
+
+
+### Step 4: Time for 3 Type A machines
+Rate of 3 A = $3a = 3 \cdot \tfrac{1}{9} = \tfrac{1}{3}$.
+
+So time = reciprocal =
+
+$\frac{1}{1/3} = 3 \, \text{hours}$
+
+
+
+✅ **Final Answer:**
+Three Type A machines working together will complete the order in **3 hours**.
+
+---
