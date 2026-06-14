@@ -1824,3 +1824,27 @@ The only expression that **must be even** is:
 
 ---
 
+## Q157PS45
+
+
+### Step 1: Tax on the first \$500  
+$0.08 \times 500 = 40$
+
+### Step 2: Tax on the excess over \$500  
+Total value = \$720  
+Excess = $720 - 500 = 220$  
+
+$0.15 \times 220 = 33$
+
+
+
+### Step 3: Total tax  
+$40 + 33 = 73$
+
+
+✅ **Final Answer:**  
+The tourist must pay **\$73** in tax.  
+
+---
+
+
