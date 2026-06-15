@@ -1910,3 +1910,47 @@ Only **one** value of $k$ works.
 ✅ Correct choice: **(A) one**
 ---
 
+## Q160PS48
+
+
+### Step 1: Define variables
+Let the garden have **length = L** and **width = W**.
+We know:
+- Perimeter = $2(L + W) = 34 \implies L + W = 17$.
+- Area = $L \cdot W = 60$.
+
+
+### Step 2: Use substitution
+From $L + W = 17$, we can write $W = 17 - L$.
+
+Plug into area:
+
+$L(17 - L) = 60$
+
+$17L - L^2 = 60$
+
+$L^2 - 17L + 60 = 0$
+
+
+
+### Step 3: Solve quadratic
+$L^2 - 17L + 60 = 0$
+
+Factor:
+
+$(L - 12)(L - 5) = 0$
+
+So $L = 12$ or $L = 5$.
+
+
+### Step 4: Identify longer side
+If $L = 12$, then $W = 5$.
+If $L = 5$, then $W = 12$.
+
+So the longer side is **12 ft**.
+
+
+✅ Correct answer: **(D) 12 ft**
+
+---
+
