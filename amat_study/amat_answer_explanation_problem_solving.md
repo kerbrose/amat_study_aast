@@ -2165,3 +2165,35 @@ $x = \frac{36}{0.8} = 45$
 ✅ Correct choice: **(B) 45**
 
 ---
+
+## Q170PS58
+
+We’re solving the system:
+
+$2x + 2y = -4 \quad (1)$
+
+$4x + y = 1 \quad (2)$
+
+### Step 1: Simplify equation (1)
+$2x + 2y = -4 \quad \Rightarrow \quad x + y = -2$
+
+So:
+
+$y = -2 - x$
+
+### Step 2: Substitute into equation (2)
+$4x + (-2 - x) = 1$
+
+$4x - 2 - x = 1$
+
+$3x - 2 = 1$
+
+$3x = 3$
+
+$x = 1$
+
+### Step 3: Answer
+✅ Correct choice: **(D) 1**
+
+---
+
