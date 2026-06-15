@@ -1954,3 +1954,36 @@ So the longer side is **12 ft**.
 
 ---
 
+## Q161PS49
+
+### Step 1: Successive discounts formula  
+When you apply successive discounts, you multiply the remaining percentages.  
+
+- First discount: $10\%$ → price becomes $90\%$ of original = $0.90$.  
+- Second discount: another $10\%$ → price becomes $90\%$ of reduced price = $0.90 \times 0.90 = 0.81$.  
+
+So the final price is **81% of the original**.
+
+
+
+### Step 2: Equivalent single discount  
+If the final price is 81% of the original, then the total discount is:  
+$100\% - 81\% = 19\%$
+
+✅ The series of successive 10% discounts is equivalent to a **single discount of 19%**.
+
+
+- First discount of 10% → price becomes $90\%$ of original.  
+- Second discount of 10% → price becomes $90\%$ of that reduced price.  
+
+$0.90 \times 0.90 = 0.81$
+
+So the final price is **81% of the original**, meaning the total discount is:  
+
+$100\% - 81\% = 19\%$
+
+
+
+✅ Correct choice: **(B) 19%**  
+
+---
