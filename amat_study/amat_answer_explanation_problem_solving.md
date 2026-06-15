@@ -2144,3 +2144,24 @@ $\frac{2}{3} \times \frac{15}{8} = \frac{30}{24} = \frac{5}{4} \, \text{hours}$
 ✅ Correct choice: **(C) $\tfrac{5}{4}$ hr**
 
 ---
+
+## Q169PS57
+
+We’re asked to solve for the age $x$ when the maximum recommended pulse rate is 140, given:
+
+$R = 176 - 0.8x$
+
+### Step 1: Plug in the given pulse rate
+$140 = 176 - 0.8x$
+
+### Step 2: Solve for $x$
+$0.8x = 176 - 140$
+
+$0.8x = 36$
+
+$x = \frac{36}{0.8} = 45$
+
+### Step 3: Answer
+✅ Correct choice: **(B) 45**
+
+---
