@@ -1987,3 +1987,26 @@ $100\% - 81\% = 19\%$
 ✅ Correct choice: **(B) 19%**  
 
 ---
+
+## Q162PS50
+
+
+### Step 1: Define rates  
+- Machine A fills the lot in 5 hours → rate = $\tfrac{1}{5}$ lot/hour.  
+- Machine B fills the lot in $x$ hours → rate = $\tfrac{1}{x}$ lot/hour.  
+- Together they fill in 2 hours → combined rate = $\tfrac{1}{2}$ lot/hour.
+
+### Step 2: Set up equation  
+$\frac{1}{5} + \frac{1}{x} = \frac{1}{2}$
+
+### Step 3: Solve for $x$  
+$\frac{1}{x} = \frac{1}{2} - \frac{1}{5}$  
+
+$\frac{1}{x} = \frac{5}{10} - \frac{2}{10} = \frac{3}{10}$  
+
+$x = \frac{10}{3} = 3 \tfrac{1}{3}$
+
+### Step 4: Answer  
+✅ Correct choice: **(A) $3 \tfrac{1}{3}$**  
+
+---
