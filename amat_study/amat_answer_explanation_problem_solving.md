@@ -2083,3 +2083,25 @@ $150{,}000 + 157{,}500 = 307{,}500 \, \text{m}^2$
 ✅ Correct choice: **(B) 307,500**
 
 ---
+
+## Q166PS54
+
+We’re asked to solve:
+
+$\frac{x}{4} \text{ is 2 more than } \frac{x}{8}.$
+
+
+### Step 1: Write the equation
+$\frac{x}{4} = \frac{x}{8} + 2$
+
+### Step 2: Eliminate denominators
+Multiply through by 8:
+
+$2x = x + 16$
+
+### Step 3: Solve for \(x\)
+$2x - x = 16 \quad \implies \quad x = 16$
+
+✅ Correct choice: **(C) 16**
+
+---
