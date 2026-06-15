@@ -2099,9 +2099,24 @@ Multiply through by 8:
 
 $2x = x + 16$
 
-### Step 3: Solve for \(x\)
+### Step 3: Solve for $x$
 $2x - x = 16 \quad \implies \quad x = 16$
 
 ✅ Correct choice: **(C) 16**
+
+---
+
+## Q167PS55
+
+### Step 1: Recall circle basics
+A circle has **360° total**.
+Each item’s angle = $\text{percentage} \times 360^\circ$.
+
+
+### Step 2: Apply percentage
+$15\% \times 360^\circ = 0.15 \times 360 = 54^\circ$
+
+### Step 3: Answer
+✅ Correct choice: **(C) 54°**
 
 ---
