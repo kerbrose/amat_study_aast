@@ -1879,4 +1879,34 @@ Correct choice: **(C)**
 
 ---
 
+## Q159PS47
+
+We need to check whether a triangle with sides $2, 7, k$ can exist for integer values of $k$ where $2 < k < 7$.
+
+### Step 1: Triangle inequality conditions
+For three sides $a, b, c$, the triangle inequality requires:
+1. $a + b > c$
+2. $a + c > b$
+3. $b + c > a$
+
+Here, $a = 2$, $b = 7$, $c = k$.
+
+### Step 2: Apply inequalities
+1. $2 + 7 > k \implies 9 > k \implies k < 9$. Since $k < 7$ already, this condition is always satisfied.
+
+2. $2 + k > 7 \implies k > 5$.
+
+3. $7 + k > 2 \implies k > -5$. Always true since $k > 2$.
+
+### Step 3: Combine conditions
+- From inequality (2): $k > 5$.
+- From the problem: $2 < k < 7$.
+
+So valid integer values are $k = 6$.
+
+### Step 4: Answer
+Only **one** value of $k$ works.
+
+✅ Correct choice: **(A) one**
+---
 
