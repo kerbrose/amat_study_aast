@@ -1956,57 +1956,83 @@ So the longer side is **12 ft**.
 
 ## Q161PS49
 
-### Step 1: Successive discounts formula  
-When you apply successive discounts, you multiply the remaining percentages.  
+### Step 1: Successive discounts formula
+When you apply successive discounts, you multiply the remaining percentages.
 
-- First discount: $10\%$ → price becomes $90\%$ of original = $0.90$.  
-- Second discount: another $10\%$ → price becomes $90\%$ of reduced price = $0.90 \times 0.90 = 0.81$.  
+- First discount: $10\%$ → price becomes $90\%$ of original = $0.90$.
+- Second discount: another $10\%$ → price becomes $90\%$ of reduced price = $0.90 \times 0.90 = 0.81$.
 
 So the final price is **81% of the original**.
 
 
 
-### Step 2: Equivalent single discount  
-If the final price is 81% of the original, then the total discount is:  
+### Step 2: Equivalent single discount
+If the final price is 81% of the original, then the total discount is:
 $100\% - 81\% = 19\%$
 
 ✅ The series of successive 10% discounts is equivalent to a **single discount of 19%**.
 
 
-- First discount of 10% → price becomes $90\%$ of original.  
-- Second discount of 10% → price becomes $90\%$ of that reduced price.  
+- First discount of 10% → price becomes $90\%$ of original.
+- Second discount of 10% → price becomes $90\%$ of that reduced price.
 
 $0.90 \times 0.90 = 0.81$
 
-So the final price is **81% of the original**, meaning the total discount is:  
+So the final price is **81% of the original**, meaning the total discount is:
 
 $100\% - 81\% = 19\%$
 
 
 
-✅ Correct choice: **(B) 19%**  
+✅ Correct choice: **(B) 19%**
 
 ---
 
 ## Q162PS50
 
 
-### Step 1: Define rates  
-- Machine A fills the lot in 5 hours → rate = $\tfrac{1}{5}$ lot/hour.  
-- Machine B fills the lot in $x$ hours → rate = $\tfrac{1}{x}$ lot/hour.  
+### Step 1: Define rates
+- Machine A fills the lot in 5 hours → rate = $\tfrac{1}{5}$ lot/hour.
+- Machine B fills the lot in $x$ hours → rate = $\tfrac{1}{x}$ lot/hour.
 - Together they fill in 2 hours → combined rate = $\tfrac{1}{2}$ lot/hour.
 
-### Step 2: Set up equation  
+### Step 2: Set up equation
 $\frac{1}{5} + \frac{1}{x} = \frac{1}{2}$
 
-### Step 3: Solve for $x$  
-$\frac{1}{x} = \frac{1}{2} - \frac{1}{5}$  
+### Step 3: Solve for $x$
+$\frac{1}{x} = \frac{1}{2} - \frac{1}{5}$
 
-$\frac{1}{x} = \frac{5}{10} - \frac{2}{10} = \frac{3}{10}$  
+$\frac{1}{x} = \frac{5}{10} - \frac{2}{10} = \frac{3}{10}$
 
 $x = \frac{10}{3} = 3 \tfrac{1}{3}$
 
-### Step 4: Answer  
-✅ Correct choice: **(A) $3 \tfrac{1}{3}$**  
+### Step 4: Answer
+✅ Correct choice: **(A) $3 \tfrac{1}{3}$**
 
 ---
+
+## Q163PS51
+
+### Step 1: Translate the wording
+The problem says the rate this year is **11%**, which is **10 percent higher than last year’s rate**.
+
+Important: “increased by 10 percent” means **multiplied by 1.10**, not “plus 10 percentage points.”
+
+### Step 2: Set up equation
+Let last year’s rate = $r$.
+This year’s rate = $r \times 1.10$.
+
+We’re told this year’s rate = 11%.
+
+$1.10r = 11$
+
+
+### Step 3: Solve
+$r = \frac{11}{1.10} = 10$
+
+So last year’s rate was **10%**.
+
+✅ Correct choice: **(D) 10%**
+
+---
+
