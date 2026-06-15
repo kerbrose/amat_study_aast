@@ -1725,3 +1725,475 @@ Yes, $F = C$.
 The temperature at which Fahrenheit equals Celsius is **$-40^\circ$**.
 
 ---
+
+## Q154PS42
+
+### Step 1: Commission structure
+For each appliance:
+- Fixed commission = \$50
+- Plus 10% of selling price
+
+### Step 2: Fixed commission for 6 appliances
+$6 \times 50 = 300$
+
+### Step 3: Percentage commission
+Total selling prices = \$3,620
+
+10% of that = $0.10 \times 3620 = 362$
+
+
+### Step 4: Total commission
+$300 + 362 = 662$
+
+✅ **Final Answer:**
+Craig’s total commissions for that week were **\$662**.
+
+---
+
+## Q155PS43
+
+### Step 1: Define rates
+Each printer’s rate (jobs/hour):
+- Printer X: $ \tfrac{1}{12} $
+- Printer Y: $ \tfrac{1}{15} $
+- Printer Z: $ \tfrac{1}{18} $
+
+
+### Step 2: Combined rate of Y and Z
+$\frac{1}{15} + \frac{1}{18}$
+
+Find common denominator (90):
+
+$\frac{6}{90} + \frac{5}{90} = \frac{11}{90}$
+
+So Y+Z rate = $ \tfrac{11}{90} $.
+
+
+
+### Step 3: Time for Y+Z together
+$\text{Time} = \frac{1}{11/90} = \frac{90}{11} \approx 8.18 \, \text{hours}$
+
+### Step 4: Time for X alone
+$\text{Time} = \frac{1}{1/12} = 12 \, \text{hours}$
+
+### Step 5: Ratio
+$\frac{\text{Time of X}}{\text{Time of Y+Z}} = \frac{12}{90/11} = \frac{12 \cdot 11}{90} = \frac{132}{90} = \frac{22}{15}$
+
+
+✅ **Final Answer:**
+The ratio is **22:15**.
+
+---
+
+## Q156PS44
+
+### Step 1: Condition
+We’re told **x and y are positive integers, not both odd**.
+So at least one of them is even.
+
+### Step 2: Check each option
+
+**(A) $xy$**
+- If one is even, the product is even.
+- ✅ Always even.
+
+**(B) $x+y$**
+- Example: $x=2, y=2$ → sum = 4 (even).
+- But if $x=2, y=3$ → sum = 5 (odd).
+- ❌ Not always even.
+
+**(C) $x-y$**
+- Example: $x=2, y=2$ → difference = 0 (even).
+- But $x=2, y=3$ → difference = -1 (odd).
+- ❌ Not always even.
+
+**(D) $x+y-1$**
+- Example: $x=2, y=2$ → 3 (odd).
+- ❌ Not always even.
+
+**(E) $2(x+y)-1$**
+- Always odd (since $2(x+y)$ is even, subtracting 1 makes it odd).
+- ❌ Not even.
+
+
+
+### Step 3: Conclusion
+The only expression that **must be even** is:
+
+✅ **Answer: (A) $xy$**
+
+---
+
+## Q157PS45
+
+
+### Step 1: Tax on the first \$500
+$0.08 \times 500 = 40$
+
+### Step 2: Tax on the excess over \$500
+Total value = \$720
+Excess = $720 - 500 = 220$
+
+$0.15 \times 220 = 33$
+
+
+
+### Step 3: Total tax
+$40 + 33 = 73$
+
+
+✅ **Final Answer:**
+The tourist must pay **\$73** in tax.
+
+---
+
+## Q158PS46
+
+We’re told the sequence satisfies
+
+$a_n = a_{n-1} + 5 \quad \text{for } 2 \leq n \leq 5$
+
+and that $a_5 = 31$.
+
+
+
+### Step 1: Express terms in terms of $a_1$
+- $a_2 = a_1 + 5$
+- $a_3 = a_2 + 5 = a_1 + 10$
+- $a_4 = a_3 + 5 = a_1 + 15$
+- $a_5 = a_4 + 5 = a_1 + 20$
+
+
+### Step 2: Use given condition
+$a_5 = a_1 + 20 = 31$
+
+
+### Step 3: Solve for $a_1$
+$a_1 = 31 - 20 = 11$
+
+
+
+✅ **Final Answer:**
+$a_1 = 11$
+Correct choice: **(C)**
+
+---
+
+## Q159PS47
+
+We need to check whether a triangle with sides $2, 7, k$ can exist for integer values of $k$ where $2 < k < 7$.
+
+### Step 1: Triangle inequality conditions
+For three sides $a, b, c$, the triangle inequality requires:
+1. $a + b > c$
+2. $a + c > b$
+3. $b + c > a$
+
+Here, $a = 2$, $b = 7$, $c = k$.
+
+### Step 2: Apply inequalities
+1. $2 + 7 > k \implies 9 > k \implies k < 9$. Since $k < 7$ already, this condition is always satisfied.
+
+2. $2 + k > 7 \implies k > 5$.
+
+3. $7 + k > 2 \implies k > -5$. Always true since $k > 2$.
+
+### Step 3: Combine conditions
+- From inequality (2): $k > 5$.
+- From the problem: $2 < k < 7$.
+
+So valid integer values are $k = 6$.
+
+### Step 4: Answer
+Only **one** value of $k$ works.
+
+✅ Correct choice: **(A) one**
+---
+
+## Q160PS48
+
+
+### Step 1: Define variables
+Let the garden have **length = L** and **width = W**.
+We know:
+- Perimeter = $2(L + W) = 34 \implies L + W = 17$.
+- Area = $L \cdot W = 60$.
+
+
+### Step 2: Use substitution
+From $L + W = 17$, we can write $W = 17 - L$.
+
+Plug into area:
+
+$L(17 - L) = 60$
+
+$17L - L^2 = 60$
+
+$L^2 - 17L + 60 = 0$
+
+
+
+### Step 3: Solve quadratic
+$L^2 - 17L + 60 = 0$
+
+Factor:
+
+$(L - 12)(L - 5) = 0$
+
+So $L = 12$ or $L = 5$.
+
+
+### Step 4: Identify longer side
+If $L = 12$, then $W = 5$.
+If $L = 5$, then $W = 12$.
+
+So the longer side is **12 ft**.
+
+
+✅ Correct answer: **(D) 12 ft**
+
+---
+
+## Q161PS49
+
+### Step 1: Successive discounts formula
+When you apply successive discounts, you multiply the remaining percentages.
+
+- First discount: $10\%$ → price becomes $90\%$ of original = $0.90$.
+- Second discount: another $10\%$ → price becomes $90\%$ of reduced price = $0.90 \times 0.90 = 0.81$.
+
+So the final price is **81% of the original**.
+
+
+
+### Step 2: Equivalent single discount
+If the final price is 81% of the original, then the total discount is:
+$100\% - 81\% = 19\%$
+
+✅ The series of successive 10% discounts is equivalent to a **single discount of 19%**.
+
+
+- First discount of 10% → price becomes $90\%$ of original.
+- Second discount of 10% → price becomes $90\%$ of that reduced price.
+
+$0.90 \times 0.90 = 0.81$
+
+So the final price is **81% of the original**, meaning the total discount is:
+
+$100\% - 81\% = 19\%$
+
+
+
+✅ Correct choice: **(B) 19%**
+
+---
+
+## Q162PS50
+
+
+### Step 1: Define rates
+- Machine A fills the lot in 5 hours → rate = $\tfrac{1}{5}$ lot/hour.
+- Machine B fills the lot in $x$ hours → rate = $\tfrac{1}{x}$ lot/hour.
+- Together they fill in 2 hours → combined rate = $\tfrac{1}{2}$ lot/hour.
+
+### Step 2: Set up equation
+$\frac{1}{5} + \frac{1}{x} = \frac{1}{2}$
+
+### Step 3: Solve for $x$
+$\frac{1}{x} = \frac{1}{2} - \frac{1}{5}$
+
+$\frac{1}{x} = \frac{5}{10} - \frac{2}{10} = \frac{3}{10}$
+
+$x = \frac{10}{3} = 3 \tfrac{1}{3}$
+
+### Step 4: Answer
+✅ Correct choice: **(A) $3 \tfrac{1}{3}$**
+
+---
+
+## Q163PS51
+
+### Step 1: Translate the wording
+The problem says the rate this year is **11%**, which is **10 percent higher than last year’s rate**.
+
+Important: “increased by 10 percent” means **multiplied by 1.10**, not “plus 10 percentage points.”
+
+### Step 2: Set up equation
+Let last year’s rate = $r$.
+This year’s rate = $r \times 1.10$.
+
+We’re told this year’s rate = 11%.
+
+$1.10r = 11$
+
+
+### Step 3: Solve
+$r = \frac{11}{1.10} = 10$
+
+So last year’s rate was **10%**.
+
+✅ Correct choice: **(D) 10%**
+
+---
+
+## Q164PS52
+
+
+### Step 1: Define tank capacity
+Let the full capacity of the tank = $C$ gallons.
+
+Initially, it’s filled to $\tfrac{3}{4}C$.
+After adding 4,000 gallons, it’s at $\tfrac{4}{5}C$.
+
+
+### Step 2: Set up equation
+$\frac{3}{4}C + 4000 = \frac{4}{5}C$
+
+### Step 3: Solve for $C$
+Multiply through by 20 to clear denominators:
+$15C + 80{,}000 = 16C$
+
+$16C - 15C = 80{,}000$
+
+$C = 80{,}000$
+
+### Step 4: Answer
+The tank holds **80,000 gallons** when full.
+
+✅ Correct choice: **(E) 80,000**
+
+---
+
+## Q165PS53
+
+### Step 1: Area of first tract
+Dimensions: $300 \, \text{m} \times 500 \, \text{m}$
+
+$300 \times 500 = 150{,}000 \, \text{m}^2$
+
+
+### Step 2: Area of second tract
+Dimensions: $250 \, \text{m} \times 630 \, \text{m}$
+
+$250 \times 630 = 157{,}500 \, \text{m}^2$
+
+### Step 3: Combined area
+$150{,}000 + 157{,}500 = 307{,}500 \, \text{m}^2$
+
+✅ Correct choice: **(B) 307,500**
+
+---
+
+## Q166PS54
+
+We’re asked to solve:
+
+$\frac{x}{4} \text{ is 2 more than } \frac{x}{8}.$
+
+
+### Step 1: Write the equation
+$\frac{x}{4} = \frac{x}{8} + 2$
+
+### Step 2: Eliminate denominators
+Multiply through by 8:
+
+$2x = x + 16$
+
+### Step 3: Solve for $x$
+$2x - x = 16 \quad \implies \quad x = 16$
+
+✅ Correct choice: **(C) 16**
+
+---
+
+## Q167PS55
+
+### Step 1: Recall circle basics
+A circle has **360° total**.
+Each item’s angle = $\text{percentage} \times 360^\circ$.
+
+
+### Step 2: Apply percentage
+$15\% \times 360^\circ = 0.15 \times 360 = 54^\circ$
+
+### Step 3: Answer
+✅ Correct choice: **(C) 54°**
+
+---
+
+## Q168PS56
+
+### Step 1: Work rates
+- Pipe 1 fills the tank in 5 hours → rate = $\tfrac{1}{5}$ tank/hour.
+- Pipe 2 fills the tank in 3 hours → rate = $\tfrac{1}{3}$ tank/hour.
+
+Together:
+
+$\frac{1}{5} + \frac{1}{3} = \frac{3}{15} + \frac{5}{15} = \frac{8}{15} \text{ tank/hour}$
+
+
+### Step 2: Time to fill $\tfrac{2}{3}$ of the tank
+$\text{Time} = \frac{\text{Work}}{\text{Rate}} = \frac{\tfrac{2}{3}}{\tfrac{8}{15}}$
+
+Simplify:
+
+$\frac{2}{3} \times \frac{15}{8} = \frac{30}{24} = \frac{5}{4} \, \text{hours}$
+
+
+### Step 3: Answer
+✅ Correct choice: **(C) $\tfrac{5}{4}$ hr**
+
+---
+
+## Q169PS57
+
+We’re asked to solve for the age $x$ when the maximum recommended pulse rate is 140, given:
+
+$R = 176 - 0.8x$
+
+### Step 1: Plug in the given pulse rate
+$140 = 176 - 0.8x$
+
+### Step 2: Solve for $x$
+$0.8x = 176 - 140$
+
+$0.8x = 36$
+
+$x = \frac{36}{0.8} = 45$
+
+### Step 3: Answer
+✅ Correct choice: **(B) 45**
+
+---
+
+## Q170PS58
+
+We’re solving the system:
+
+$2x + 2y = -4 \quad (1)$
+
+$4x + y = 1 \quad (2)$
+
+### Step 1: Simplify equation (1)
+$2x + 2y = -4 \quad \Rightarrow \quad x + y = -2$
+
+So:
+
+$y = -2 - x$
+
+### Step 2: Substitute into equation (2)
+$4x + (-2 - x) = 1$
+
+$4x - 2 - x = 1$
+
+$3x - 2 = 1$
+
+$3x = 3$
+
+$x = 1$
+
+### Step 3: Answer
+✅ Correct choice: **(D) 1**
+
+---
+
