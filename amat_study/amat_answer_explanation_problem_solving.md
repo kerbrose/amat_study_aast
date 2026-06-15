@@ -2036,3 +2036,31 @@ So last year’s rate was **10%**.
 
 ---
 
+## Q164PS52
+
+
+### Step 1: Define tank capacity  
+Let the full capacity of the tank = $C$ gallons.  
+
+Initially, it’s filled to $\tfrac{3}{4}C$.  
+After adding 4,000 gallons, it’s at $\tfrac{4}{5}C$.
+
+
+### Step 2: Set up equation  
+$\frac{3}{4}C + 4000 = \frac{4}{5}C$
+
+### Step 3: Solve for $C$  
+Multiply through by 20 to clear denominators:  
+$15C + 80{,}000 = 16C$  
+
+$16C - 15C = 80{,}000$  
+
+$C = 80{,}000$
+
+### Step 4: Answer  
+The tank holds **80,000 gallons** when full.  
+
+✅ Correct choice: **(E) 80,000**
+
+---
+
