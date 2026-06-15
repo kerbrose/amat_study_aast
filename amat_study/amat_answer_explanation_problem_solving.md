@@ -2039,28 +2039,47 @@ So last year’s rate was **10%**.
 ## Q164PS52
 
 
-### Step 1: Define tank capacity  
-Let the full capacity of the tank = $C$ gallons.  
+### Step 1: Define tank capacity
+Let the full capacity of the tank = $C$ gallons.
 
-Initially, it’s filled to $\tfrac{3}{4}C$.  
+Initially, it’s filled to $\tfrac{3}{4}C$.
 After adding 4,000 gallons, it’s at $\tfrac{4}{5}C$.
 
 
-### Step 2: Set up equation  
+### Step 2: Set up equation
 $\frac{3}{4}C + 4000 = \frac{4}{5}C$
 
-### Step 3: Solve for $C$  
-Multiply through by 20 to clear denominators:  
-$15C + 80{,}000 = 16C$  
+### Step 3: Solve for $C$
+Multiply through by 20 to clear denominators:
+$15C + 80{,}000 = 16C$
 
-$16C - 15C = 80{,}000$  
+$16C - 15C = 80{,}000$
 
 $C = 80{,}000$
 
-### Step 4: Answer  
-The tank holds **80,000 gallons** when full.  
+### Step 4: Answer
+The tank holds **80,000 gallons** when full.
 
 ✅ Correct choice: **(E) 80,000**
 
 ---
 
+## Q165PS53
+
+### Step 1: Area of first tract
+Dimensions: $300 \, \text{m} \times 500 \, \text{m}$
+
+$300 \times 500 = 150{,}000 \, \text{m}^2$
+
+
+### Step 2: Area of second tract
+Dimensions: $250 \, \text{m} \times 630 \, \text{m}$
+
+$250 \times 630 = 157{,}500 \, \text{m}^2$
+
+### Step 3: Combined area
+$150{,}000 + 157{,}500 = 307{,}500 \, \text{m}^2$
+
+✅ Correct choice: **(B) 307,500**
+
+---
