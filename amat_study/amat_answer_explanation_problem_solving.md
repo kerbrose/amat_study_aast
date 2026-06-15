@@ -2214,3 +2214,24 @@ $2 \times 225 = 450$
 ✅ Correct choice: **(D) $450**
 
 ---
+
+## Q172PS60
+We’re told:
+
+- Goods up to **\$500** → tax free.
+- Any amount **above \$500** → taxed at **8%**.
+- Tourist imports goods worth **\$730**.
+
+### Step 1: Find taxable portion
+$730 - 500 = 230$
+
+### Step 2: Apply tax rate
+$0.08 \times 230 = 18.40$
+
+### Step 3: Answer
+✅ The tourist must pay **\$18.40** in tax.
+
+Correct choice: **(D) \$18.40**
+
+---
+
