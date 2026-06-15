@@ -2197,3 +2197,20 @@ $x = 1$
 
 ---
 
+## Q171PS59
+We’re told the Johnsons’ budget allocations are in the ratio **5 : 2 : 1** for household, food, and miscellaneous, with a total of **$1,800**.
+
+### Step 1: Sum of ratio parts
+$5 + 2 + 1 = 8 \text{ parts}$
+
+### Step 2: Value of one part
+$\frac{1800}{8} = 225$
+
+### Step 3: Food allocation
+Food corresponds to **2 parts**:
+
+$2 \times 225 = 450$
+
+✅ Correct choice: **(D) $450**
+
+---
