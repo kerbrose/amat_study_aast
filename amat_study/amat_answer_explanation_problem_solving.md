@@ -2120,3 +2120,27 @@ $15\% \times 360^\circ = 0.15 \times 360 = 54^\circ$
 ✅ Correct choice: **(C) 54°**
 
 ---
+
+## Q168PS56
+
+### Step 1: Work rates
+- Pipe 1 fills the tank in 5 hours → rate = $\tfrac{1}{5}$ tank/hour.
+- Pipe 2 fills the tank in 3 hours → rate = $\tfrac{1}{3}$ tank/hour.
+
+Together:
+
+$\frac{1}{5} + \frac{1}{3} = \frac{3}{15} + \frac{5}{15} = \frac{8}{15} \text{ tank/hour}$
+
+
+### Step 2: Time to fill $\tfrac{2}{3}$ of the tank
+$\text{Time} = \frac{\text{Work}}{\text{Rate}} = \frac{\tfrac{2}{3}}{\tfrac{8}{15}}$
+
+Simplify:
+
+$\frac{2}{3} \times \frac{15}{8} = \frac{30}{24} = \frac{5}{4} \, \text{hours}$
+
+
+### Step 3: Answer
+✅ Correct choice: **(C) $\tfrac{5}{4}$ hr**
+
+---
