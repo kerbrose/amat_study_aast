@@ -2293,3 +2293,26 @@ $600 - 430 = 170$
 Correct choice: **(B) \$170**  
 
 ---
+
+## Q175PS63
+
+We’re asked about weekly revenue when calculators sell according to:
+
+$n = 300 - 20p$
+
+where $n$ = number sold, $p$ = price in dollars.
+
+### Step 1: Plug in $p = 10$  
+$n = 300 - 20(10) = 300 - 200 = 100$
+
+So 100 calculators are sold at \$10 each.
+
+### Step 2: Compute revenue  
+$\text{Revenue} = n \times p = 100 \times 10 = 1000$
+
+### Step 3: Answer  
+✅ The total weekly revenue is **\$1,000**.  
+
+Correct choice: **(C) \$1,000**
+
+---
