@@ -2235,3 +2235,41 @@ Correct choice: **(D) \$18.40**
 
 ---
 
+## Q173PS61
+
+### Step 1: Condition
+We’re told **x and y are positive integers, not both odd**.
+So at least one of them is even.
+
+### Step 2: Check each option
+
+**(A) $xy$**
+- If one is even, the product is even.
+- ✅ Always even.
+
+**(B) $x+y$**
+- Example: $x=2, y=2$ → sum = 4 (even).
+- But if $x=2, y=3$ → sum = 5 (odd).
+- ❌ Not always even.
+
+**(C) $x-y$**
+- Example: $x=2, y=2$ → difference = 0 (even).
+- But $x=2, y=3$ → difference = -1 (odd).
+- ❌ Not always even.
+
+**(D) $x+y-1$**
+- Example: $x=2, y=2$ → 3 (odd).
+- ❌ Not always even.
+
+**(E) $2(x+y)-1$**
+- Always odd (since $2(x+y)$ is even, subtracting 1 makes it odd).
+- ❌ Not even.
+
+
+
+### Step 3: Conclusion
+The only expression that **must be even** is:
+
+✅ **Answer: (A) $xy$**
+
+---
