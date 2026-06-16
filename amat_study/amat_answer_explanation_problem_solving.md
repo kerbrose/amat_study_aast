@@ -2316,3 +2316,23 @@ $\text{Revenue} = n \times p = 100 \times 10 = 1000$
 Correct choice: **(C) \$1,000**
 
 ---
+
+## Q177PS65
+
+We’re told:  
+
+- 6 machines produce **270 bottles per minute**.  
+- All machines are identical and run at the same constant rate.  
+
+### Step 1: Rate per machine  
+$\frac{270}{6} = 45 \text{ bottles per minute per machine}$
+
+### Step 2: Rate for 10 machines  
+$10 \times 45 = 450 \text{ bottles per minute}$
+
+### Step 3: Bottles in 4 minutes  
+$450 \times 4 = 1800$
+
+✅ Correct choice: **(B) 1,800**
+
+---
