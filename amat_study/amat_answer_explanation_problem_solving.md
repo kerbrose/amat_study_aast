@@ -2273,3 +2273,23 @@ The only expression that **must be even** is:
 ✅ **Answer: (A) $xy$**
 
 ---
+
+## Q174PS62
+
+We want John’s **average commission** over 4 sales to be exactly \$150.  
+
+### Step 1: Total needed for 4 sales  
+$150 \times 4 = 600$
+
+### Step 2: Current total from 3 sales  
+$240 + 80 + 110 = 430$
+
+### Step 3: Required 4th commission  
+$600 - 430 = 170$
+
+### Step 4: Answer  
+✅ The 4th commission must be **\$170**.  
+
+Correct choice: **(B) \$170**  
+
+---
