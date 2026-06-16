@@ -2197,3 +2197,142 @@ $x = 1$
 
 ---
 
+## Q171PS59
+We’re told the Johnsons’ budget allocations are in the ratio **5 : 2 : 1** for household, food, and miscellaneous, with a total of **$1,800**.
+
+### Step 1: Sum of ratio parts
+$5 + 2 + 1 = 8 \text{ parts}$
+
+### Step 2: Value of one part
+$\frac{1800}{8} = 225$
+
+### Step 3: Food allocation
+Food corresponds to **2 parts**:
+
+$2 \times 225 = 450$
+
+✅ Correct choice: **(D) $450**
+
+---
+
+## Q172PS60
+We’re told:
+
+- Goods up to **\$500** → tax free.
+- Any amount **above \$500** → taxed at **8%**.
+- Tourist imports goods worth **\$730**.
+
+### Step 1: Find taxable portion
+$730 - 500 = 230$
+
+### Step 2: Apply tax rate
+$0.08 \times 230 = 18.40$
+
+### Step 3: Answer
+✅ The tourist must pay **\$18.40** in tax.
+
+Correct choice: **(D) \$18.40**
+
+---
+
+## Q173PS61
+
+### Step 1: Condition
+We’re told **x and y are positive integers, not both odd**.
+So at least one of them is even.
+
+### Step 2: Check each option
+
+**(A) $xy$**
+- If one is even, the product is even.
+- ✅ Always even.
+
+**(B) $x+y$**
+- Example: $x=2, y=2$ → sum = 4 (even).
+- But if $x=2, y=3$ → sum = 5 (odd).
+- ❌ Not always even.
+
+**(C) $x-y$**
+- Example: $x=2, y=2$ → difference = 0 (even).
+- But $x=2, y=3$ → difference = -1 (odd).
+- ❌ Not always even.
+
+**(D) $x+y-1$**
+- Example: $x=2, y=2$ → 3 (odd).
+- ❌ Not always even.
+
+**(E) $2(x+y)-1$**
+- Always odd (since $2(x+y)$ is even, subtracting 1 makes it odd).
+- ❌ Not even.
+
+
+
+### Step 3: Conclusion
+The only expression that **must be even** is:
+
+✅ **Answer: (A) $xy$**
+
+---
+
+## Q174PS62
+
+We want John’s **average commission** over 4 sales to be exactly \$150.  
+
+### Step 1: Total needed for 4 sales  
+$150 \times 4 = 600$
+
+### Step 2: Current total from 3 sales  
+$240 + 80 + 110 = 430$
+
+### Step 3: Required 4th commission  
+$600 - 430 = 170$
+
+### Step 4: Answer  
+✅ The 4th commission must be **\$170**.  
+
+Correct choice: **(B) \$170**  
+
+---
+
+## Q175PS63
+
+We’re asked about weekly revenue when calculators sell according to:
+
+$n = 300 - 20p$
+
+where $n$ = number sold, $p$ = price in dollars.
+
+### Step 1: Plug in $p = 10$  
+$n = 300 - 20(10) = 300 - 200 = 100$
+
+So 100 calculators are sold at \$10 each.
+
+### Step 2: Compute revenue  
+$\text{Revenue} = n \times p = 100 \times 10 = 1000$
+
+### Step 3: Answer  
+✅ The total weekly revenue is **\$1,000**.  
+
+Correct choice: **(C) \$1,000**
+
+---
+
+## Q177PS65
+
+We’re told:  
+
+- 6 machines produce **270 bottles per minute**.  
+- All machines are identical and run at the same constant rate.  
+
+### Step 1: Rate per machine  
+$\frac{270}{6} = 45 \text{ bottles per minute per machine}$
+
+### Step 2: Rate for 10 machines  
+$10 \times 45 = 450 \text{ bottles per minute}$
+
+### Step 3: Bottles in 4 minutes  
+$450 \times 4 = 1800$
+
+✅ Correct choice: **(B) 1,800**
+
+---
